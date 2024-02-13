@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make an official complaint about something: ","wordDefPhrases":["The US lodged a formal protest against the arrest of the foreign reporters."],"wordExamples":[]}

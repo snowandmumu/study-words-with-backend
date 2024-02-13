@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the top or highest part of something such as a wave or a hill: ","wordDefPhrases":["the crest of a hill/wave"],"wordExamples":[]}

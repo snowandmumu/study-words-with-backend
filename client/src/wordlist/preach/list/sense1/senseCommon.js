@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"(especially of a priest or minister in a church) to give a religious speech: ","wordDefPhrases":["Father Martin preached to the assembled mourners.","During the sermon, he preached about the need for forgiveness."],"wordExamples":[]}

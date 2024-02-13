@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a \n        \n         vacuum cleaner  ","wordDefPhrases":[],"wordExamples":[]}

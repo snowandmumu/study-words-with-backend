@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"abdominals, muscles in the abdomen: ","wordDefPhrases":["exercises to tone/build up your abs"],"wordExamples":[]}

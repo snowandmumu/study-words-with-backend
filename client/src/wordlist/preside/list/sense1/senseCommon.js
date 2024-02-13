@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to be in charge of a formal meeting, ceremony, or trial: ","wordDefPhrases":["Who would be the best person to preside at/over the public enquiry?","Judge Langdale is to preside over the official enquiry into the case."],"wordExamples":[]}

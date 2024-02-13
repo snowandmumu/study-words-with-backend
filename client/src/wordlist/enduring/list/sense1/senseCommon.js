@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"existing for a long time: ","wordDefPhrases":["the enduring appeal of cartoons","I shall be left with many enduring memories of the time I spent in India."],"wordExamples":[]}

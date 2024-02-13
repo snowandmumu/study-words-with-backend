@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/briːd/","us":"/briːd/"},"wordClass":"verb"}

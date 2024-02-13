@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"controlling behaviour in a severe way: ","wordDefPhrases":["the rigorous controls governing the sale of shares"],"wordExamples":[]}

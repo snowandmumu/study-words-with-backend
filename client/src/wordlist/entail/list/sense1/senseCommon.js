@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make something necessary, or to involve something: ","wordDefPhrases":["Such a large investment inevitably entails some risk.","Repairing the roof will entail spending a lot of money."],"wordExamples":[]}

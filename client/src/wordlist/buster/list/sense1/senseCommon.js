@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"used to address a man or a boy you do not like: ","wordDefPhrases":["Cut it out, buster!"],"wordExamples":[]}

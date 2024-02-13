@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"the highest point of a mountain: ","wordDefPhrases":["On this day in 1784, Dr Michel Paccard and Jacques Balmat reached the summit of Mont Blanc.","I certainly haven't reached the summit of my career."],"wordExamples":[]}

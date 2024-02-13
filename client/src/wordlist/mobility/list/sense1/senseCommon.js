@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the ability to move freely or be easily moved: ","wordDefPhrases":["Some neck injuries cause total loss of mobility below the point of injury.","I prefer the mobility of a hand-held camera."],"wordExamples":[]}

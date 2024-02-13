@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not known to many people: ","wordDefPhrases":["an obscure island in the Pacific","an obscure 12th-century mystic"],"wordExamples":[]}

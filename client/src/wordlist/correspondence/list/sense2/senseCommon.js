@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a connection between two things: ","wordDefPhrases":["The survey found no correspondence between crime and unemployment rates."],"wordExamples":[]}

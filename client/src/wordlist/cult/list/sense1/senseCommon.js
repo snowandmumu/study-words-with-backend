@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a religious group, often living together, whose beliefs are considered extreme or strange by many people: ","wordDefPhrases":["Their son ran away from home and joined a religious cult.","the Hindu cult of Shiva"],"wordExamples":[]}

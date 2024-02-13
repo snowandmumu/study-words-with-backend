@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a space from which most or all of the matter has been removed, or where there is little or no matter ","wordDefPhrases":["The withdrawal of troops from the area has created a security vacuum which will need to be filled.","No artist works in a vacuum - we are all of us influenced by others."],"wordExamples":[]}

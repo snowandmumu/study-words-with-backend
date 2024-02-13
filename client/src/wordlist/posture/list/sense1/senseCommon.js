@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"the way in which someone usually holds their shoulders, neck, and back, or a particular position in which someone stands, sits, etc.: ","wordDefPhrases":["She's got very good/bad posture.","He always adopts/assumes (= moves into) the same posture for the cameras."],"wordExamples":[]}

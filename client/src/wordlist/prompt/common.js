@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prɒmpt/","us":"/prɑːmpt/"},"wordClass":"verb"}

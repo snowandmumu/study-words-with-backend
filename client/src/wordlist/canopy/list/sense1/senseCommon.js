@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a cover fixed over a seat or bed, etc. for shelter or decoration","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to Canada and its people","wordDefPhrases":[],"wordExamples":[]}

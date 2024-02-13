@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"someone who has never had sex: ","wordDefPhrases":["She remained a virgin until she was over thirty.","Do you think he's still a virgin?"],"wordExamples":["He wants to marry a virgin.","She was a virgin until she was 30.","He is a political virgin."]}

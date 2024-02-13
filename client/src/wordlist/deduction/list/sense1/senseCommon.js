@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"the process of reaching a decision or answer by thinking about the known facts, or the decision that is reached: ","wordDefPhrases":["Through a process of deduction, the detectives discovered the identity of the killer.","All we can do is make deductions from the available facts."],"wordExamples":[]}

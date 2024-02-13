@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a woman's breasts, or the measurement around a woman's breasts and back: ","wordDefPhrases":["I couldn't find any blouses in my bust size."],"wordExamples":[]}

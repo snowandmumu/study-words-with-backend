@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a low continuous noise that does not change its note: ","wordDefPhrases":["the drone of an engine","Outside the tent I could hear the constant drone of insects.","The drone of his voice made me feel sleepy."],"wordExamples":[]}

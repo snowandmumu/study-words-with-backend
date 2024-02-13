@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"B2","wordDef":"except for: ","wordDefPhrases":["Money continues to be a problem but aside from that we're all well."],"wordExamples":[]}

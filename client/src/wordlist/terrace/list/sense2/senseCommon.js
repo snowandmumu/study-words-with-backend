@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a row of often small houses joined together along their side walls","wordDefPhrases":[],"wordExamples":[]}

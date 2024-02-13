@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/tæb/","us":"/tæb/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to Vietnam, its people, or its language","wordDefPhrases":[],"wordExamples":[]}

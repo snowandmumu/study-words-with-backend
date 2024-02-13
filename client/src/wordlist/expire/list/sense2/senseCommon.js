@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to die: ","wordDefPhrases":["He ceased to breathe, gently expiring without any struggle at the age of 90.","In 1936 the last Tasmanian tiger breathed its final breath and expired in a zoo in Hobart."],"wordExamples":[]}

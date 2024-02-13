@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/flɪŋ/","us":"/flɪŋ/"},"wordClass":"verb"}

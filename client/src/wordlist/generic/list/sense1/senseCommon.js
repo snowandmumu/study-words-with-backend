@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"shared by, typical of, or relating to a whole group of similar things, rather than to any particular thing: ","wordDefPhrases":["The new range of engines all had a generic problem with their fan blades."],"wordExamples":[]}

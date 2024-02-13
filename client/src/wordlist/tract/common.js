@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/trækt/","us":"/trækt/"},"wordClass":"noun"}

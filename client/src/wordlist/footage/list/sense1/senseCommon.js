@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(a piece of) film especially one showing an event: ","wordDefPhrases":["Woody Allen's movie \"Zelig\" contains early newsreel footage."],"wordExamples":[]}

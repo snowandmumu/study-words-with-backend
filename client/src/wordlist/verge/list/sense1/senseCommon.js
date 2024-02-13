@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the edge or border of something: ","wordDefPhrases":["They set up camp on the verge of the desert.","She left her car by the side of the road and walked along the grass verge to the emergency phone."],"wordExamples":[]}

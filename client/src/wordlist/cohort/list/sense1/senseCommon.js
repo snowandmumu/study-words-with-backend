@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a group of people who share a characteristic, usually age: ","wordDefPhrases":["This study followed up a cohort of 386 patients aged 65+ for six months after their discharge home.","The Mayor and his cohorts have abused their positions of power."],"wordExamples":[]}

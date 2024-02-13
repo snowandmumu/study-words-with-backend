@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"showing little activity; not busy or happening in a positive way: ","wordDefPhrases":["Business is always slack at this time of year.","Discipline in Mr Brown's class has become very slack recently.","The job is taking a long time because the workmen are so slack."],"wordExamples":[]}

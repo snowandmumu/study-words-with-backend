@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the same as or equal to someone or something: ","wordDefPhrases":["The regeneration of the city's downtown dock front will put it on a par with Nice or Cannes."],"wordExamples":[]}

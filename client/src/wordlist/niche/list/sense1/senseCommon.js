@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a job or position that is very suitable for someone, especially one that they like: ","wordDefPhrases":["He has carved/made a niche for himself as a financial advisor.","an ecological niche"],"wordExamples":[]}

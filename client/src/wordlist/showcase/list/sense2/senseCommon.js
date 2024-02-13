@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a situation or event that makes it possible for the best features of something to be seen: ","wordDefPhrases":["The Venice Film Festival has always been the showcase of Italian cinema.","The exhibition is an annual showcase for British design and innovation."],"wordExamples":[]}

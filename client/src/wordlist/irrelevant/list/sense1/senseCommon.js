@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"not related to what is being discussed or considered and therefore not important: ","wordDefPhrases":["These documents are largely irrelevant to the present investigation.","Making a large profit is irrelevant to us - the important thing is to make the book available to the largest possible audience."],"wordExamples":[]}

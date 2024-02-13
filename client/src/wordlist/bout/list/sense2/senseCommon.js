@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a boxing or wrestling match: ","wordDefPhrases":["He's a former heavyweight champion and is expected to win the bout easily."],"wordExamples":[]}

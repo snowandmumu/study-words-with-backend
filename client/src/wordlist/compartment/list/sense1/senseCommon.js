@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"one of the separate areas inside a vehicle, especially a train: ","wordDefPhrases":["a first-class compartment","a fridge with a small freezer compartment","the sleeping/inner compartment in a tent","The knee joint is composed of three compartments and ligaments that stabilize the joint."],"wordExamples":[]}

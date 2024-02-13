@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the bark (= hard outer covering) of a tropical tree, or a brown powder made from this, used as a spice to give a particular taste to food, especially sweet food: ","wordDefPhrases":["a cinnamon stick"],"wordExamples":[]}

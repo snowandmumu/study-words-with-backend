@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make a judgment about something, usually people's feelings: ","wordDefPhrases":["A poll was conducted to gauge consumers' attitudes.","It's difficult to gauge how they'll react."],"wordExamples":[]}

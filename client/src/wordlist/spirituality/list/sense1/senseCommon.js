@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the quality that involves deep feelings and beliefs of a religious nature, rather than the physical parts of life","wordDefPhrases":[],"wordExamples":[]}

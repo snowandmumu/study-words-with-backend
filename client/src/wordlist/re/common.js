@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/riː/","us":"/riː/"},"wordClass":"preposition"}

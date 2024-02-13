@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a statement or proof that something is true: ","wordDefPhrases":["We are still awaiting confirmation of the exact number of casualties.","Her confession was no surprise to him - just the confirmation of a long-held suspicion."],"wordExamples":[]}

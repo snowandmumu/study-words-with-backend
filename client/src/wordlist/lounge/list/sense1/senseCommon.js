@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a room in a hotel, airport, theatre, etc. where people can relax or wait: ","wordDefPhrases":["an airport lounge","a cocktail lounge","All the family were sitting in the lounge watching television."],"wordExamples":[]}

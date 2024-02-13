@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"full of problems or difficulties: ","wordDefPhrases":["Getting everyone there on time might prove problematic."],"wordExamples":[]}

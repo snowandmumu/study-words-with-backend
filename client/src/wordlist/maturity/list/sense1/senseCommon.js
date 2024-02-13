@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the quality of behaving mentally and emotionally like an adult","wordDefPhrases":[],"wordExamples":[]}

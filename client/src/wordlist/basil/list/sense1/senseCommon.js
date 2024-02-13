@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a herb with a sweet smell that is used to add flavour in cooking","wordDefPhrases":[],"wordExamples":[]}

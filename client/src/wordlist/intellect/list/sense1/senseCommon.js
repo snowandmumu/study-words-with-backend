@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the ability to understand and to think in an intelligent way: ","wordDefPhrases":["Her energy and intellect are respected all over the world.","He is a man more noted for his intellect than his charm."],"wordExamples":[]}

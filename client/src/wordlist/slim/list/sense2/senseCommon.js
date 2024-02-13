@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"very small: ","wordDefPhrases":["They only have a slim chance of winning (= it's unlikely that they will win)."],"wordExamples":[]}

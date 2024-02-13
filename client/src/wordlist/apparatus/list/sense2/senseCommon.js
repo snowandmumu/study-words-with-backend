@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an organization or system, especially a political one: ","wordDefPhrases":["The whole apparatus of communism was already falling apart."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/drəʊn/","us":"/droʊn/"},"wordClass":"noun"}

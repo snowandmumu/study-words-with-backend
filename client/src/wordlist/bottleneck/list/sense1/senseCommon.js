@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a place where a road becomes narrow, or a place where there is often a lot of traffic, causing the traffic to slow down or stop: ","wordDefPhrases":["The construction work is causing bottlenecks in the city centre.","Is there any way of getting around this bureaucratic bottleneck?"],"wordExamples":[]}

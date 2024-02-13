@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to breathe air, smoke, or gas into your lungs: ","wordDefPhrases":["She flung open the window and inhaled deeply.","She became ill shortly after inhaling the fumes."],"wordExamples":[]}

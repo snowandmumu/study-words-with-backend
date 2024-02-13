@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"A pastoral piece of art, writing, or music represents the pleasant and traditional features of the countryside: ","wordDefPhrases":["The painting depicts an idyllic pastoral scene of shepherds watching over their grazing sheep."],"wordExamples":[]}

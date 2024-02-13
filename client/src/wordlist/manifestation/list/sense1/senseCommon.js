@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a sign of something existing or happening: ","wordDefPhrases":["She claimed that the rise in unemployment was just a further manifestation of the government's incompetence.","Unlike acid rain or deforestation, global warming has no visible manifestation."],"wordExamples":[]}

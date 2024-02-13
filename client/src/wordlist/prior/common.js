@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/praɪər/","us":"/praɪr/"},"wordClass":"adjective"}

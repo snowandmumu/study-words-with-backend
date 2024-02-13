@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"(of a wish or an idea) to take control over a person's mind, making that person behave in a very strange way: ","wordDefPhrases":["Whatever possessed him to wear that appalling jacket!"],"wordExamples":[]}

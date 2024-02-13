@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"(of land) the quality of producing a large number of good quality crops: ","wordDefPhrases":["the fertility of the soil"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/stɪər/","us":"/stɪr/"},"wordClass":"verb"}

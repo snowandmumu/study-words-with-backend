@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"staying in one place without moving, or not changing for a long time: ","wordDefPhrases":["Oil prices have remained static for the last few months."],"wordExamples":[]}

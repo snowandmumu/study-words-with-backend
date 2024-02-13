@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the fact of not allowing someone to do or have something: ","wordDefPhrases":["a gross denial of justice"],"wordExamples":[]}

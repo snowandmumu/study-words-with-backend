@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a small evergreen tree (= one that never loses its leaves) that has shiny leaves and small, black fruit","wordDefPhrases":[],"wordExamples":[]}

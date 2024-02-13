@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make something else seem better or more attractive when combining with it: ","wordDefPhrases":["Strawberries and cream complement each other perfectly.","The music complements her voice perfectly."],"wordExamples":["Do not confuse with compliment."]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an idea that is used many times in a piece of writing or music: ","wordDefPhrases":["The motif of betrayal is crucial in all these stories."],"wordExamples":[]}

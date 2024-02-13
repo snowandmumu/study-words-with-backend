@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rəʊˈbʌst/","us":"/roʊˈbʌst/"},"wordClass":"adjective"}

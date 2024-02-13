@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a good reason or explanation for something: ","wordDefPhrases":["There is no justification for treating people so badly.","It can be said, with some justification, that she is one of the greatest actresses on the English stage today."],"wordExamples":[]}

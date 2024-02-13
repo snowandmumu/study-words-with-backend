@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a deep, narrow valley, especially among mountains: ","wordDefPhrases":["the glens of Scotland","Glen Maye"],"wordExamples":[]}

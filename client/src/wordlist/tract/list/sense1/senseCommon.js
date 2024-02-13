@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a short piece of writing, especially on a religious or political subject, that is intended to influence other people's opinions: ","wordDefPhrases":["a moral/religious/socialist tract","Have you read John Milton's tracts on divorce?"],"wordExamples":[]}

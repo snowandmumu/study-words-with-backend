@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"a particular area of study, especially a subject studied at a college or university","wordDefPhrases":[],"wordExamples":[]}

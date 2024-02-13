@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"C1","wordDef":"not clear, bright, or shiny: ","wordDefPhrases":["We could just see a dull glow given off by the fire's last embers.","The first day of our holiday was dull (= cloudy)."],"wordExamples":[]}

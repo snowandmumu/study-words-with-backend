@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a way of thinking and acting based on facts and what is possible, rather than on hopes for things that are unlikely to happen: ","wordDefPhrases":["His decision not to expand the business shows his down-to-earth realism."],"wordExamples":[]}

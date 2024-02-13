@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to remove water and unwanted substances from fat, such as butter, by heating it","wordDefPhrases":[],"wordExamples":[]}

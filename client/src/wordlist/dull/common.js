@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/dʌl/","us":"/dʌl/"},"wordClass":"adjective"}

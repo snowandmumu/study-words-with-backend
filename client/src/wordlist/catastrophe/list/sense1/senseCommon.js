@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a sudden event that causes very great trouble or destruction: ","wordDefPhrases":["They were warned of the ecological catastrophe to come.","The emigration of scientists is a catastrophe for the country."],"wordExamples":[]}

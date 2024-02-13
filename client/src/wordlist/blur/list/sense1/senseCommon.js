@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"something that you cannot see clearly: ","wordDefPhrases":["If I don't wear my glasses, everything is just a blur.","It all happened so long ago that it's just a blur to me now.","The last few days seem to have gone by in a blur."],"wordExamples":[]}

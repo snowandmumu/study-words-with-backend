@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an amount of money, such as a tax, that you have to pay to a government or organization: ","wordDefPhrases":["They imposed a five percent levy on alcohol."],"wordExamples":[]}

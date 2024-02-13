@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/raɪt/","us":"/raɪt/"},"wordClass":"noun"}

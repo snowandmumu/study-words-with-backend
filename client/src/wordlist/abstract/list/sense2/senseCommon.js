@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"B2","wordDef":"used to refer to a type of painting, drawing, or sculpture that uses shapes, lines, and colour in a way that does not try to represent the appearance of people or things: ","wordDefPhrases":["abstract art","an abstract painter"],"wordExamples":[]}

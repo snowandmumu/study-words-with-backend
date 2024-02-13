@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kruːz/","us":"/kruːz/"},"wordClass":"noun"}

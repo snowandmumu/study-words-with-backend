@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a cloud of gas or dust in space, appearing either bright or dark","wordDefPhrases":[],"wordExamples":[]}

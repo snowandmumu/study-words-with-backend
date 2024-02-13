@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˌmɪdˈwest/","us":"/ˌmɪdˈwest/"},"wordClass":"noun"}

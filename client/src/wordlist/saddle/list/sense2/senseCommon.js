@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a large piece of meat taken from the middle of the back of an animal: ","wordDefPhrases":["saddle of lamb"],"wordExamples":[]}

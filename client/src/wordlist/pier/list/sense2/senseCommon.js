@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a strong thick column used to support a wall, roof, or other structure","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a chemical element that is present in teeth, bones, and chalk","wordDefPhrases":[],"wordExamples":[]}

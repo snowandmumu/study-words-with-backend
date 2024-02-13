@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"very much respected and admired, usually because of being important: ","wordDefPhrases":["a prestigious literary award","a prestigious university"],"wordExamples":[]}

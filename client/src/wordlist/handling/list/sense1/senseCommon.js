@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the way that someone deals with a situation or person: ","wordDefPhrases":["President Kennedy made his reputation with his handling of the Cuban missile crisis."],"wordExamples":[]}

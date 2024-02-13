@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the calculation of how many times one number goes into another","wordDefPhrases":[],"wordExamples":[]}

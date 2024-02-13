@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"one of a group of tall, thin wooden objects that you try to knock down with a ball in the game of tenpin bowling: ","wordDefPhrases":["Two pins were left standing but they were far apart.","The pin wobbled but didn't fall over."],"wordExamples":[]}

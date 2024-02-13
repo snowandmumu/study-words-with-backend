@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the amount of a particular substance that is eaten or drunk during a particular time: ","wordDefPhrases":["It says on the packet that four slices of this bread contains one half of your recommended daily intake of fibre.","The college has increased its intake of students by 50 percent this year."],"wordExamples":[]}

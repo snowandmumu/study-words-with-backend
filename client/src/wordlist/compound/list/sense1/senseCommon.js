@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a chemical that combines two or more elements: ","wordDefPhrases":["Salt is a compound of sodium and chlorine.","Many fertilizers contain nitrogen compounds.","Then there was his manner, a curious compound of humour and severity.","'Bodyguard' and 'floppy disk' are two examples of compounds."],"wordExamples":[]}

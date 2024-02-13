@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˌhɑːfˈtaɪm/","us":"/ˈhæf.taɪm/"},"wordClass":"noun"}

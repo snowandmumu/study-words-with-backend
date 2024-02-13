@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a part of a gun that causes the gun to fire when pressed: ","wordDefPhrases":["It's not clear who actually pulled the trigger."],"wordExamples":[]}

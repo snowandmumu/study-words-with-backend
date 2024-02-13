@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"being an extremely important and basic characteristic of a person or thing: ","wordDefPhrases":["works of little intrinsic value/interest","Maths is an intrinsic part of the school curriculum."],"wordExamples":[]}

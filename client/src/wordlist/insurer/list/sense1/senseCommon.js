@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person or company that insures someone or something: ","wordDefPhrases":["Please contact your insurer if you have any questions."],"wordExamples":[]}

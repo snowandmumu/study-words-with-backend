@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a system of wires through which electricity is connected to different power stations across a region: ","wordDefPhrases":["the national grid"],"wordExamples":[]}

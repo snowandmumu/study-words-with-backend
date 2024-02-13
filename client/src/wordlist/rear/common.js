@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪər/","us":"/rɪr/"},"wordClass":"adjective"}

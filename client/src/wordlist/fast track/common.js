@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈfɑːst ˌtræk/","us":"/ˈfæst ˌtræk/"},"wordClass":"noun"}

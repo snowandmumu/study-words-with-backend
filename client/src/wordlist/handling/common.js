@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈhænd.lɪŋ/","us":"/ˈhænd.lɪŋ/"},"wordClass":"noun"}

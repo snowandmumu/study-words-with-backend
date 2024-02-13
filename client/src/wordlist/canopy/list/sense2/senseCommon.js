@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the branches and leaves that spread out at the top of a group of trees forming a type of roof","wordDefPhrases":[],"wordExamples":[]}

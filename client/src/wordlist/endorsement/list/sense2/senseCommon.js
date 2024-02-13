@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a mark on a driving licence that shows the driver is guilty of driving in an illegal way: ","wordDefPhrases":["He's got a couple of endorsements on his licence already."],"wordExamples":[]}

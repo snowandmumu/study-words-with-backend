@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"someone whose job is to change what someone else is saying into another language: ","wordDefPhrases":["She works as an interpreter in Brussels.","Speaking through an interpreter, the president said the terms of the ceasefire were completely unacceptable."],"wordExamples":[]}

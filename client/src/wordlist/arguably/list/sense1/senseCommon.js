@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"used when stating an opinion or belief that you think can be shown to be true: ","wordDefPhrases":["He is arguably the world's best football player.","Arguably, the drug should not have been made available."],"wordExamples":[]}

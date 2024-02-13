@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/staɪn/","us":"/staɪn/"},"wordClass":"noun"}

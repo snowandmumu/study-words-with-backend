@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to northern Bosnia-Herzegovina, its people, or its language","wordDefPhrases":[],"wordExamples":[]}

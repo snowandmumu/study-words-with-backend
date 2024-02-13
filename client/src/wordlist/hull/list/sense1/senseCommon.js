@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the body or frame of a ship, most of which goes under the water","wordDefPhrases":[],"wordExamples":[]}

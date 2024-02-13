@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to represent a quality or an idea exactly: ","wordDefPhrases":["She embodied good sportsmanship on the playing field.","Kennett embodied in one man an unusual range of science, music, and religion."],"wordExamples":[]}

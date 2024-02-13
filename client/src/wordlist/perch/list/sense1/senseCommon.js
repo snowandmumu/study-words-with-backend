@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to sit on or near the edge of something: ","wordDefPhrases":["We perched on bar stools and had a beer.","The village is perched on top of a high hill."],"wordExamples":[]}

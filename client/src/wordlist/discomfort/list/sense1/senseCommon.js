@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a feeling of being uncomfortable physically or mentally, or something that causes this: ","wordDefPhrases":["You may feel a little discomfort for a few days after the operation."],"wordExamples":[]}

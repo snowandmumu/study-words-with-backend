@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"//","us":"/stəˈtɪs·tɪksstæts/"},"wordClass":"plural noun"}

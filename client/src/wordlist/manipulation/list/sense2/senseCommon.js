@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"treatment of a part of the body using the hands: ","wordDefPhrases":["Osteopathy involves massage and manipulation of the bones and joints."],"wordExamples":[]}

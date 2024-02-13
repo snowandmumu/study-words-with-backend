@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/reɪd/","us":"/reɪd/"},"wordClass":"noun"}

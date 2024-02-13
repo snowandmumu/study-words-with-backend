@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"grass or similar plants suitable for animals such as cows and sheep to eat, or an area of land covered in this: ","wordDefPhrases":["The sheep were grazing on the lush green pastures.","Some fields are planted with crops for several years, and then returned to pasture for the cattle."],"wordExamples":[]}

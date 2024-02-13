@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"If a law court or a grand jury indicts someone, it accuses them officially of a crime: ","wordDefPhrases":["He was indicted on drug charges at Snaresbrook Crown Court.","Five people were indicted for making and selling counterfeit currency."],"wordExamples":[]}

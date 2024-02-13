@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a wide road for fast-moving traffic, especially in the US, with a limited number of places at which drivers can enter and leave it: ","wordDefPhrases":["the Santa Monica freeway"],"wordExamples":[]}

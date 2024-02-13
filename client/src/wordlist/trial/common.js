@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/traɪəl/","us":"/traɪəl/"},"wordClass":"noun"}

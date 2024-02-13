@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɡlen/","us":"/ɡlen/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who gives information to another person or organization: ","wordDefPhrases":["a police/secret informant","Our survey is based on information from over 200 informants."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the careful and detailed examination of something in order to get information about it: ","wordDefPhrases":["The government's record will be subjected to/come under (close) scrutiny in the weeks before the election."],"wordExamples":[]}

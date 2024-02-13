@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a cloth usually made from silk or cotton with a thick, soft surface: ","wordDefPhrases":["Her skin was as soft as velvet."],"wordExamples":[]}

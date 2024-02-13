@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"extremely violent, wild, or frightening: ","wordDefPhrases":["a savage dog/beast","a brutal and savage attack","savage criticism","savage cuts in education spending"],"wordExamples":[]}

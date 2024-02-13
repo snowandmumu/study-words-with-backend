@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/hʌb/","us":"/hʌb/"},"wordClass":"noun"}

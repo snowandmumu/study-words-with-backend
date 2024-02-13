@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈzent.mənt/","us":"/rɪˈzent.mənt/"},"wordClass":"noun"}

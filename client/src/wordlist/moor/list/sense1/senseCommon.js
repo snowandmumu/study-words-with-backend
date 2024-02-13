@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an open area of hills covered with rough grass, especially in Britain: ","wordDefPhrases":["the Yorkshire moors"],"wordExamples":[]}

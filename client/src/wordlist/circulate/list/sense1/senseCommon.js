@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to go around or through something, or to make something go around or through something: ","wordDefPhrases":["Hot water circulates through the heating system.","I've circulated a good luck card for everyone to sign.","I try to circulate at a party and not just stay with the friends I came with."],"wordExamples":[]}

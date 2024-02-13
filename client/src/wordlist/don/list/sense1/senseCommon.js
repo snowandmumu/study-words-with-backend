@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a lecturer (= a college teacher), especially at Oxford or Cambridge University in England","wordDefPhrases":[],"wordExamples":[]}

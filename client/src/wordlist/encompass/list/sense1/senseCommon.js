@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to include different types of things: ","wordDefPhrases":["The festival is to encompass everything from music, theatre, and ballet to literature, cinema, and the visual arts."],"wordExamples":[]}

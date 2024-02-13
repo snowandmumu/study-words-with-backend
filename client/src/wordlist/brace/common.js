@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/breɪs/","us":"/breɪs/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who is very interested in and involved with a particular subject or activity: ","wordDefPhrases":["a keep-fit enthusiast","a model-aircraft enthusiast"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to remember clearly an experience that happened in the past: ","wordDefPhrases":["Whenever I smell burning, I relive the final moments of the crash."],"wordExamples":[]}

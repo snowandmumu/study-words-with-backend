@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/stæt/","us":"/stæt/"},"wordClass":"noun"}

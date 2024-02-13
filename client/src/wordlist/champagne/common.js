@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ʃæmˈpeɪn/","us":"/ʃæmˈpeɪn/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"based on ideas or principles: ","wordDefPhrases":["The main weakness of the proposal is conceptual."],"wordExamples":[]}

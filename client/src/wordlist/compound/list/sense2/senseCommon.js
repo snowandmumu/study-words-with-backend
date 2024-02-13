@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an area surrounded by fences or walls that contains a group of buildings: ","wordDefPhrases":["The gates opened and the troops marched into their compound.","The embassy compound has been closed to the public because of a bomb threat."],"wordExamples":[]}

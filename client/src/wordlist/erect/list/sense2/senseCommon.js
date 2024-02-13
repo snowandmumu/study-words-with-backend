@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to raise something to a vertical position: ","wordDefPhrases":["They erected a marquee to accommodate 500 wedding guests."],"wordExamples":[]}

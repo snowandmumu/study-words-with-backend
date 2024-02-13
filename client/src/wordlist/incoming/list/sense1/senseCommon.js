@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"arriving at or coming towards a place: ","wordDefPhrases":["incoming mail/phone calls","an incoming flight","the incoming government","What are the biggest problems faced by the incoming president?","Incoming freshmen (= students in the first year at college) start a week before everyone else."],"wordExamples":[]}

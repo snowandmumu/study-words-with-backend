@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a rude word for something that is not worth anything, not useful, nonsense, or of bad quality: ","wordDefPhrases":["I can't believe she's trying to pass off this crap as art!","I've only read one novel by him and it was a load of crap."],"wordExamples":[]}

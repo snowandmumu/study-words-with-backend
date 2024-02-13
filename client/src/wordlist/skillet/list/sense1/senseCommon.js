@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a \n        \n         frying pan  ","wordDefPhrases":[],"wordExamples":[]}

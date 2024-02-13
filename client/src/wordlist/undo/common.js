@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ʌnˈduː/","us":"/ʌnˈduː/"},"wordClass":"verb"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a list of people's names, often with the jobs they have been given to do: ","wordDefPhrases":["If you look on the duty roster, you'll see when you're working."],"wordExamples":[]}

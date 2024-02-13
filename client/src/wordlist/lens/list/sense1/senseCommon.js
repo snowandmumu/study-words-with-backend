@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a curved piece of glass, plastic, or other transparent material, used in cameras, glasses, and scientific equipment, that makes objects seem closer, larger, smaller, etc.: ","wordDefPhrases":["a camera with a zoom lens"],"wordExamples":[]}

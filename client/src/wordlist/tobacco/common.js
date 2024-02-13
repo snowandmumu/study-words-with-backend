@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/təˈbæk.əʊ/","us":"/təˈbæk.oʊ/"},"wordClass":"noun"}

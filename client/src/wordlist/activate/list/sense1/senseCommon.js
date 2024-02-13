@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to cause something to start: ","wordDefPhrases":["The alarm is activated by the lightest pressure."],"wordExamples":[]}

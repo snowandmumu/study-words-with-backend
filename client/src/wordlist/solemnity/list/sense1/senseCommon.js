@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the quality of being serious: ","wordDefPhrases":["the solemnity of a funeral service","Preparations are being made for the funeral solemnities."],"wordExamples":[]}

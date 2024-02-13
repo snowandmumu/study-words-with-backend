@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/wɪt/","us":"/wɪt/"},"wordClass":"noun"}

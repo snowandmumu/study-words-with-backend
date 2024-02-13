@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈɔː.dɪt/","us":"/ˈɑː.dɪt/"},"wordClass":"verb"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"involving two groups or countries: ","wordDefPhrases":["France and Germany have signed a bilateral agreement to help prevent drug smuggling."],"wordExamples":[]}

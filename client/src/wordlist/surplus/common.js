@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈsɜː.pləs/","us":"/ˈsɝː.pləs/"},"wordClass":"nounadjective"}

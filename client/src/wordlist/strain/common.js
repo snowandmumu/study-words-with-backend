@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/streɪn/","us":"/streɪn/"},"wordClass":"noun"}

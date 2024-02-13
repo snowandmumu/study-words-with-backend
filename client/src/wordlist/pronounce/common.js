@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prəˈnaʊns/","us":"/prəˈnaʊns/"},"wordClass":"verb"}

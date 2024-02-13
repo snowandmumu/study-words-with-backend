@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the feeling or quality of being grateful: ","wordDefPhrases":["deep/eternal gratitude","She sent them a present to show/express her gratitude.","Take this as a token of my gratitude for all your help."],"wordExamples":[]}

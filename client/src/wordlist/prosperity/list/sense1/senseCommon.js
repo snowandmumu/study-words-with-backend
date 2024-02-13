@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"the state of being successful and having a lot of money: ","wordDefPhrases":["A country's future prosperity depends, to an extent, upon the quality of education of its people.","The war was followed by a long period of peace and prosperity."],"wordExamples":[]}

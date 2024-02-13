@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"B2","wordDef":"in a detailed and careful way: ","wordDefPhrases":["We went through the report thoroughly but couldn't find the information anywhere."],"wordExamples":[]}

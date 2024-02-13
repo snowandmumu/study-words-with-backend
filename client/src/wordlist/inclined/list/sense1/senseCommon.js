@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"likely or wanting to do something: ","wordDefPhrases":["Tom is inclined to be lazy.","No one seemed inclined to help.","She's very bright, but she's not academically inclined.","He was inclined to agree with them."],"wordExamples":[]}

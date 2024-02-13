@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to use water to clean the soap or dirt from something: ","wordDefPhrases":["First apply shampoo to hair and then rinse thoroughly.","There was no soap, so I just rinsed my hands with water."],"wordExamples":[]}

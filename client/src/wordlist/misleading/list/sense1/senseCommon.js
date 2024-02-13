@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B2","wordDef":"causing someone to believe something that is not true: ","wordDefPhrases":["misleading information/statements","Adverts must not create a misleading impression."],"wordExamples":[]}

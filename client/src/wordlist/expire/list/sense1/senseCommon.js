@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"If something that lasts for a fixed length of time expires, it comes to an end or stops being in use: ","wordDefPhrases":["My passport expires next month.","The contract between the two companies will expire at the end of the year."],"wordExamples":[]}

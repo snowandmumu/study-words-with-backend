@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a doctor who is also trained in psychiatry","wordDefPhrases":[],"wordExamples":["A psychiatrist was examined on the mental state of the defendant.","The psychiatrist was found guilty of gross professional misconduct.","A psychiatrist was called as an expert witness for the defence."]}

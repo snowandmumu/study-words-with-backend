@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/pleɪɡ/","us":"/pleɪɡ/"},"wordClass":"verb"}

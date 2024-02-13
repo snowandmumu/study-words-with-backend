@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"written abbreviation for\n        \n         petty officer  : ","wordDefPhrases":["PO McLintock"],"wordExamples":[]}

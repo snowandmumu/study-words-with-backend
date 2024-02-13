@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the first example of something, such as a machine or other industrial product, from which all later forms are developed: ","wordDefPhrases":["a prototype for/of a new car"],"wordExamples":[]}

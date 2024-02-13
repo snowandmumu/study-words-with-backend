@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈfaɪd/","us":"/kənˈfaɪd/"},"wordClass":"verb"}

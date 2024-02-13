@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"any of a group of plants that produce acidic fruits with a lot of juice: ","wordDefPhrases":["The field was planted with citrus trees.","Oranges, lemons, limes and grapefruit are types of citrus fruit."],"wordExamples":[]}

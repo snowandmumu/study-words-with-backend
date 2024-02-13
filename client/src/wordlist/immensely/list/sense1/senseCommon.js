@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"extremely: ","wordDefPhrases":["He was immensely popular in his day.","She's an immensely talented young athlete."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"in a way that is not kind or does not show sympathy: ","wordDefPhrases":["I was severely reprimanded by my boss.","\"I will not allow that kind of behaviour in my class,\" the teacher said severely."],"wordExamples":[]}

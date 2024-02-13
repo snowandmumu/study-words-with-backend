@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"having very strong beliefs and often trying to persuade other people to have the same beliefs: ","wordDefPhrases":["Why is it that people who've given up smoking become so evangelical and intolerant of other smokers?"],"wordExamples":[]}

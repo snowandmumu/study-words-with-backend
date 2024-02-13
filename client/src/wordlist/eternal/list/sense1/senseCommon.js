@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"lasting forever or for a very long time: ","wordDefPhrases":["The company is engaged in the eternal search for a product that will lead the market.","Will you two never stop your eternal arguing!"],"wordExamples":[]}

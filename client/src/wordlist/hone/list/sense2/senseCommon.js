@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make something perfect or completely suitable for its purpose: ","wordDefPhrases":["His physique was honed to perfection.","Her debating skills were honed in the students' union."],"wordExamples":[]}

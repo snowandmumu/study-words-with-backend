@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"relating to plays and acting: ","wordDefPhrases":["She bought me the complete dramatic works (= texts to be performed) of Brecht for my birthday.","the American Academy of Dramatic Arts","the Royal Academy of Dramatic Arts"],"wordExamples":[]}

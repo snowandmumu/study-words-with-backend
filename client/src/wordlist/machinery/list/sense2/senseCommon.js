@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the structure and systems of an organization or process: ","wordDefPhrases":["bureaucratic/political/decision-making machinery","the machinery of government"],"wordExamples":[]}

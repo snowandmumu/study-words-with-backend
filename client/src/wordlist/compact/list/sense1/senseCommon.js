@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"consisting of parts that are positioned together closely or in a tidy way, using very little space: ","wordDefPhrases":["compact soil/sand","a compact camera/bag","What a compact office! How did you fit so much into so little space?"],"wordExamples":[]}

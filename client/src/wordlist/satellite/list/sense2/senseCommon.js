@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a country controlled by or depending on a more powerful country","wordDefPhrases":[],"wordExamples":[]}

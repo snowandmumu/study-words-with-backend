@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"making you remember or imagine something pleasant: ","wordDefPhrases":["Her films are always set in beautiful locations and accompanied by evocative music.","a sound evocative of the sea"],"wordExamples":[]}

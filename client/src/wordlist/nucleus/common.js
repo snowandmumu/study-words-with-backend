@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈnjuː.kli.əsˈnjuː.kli.aɪ/","us":"/ˈnuː.kli.əsˈnuː.kli.aɪ/"},"wordClass":"noun"}

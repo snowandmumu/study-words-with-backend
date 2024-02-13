@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"A2","wordDef":"a person's job: ","wordDefPhrases":["In the space marked \"occupation\" she wrote \"police officer\".","Occupations experiencing shortages will need an average of 47% more graduates to meet demand."],"wordExamples":[]}

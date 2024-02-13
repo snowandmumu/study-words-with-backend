@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the management of relationships between countries: ","wordDefPhrases":["Diplomacy has so far failed to bring an end to the fighting.","It took all her tact and diplomacy to persuade him not to resign."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an important skill that is needed to do a job: ","wordDefPhrases":["managerial competencies"],"wordExamples":[]}

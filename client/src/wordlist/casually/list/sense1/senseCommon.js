@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"B2","wordDef":"in a way that is not formal or not suitable for a special or official occasion: ","wordDefPhrases":["She was dressed casually in shorts and a T-shirt."],"wordExamples":["She wears a casually chic sweater. ","The staff were all casually clothed.","He dressed casually for the interview in civilian clothes."]}

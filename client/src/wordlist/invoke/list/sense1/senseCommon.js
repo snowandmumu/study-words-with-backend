@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to use a law in order to achieve something, or to mention something in order to explain something or to support your opinion or action: ","wordDefPhrases":["Police can invoke the law to regulate access to these places.","Their sacred dance is performed to invoke ancient gods."],"wordExamples":[]}

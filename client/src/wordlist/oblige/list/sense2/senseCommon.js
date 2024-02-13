@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to please or help someone, especially by doing something they have asked you to do: ","wordDefPhrases":["We only went to the party to oblige some old friends who asked us to be there.","We needed a guide and he was only too happy to oblige."],"wordExamples":[]}

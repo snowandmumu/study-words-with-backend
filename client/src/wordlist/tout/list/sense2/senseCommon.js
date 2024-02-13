@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to sell tickets for something such as a sports game or theatre performance unofficially, usually at a much higher price than the official price: ","wordDefPhrases":["£30 seats for the match were being touted for £500."],"wordExamples":[]}

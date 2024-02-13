@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"someone or something that has become very popular with a particular group of people: ","wordDefPhrases":["the cult of celebrity"],"wordExamples":[]}

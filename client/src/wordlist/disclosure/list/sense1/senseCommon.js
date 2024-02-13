@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the act of making something known or the fact that is made known: ","wordDefPhrases":["Any public disclosure of this information would be very damaging to the company.","The newspaper made damaging disclosures of management incompetence."],"wordExamples":[]}

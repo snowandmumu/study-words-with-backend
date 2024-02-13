@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"more important: ","wordDefPhrases":["Mothers with young children have a prior claim on funds."],"wordExamples":[]}

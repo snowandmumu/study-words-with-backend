@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the act of saying that you approve of or support something or someone: ","wordDefPhrases":["The campaign hasn't received any political endorsements.","He hoped to secure quick endorsement of the plan from the president.","products that carry an endorsement from a celebrity"],"wordExamples":[]}

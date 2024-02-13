@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a public swimming pool that is outside, or part of a beach where people can swim, lie in the sun, or do water sports","wordDefPhrases":[],"wordExamples":[]}

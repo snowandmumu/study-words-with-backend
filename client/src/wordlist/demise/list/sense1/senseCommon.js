@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the death of a person: ","wordDefPhrases":["Much has been written about the circumstances surrounding her demise.","The demise of the company was sudden and unexpected."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"continuing on from a particular point in time, especially after something else has stopped happening: ","wordDefPhrases":["He left the priesthood in 1970 and settled in the Washington area shortly thereafter (= soon after that)."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/bʌst/","us":"/bʌst/"},"wordClass":"noun"}

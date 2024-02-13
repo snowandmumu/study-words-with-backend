@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to care for something or someone: ","wordDefPhrases":["He carefully tended his sunflower plants.","The nurse gently tended the patient's cuts and bruises."],"wordExamples":[]}

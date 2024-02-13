@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"not exactly: ","wordDefPhrases":["This phrase can be loosely translated as \"Go away!\"","The film is loosely based on the novel by Kundera."],"wordExamples":[]}

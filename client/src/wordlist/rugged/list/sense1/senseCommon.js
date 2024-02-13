@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"(of land) wild and not even; not easy to travel over: ","wordDefPhrases":["rugged landscape/terrain/hills/cliffs"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to the position, area, and size of things: ","wordDefPhrases":["This task is designed to test children's spatial awareness (= their understanding of where things are in relation to other things)."],"wordExamples":[]}

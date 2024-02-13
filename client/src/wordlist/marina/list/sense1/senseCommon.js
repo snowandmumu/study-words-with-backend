@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a small port that is used for pleasure rather than trade, often with hotels, restaurants, and bars","wordDefPhrases":[],"wordExamples":[]}

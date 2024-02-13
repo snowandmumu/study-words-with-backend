@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to speak something aloud for a person or machine to record what is said, so that it can be written down: ","wordDefPhrases":["I dictated my order over the phone.","She spent the morning dictating letters to her secretary."],"wordExamples":[]}

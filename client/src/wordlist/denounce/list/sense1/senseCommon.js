@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to criticize something or someone strongly and publicly: ","wordDefPhrases":["The government's economic policy has been denounced on all sides.","We must denounce injustice and oppression."],"wordExamples":[]}

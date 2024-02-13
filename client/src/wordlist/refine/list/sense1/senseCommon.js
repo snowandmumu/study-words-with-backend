@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make something pure or improve something, especially by removing unwanted material: ","wordDefPhrases":["Crude oil is industrially refined to purify it and separate out the different elements, such as benzene.","Engineers spent many months refining the software."],"wordExamples":[]}

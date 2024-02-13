@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a bag with wheels and a handle, that you can pull or push along, for carrying things that you have bought","wordDefPhrases":[],"wordExamples":[]}

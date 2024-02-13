@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"connected with marriage: ","wordDefPhrases":["They've been having marital problems, apparently.","You can't expect to live in a state of marital bliss.","marital breakdown"],"wordExamples":[]}

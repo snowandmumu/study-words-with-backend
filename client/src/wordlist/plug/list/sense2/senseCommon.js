@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"B1","wordDef":"a small piece of rubber, plastic, wood, etc. that fits into a hole in order to close it","wordDefPhrases":["a bath plug","Put the plug in the sink and run some water."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a grey powder that is mixed with water and sand to make mortar or with water, sand, and small stones to make concrete: ","wordDefPhrases":["a bag of cement","a cement factory"],"wordExamples":[]}

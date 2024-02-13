@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a member of the National Socialist (German Workers') Party, led by Adolf Hitler, which controlled Germany from 1933 to 1945","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"(an example of) a situation in which there is no fairness and justice: ","wordDefPhrases":["The sight of people suffering arouses a deep sense of injustice in her.","They were aware of the injustices of the system."],"wordExamples":[]}

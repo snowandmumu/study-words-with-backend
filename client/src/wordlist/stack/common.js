@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/stæk/","us":"/stæk/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"someone or something that gives support when needed: ","wordDefPhrases":["She was my anchor when things were difficult for me.","This treaty has been called the anchor (= strongest part) of their foreign policy."],"wordExamples":[]}

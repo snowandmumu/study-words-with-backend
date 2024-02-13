@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"using new methods or ideas: ","wordDefPhrases":["innovative ideas/methods","She was an imaginative and innovative manager."],"wordExamples":[]}

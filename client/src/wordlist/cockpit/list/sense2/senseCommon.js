@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an area where a cockfight is held (= an activity, illegal in many countries, in which people watch as two cocks (= adult male chickens) attack each other and bet money on which one will win) ","wordDefPhrases":[],"wordExamples":[]}

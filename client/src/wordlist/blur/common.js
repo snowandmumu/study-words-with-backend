@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/blɜːr/","us":"/blɝː/"},"wordClass":"noun"}

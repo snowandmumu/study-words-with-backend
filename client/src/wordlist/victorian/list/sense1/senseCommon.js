@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"from or relating to the period of British history during the rule of Queen Victoria (1837-1901): ","wordDefPhrases":["a Victorian house","Charles Dickens is one of the best-known Victorian novelists.","Victorian values","His attitudes to sex were positively Victorian."],"wordExamples":[]}

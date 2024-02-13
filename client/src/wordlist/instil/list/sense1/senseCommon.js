@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to put a feeling, idea, or principle gradually into someone's mind, so that it has a strong influence on the way that person thinks or behaves: ","wordDefPhrases":["It is part of a teacher's job to instil confidence in/into his or her students."],"wordExamples":[]}

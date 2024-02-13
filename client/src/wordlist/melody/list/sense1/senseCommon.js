@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a tune, often forming part of a larger piece of music: ","wordDefPhrases":["He played a few well-known melodies.","His songs are always strong on melody."],"wordExamples":[]}

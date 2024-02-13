@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"important, serious, or related to real facts: ","wordDefPhrases":["Substantive research on the subject needs to be carried out.","The documents are the first substantive information obtained by the investigators."],"wordExamples":[]}

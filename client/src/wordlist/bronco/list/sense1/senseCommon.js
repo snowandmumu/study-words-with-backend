@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a wild horse of the western US","wordDefPhrases":[],"wordExamples":[]}

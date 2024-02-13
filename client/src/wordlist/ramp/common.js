@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ræmp/","us":"/ræmp/"},"wordClass":"noun"}

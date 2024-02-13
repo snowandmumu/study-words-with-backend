@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to be the largest, most important, or most noticeable part of something: ","wordDefPhrases":["The cathedral dominates the landscape for miles around.","The dispute is likely to dominate the news."],"wordExamples":[]}

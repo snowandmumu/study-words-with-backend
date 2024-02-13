@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"relating to what something or someone is like: ","wordDefPhrases":["There has been a qualitative change in the relationship between the public and the government."],"wordExamples":[]}

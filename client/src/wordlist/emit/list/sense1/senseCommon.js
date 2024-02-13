@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to send out a beam, noise, smell, or gas: ","wordDefPhrases":["The alarm emits infrared rays which are used to detect any intruder.","The machine emits a high-pitched sound when you press the button."],"wordExamples":[]}

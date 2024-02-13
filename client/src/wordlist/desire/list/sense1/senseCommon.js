@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to want something, especially strongly: ","wordDefPhrases":["I desire only to be left in peace.","The hotel had everything you could possibly desire.","What does her Ladyship desire me to do/desire of me?","The president desires to meet the new prime minister."],"wordExamples":[]}

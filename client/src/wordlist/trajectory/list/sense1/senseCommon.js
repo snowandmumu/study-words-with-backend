@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the curved path that an object follows after it has been thrown or shot into the air: ","wordDefPhrases":["the trajectory of a bullet/missile"],"wordExamples":[]}

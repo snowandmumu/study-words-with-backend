@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an idea that is wrong because it has been based on a failure to understand a situation: ","wordDefPhrases":["We hope our work will help to change popular misconceptions about disabled people.","I'd like to clear up the common misconception that older workers don't know how to use technology."],"wordExamples":[]}

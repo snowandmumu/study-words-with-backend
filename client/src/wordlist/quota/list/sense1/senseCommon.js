@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a fixed, limited amount or number that is officially allowed: ","wordDefPhrases":["The country now has a quota on immigration.","The class contains the usual quota (= number) of troublemakers."],"wordExamples":[]}

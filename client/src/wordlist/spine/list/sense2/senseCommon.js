@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a long, sharp point like a needle growing out of an animal such as a hedgehog or a plant such as a cactus","wordDefPhrases":[],"wordExamples":[]}

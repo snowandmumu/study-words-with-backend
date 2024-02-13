@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a hollow in a wall, especially one made to put a statue (= artistic object) in so that it can be seen","wordDefPhrases":[],"wordExamples":[]}

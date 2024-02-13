@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who formally requests something, especially a job, or to study at a college or university: ","wordDefPhrases":["How many applicants did you have for the job?"],"wordExamples":[]}

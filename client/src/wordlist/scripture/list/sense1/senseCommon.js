@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the holy writings of a religion: ","wordDefPhrases":["the Hindu/Buddhist/Muslim scriptures","According to Holy Scripture (= the Bible), God created the world in six days."],"wordExamples":[]}

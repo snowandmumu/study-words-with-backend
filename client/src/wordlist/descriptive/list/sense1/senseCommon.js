@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"describing something, especially in a detailed, interesting way: ","wordDefPhrases":["a descriptive essay/passage","descriptive linguistics/sociology/statistics"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈviːl/","us":"/rɪˈviːl/"},"wordClass":"verb"}

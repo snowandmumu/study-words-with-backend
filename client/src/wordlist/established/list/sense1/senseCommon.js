@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"accepted or respected because of having existed for a long period of time: ","wordDefPhrases":["There are established procedures for dealing with emergencies.","an established firm/brand"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"connected with language or the study of language: ","wordDefPhrases":["I'm particularly interested in the linguistic development of young children."],"wordExamples":[]}

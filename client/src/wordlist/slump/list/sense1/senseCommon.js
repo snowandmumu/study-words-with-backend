@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"(of prices, values, or sales) to fall suddenly: ","wordDefPhrases":["The value of property has slumped.","Car sales have slumped dramatically over the past year."],"wordExamples":[]}

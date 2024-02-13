@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to change a legal decision: ","wordDefPhrases":["The Court of Appeal overturned the earlier decision.","The Labour candidate unexpectedly overturned the long-standing Tory majority."],"wordExamples":[]}

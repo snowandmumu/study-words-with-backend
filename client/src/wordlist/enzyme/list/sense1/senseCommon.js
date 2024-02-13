@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"any of a group of chemical substances that are produced by living cells and cause particular chemical reactions to happen while not being changed themselves: ","wordDefPhrases":["An enzyme in the saliva of the mouth starts the process of breaking down the food."],"wordExamples":[]}

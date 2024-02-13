@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"stupid: ","wordDefPhrases":["There are some really dense people in our class."],"wordExamples":[]}

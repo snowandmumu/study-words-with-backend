@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prəˈsiːd/","us":"/proʊˈsiːd/"},"wordClass":"verb"}

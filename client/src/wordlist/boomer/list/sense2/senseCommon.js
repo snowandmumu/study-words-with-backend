@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a large male kangaroo: ","wordDefPhrases":["In this Australian version, Father Christmas rides on a sleigh pulled by six white boomers."],"wordExamples":[]}

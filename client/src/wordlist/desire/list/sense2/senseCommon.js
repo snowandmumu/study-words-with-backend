@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to have a strong sexual attraction to someone","wordDefPhrases":[],"wordExamples":[]}

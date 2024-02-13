@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a set of beliefs and ideas from which opinions and decisions are formed: ","wordDefPhrases":["\"I have to put aside my emotions,\" he says, \"and consider it from a professional standpoint.\""],"wordExamples":[]}

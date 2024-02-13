@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the long, hard, hollow stem of particular plants such as bamboo, sometimes used to make furniture or support other plants in the garden","wordDefPhrases":[],"wordExamples":[]}

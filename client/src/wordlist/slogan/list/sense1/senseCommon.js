@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a short easily remembered phrase, especially one used to advertise an idea or a product: ","wordDefPhrases":["an advertising slogan","a campaign slogan"],"wordExamples":[]}

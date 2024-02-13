@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a long piece of cloth with words written on it, sometimes stretched between two poles and carried by people taking part in a march: ","wordDefPhrases":["The demonstrators walked along the street, carrying banners and shouting angrily.","They won the election under the banner of lower taxes."],"wordExamples":[]}

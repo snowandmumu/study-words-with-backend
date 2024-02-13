@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"officially listed and accepted: ","wordDefPhrases":["a registered nurse/charity/trademark"],"wordExamples":[]}

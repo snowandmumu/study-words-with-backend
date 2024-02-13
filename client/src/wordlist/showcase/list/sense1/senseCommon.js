@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a container with glass sides in which valuable or important objects are kept so that they can be looked at without being touched, damaged, or stolen","wordDefPhrases":[],"wordExamples":[]}

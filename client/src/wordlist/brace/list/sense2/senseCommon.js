@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"two things of the same type, especially two wild birds that have been killed for sport or food: ","wordDefPhrases":["a brace of pheasants"],"wordExamples":[]}

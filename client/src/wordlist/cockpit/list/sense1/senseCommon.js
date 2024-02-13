@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the small closed space where the pilot sits in an aircraft, or where the driver sits in a racing car","wordDefPhrases":[],"wordExamples":[]}

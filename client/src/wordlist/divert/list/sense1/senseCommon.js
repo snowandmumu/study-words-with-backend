@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to cause something or someone to change direction: ","wordDefPhrases":["Traffic will be diverted through the side streets while the main road is resurfaced.","Our flight had to be diverted to Newark because of the storm.","Should more funds/money/resources be diverted from roads into railways?"],"wordExamples":[]}

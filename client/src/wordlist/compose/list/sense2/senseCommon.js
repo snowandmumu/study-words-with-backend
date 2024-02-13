@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"B2","wordDef":"to be formed from various things: ","wordDefPhrases":["Air is composed mainly of nitrogen and oxygen.","At that time, women composed only 1.6 percent of the US forces."],"wordExamples":[]}

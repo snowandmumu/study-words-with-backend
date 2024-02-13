@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to an election: ","wordDefPhrases":["the electoral system","electoral law/reform/gains/defeat"],"wordExamples":[]}

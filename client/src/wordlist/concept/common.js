@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈkɒn.sept/","us":"/ˈkɑːn.sept/"},"wordClass":"noun"}

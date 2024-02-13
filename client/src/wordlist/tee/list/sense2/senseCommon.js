@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"in rugby and American football, a device that holds the ball in place before it is kicked : ","wordDefPhrases":["They set up a tee and began kicking balls.","Spotting a rugby ball on a tee, he gave it a good boot for 15 yards."],"wordExamples":[]}

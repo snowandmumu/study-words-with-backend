@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a way of recording or playing sound so that it is separated into two signals and produces more natural sound: ","wordDefPhrases":["The concert will be broadcast in stereo.","Loud music was coming from the car stereo."],"wordExamples":[]}

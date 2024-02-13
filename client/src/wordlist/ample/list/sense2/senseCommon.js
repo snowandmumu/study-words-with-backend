@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"If the shape of someone's body or a part of their body is ample, it is large: ","wordDefPhrases":["her ample bosom ","His ample girth (= his big stomach) was clear evidence of his passion for food."],"wordExamples":[]}

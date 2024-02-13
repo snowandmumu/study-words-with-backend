@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a valley","wordDefPhrases":["We're going walking in the Yorkshire Dales this summer."],"wordExamples":[]}

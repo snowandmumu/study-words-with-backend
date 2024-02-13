@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"very interesting because of being unusual or mysterious: ","wordDefPhrases":["an intriguing possibility/question","She has a really intriguing personality."],"wordExamples":[]}

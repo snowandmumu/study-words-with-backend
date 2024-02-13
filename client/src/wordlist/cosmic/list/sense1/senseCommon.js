@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to the universe and the natural processes that happen in it: ","wordDefPhrases":["cosmic dust/radiation","The earthquake was a disaster of cosmic proportions/scale."],"wordExamples":[]}

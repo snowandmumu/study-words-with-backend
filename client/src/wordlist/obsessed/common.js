@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/əbˈsest/","us":"/əbˈsest/"},"wordClass":"adjective"}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/luːm/","us":"/luːm/"},"wordClass":"verb"}

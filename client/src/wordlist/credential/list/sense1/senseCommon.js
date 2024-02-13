@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the abilities and experience that make someone suitable for a particular job or activity, or proof of someone's abilities and experience: ","wordDefPhrases":["All the candidates had excellent academic credentials."],"wordExamples":[]}

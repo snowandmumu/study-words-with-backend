@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to light something and make it brighter: ","wordDefPhrases":["The streets were illuminated with strings of coloured lights.","an article which illuminates the issues at stake"],"wordExamples":[]}

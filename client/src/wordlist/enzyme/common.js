@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈen.zaɪm/","us":"/ˈen.zaɪm/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"very attractive to look at, taste, smell, etc.: ","wordDefPhrases":["the lush sound of the orchestra","the lush taste of fudge ice cream"],"wordExamples":[]}

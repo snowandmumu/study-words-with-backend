@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to go to a class or educational course for pleasure or interest, without being tested or receiving a grade at the end: ","wordDefPhrases":["As a senior citizen, he is allowed to audit university classes."],"wordExamples":[]}

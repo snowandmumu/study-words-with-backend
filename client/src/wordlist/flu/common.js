@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/fluː/","us":"/fluː/"},"wordClass":"noun"}

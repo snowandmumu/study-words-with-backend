@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B1","wordDef":"a type of small magazine that contains pictures and information on a product or a company","wordDefPhrases":[],"wordExamples":[]}

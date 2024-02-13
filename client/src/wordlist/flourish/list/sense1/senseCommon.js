@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to grow or develop successfully: ","wordDefPhrases":["My tomatoes are flourishing this summer - it must be the warm weather.","Watercolour painting began to flourish in Britain around 1750."],"wordExamples":[]}

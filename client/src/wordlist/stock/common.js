@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/stɒk/","us":"/stɑːk/"},"wordClass":"noun"}

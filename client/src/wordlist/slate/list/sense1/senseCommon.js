@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a dark grey rock that can be easily divided into thin pieces, or a small, thin piece of this used to cover a roof","wordDefPhrases":[],"wordExamples":[]}

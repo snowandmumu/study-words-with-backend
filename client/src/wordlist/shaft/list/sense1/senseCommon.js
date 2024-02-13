@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a pole or rod that forms the handle of a tool or weapon: ","wordDefPhrases":["His fingers tightened around the shaft of the golf club.","the drive shaft of a car","the propeller shaft of an aircraft","A shaft of (sun)light came through the open door."],"wordExamples":[]}

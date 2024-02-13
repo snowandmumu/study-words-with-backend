@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the structures below the surface of the ground that support a building: ","wordDefPhrases":["The foundations will have to be reinforced to prevent the house from sinking further into the ground."],"wordExamples":[]}

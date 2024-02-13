@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the piece that you remove when you make a hole in a piece of paper or card","wordDefPhrases":[],"wordExamples":[]}

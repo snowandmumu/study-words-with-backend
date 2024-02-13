@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to use a needle and syringe (= small tube) to put a liquid such as a drug into a person's body: ","wordDefPhrases":["Phil's a diabetic and has to inject himself with insulin every day."],"wordExamples":[]}

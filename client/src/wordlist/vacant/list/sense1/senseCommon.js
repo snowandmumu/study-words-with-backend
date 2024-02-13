@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"B2","wordDef":"not filled or occupied; available to be used: ","wordDefPhrases":["The hospital has no vacant beds.","The position fell (= became) vacant when Rodman was promoted."],"wordExamples":[]}

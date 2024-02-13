@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"decaying plant material that is added to soil to improve its quality","wordDefPhrases":[],"wordExamples":[]}

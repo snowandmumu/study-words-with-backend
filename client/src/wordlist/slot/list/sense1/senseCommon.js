@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"a long, narrow hole, especially one for putting coins into or for fitting a separate piece into: ","wordDefPhrases":["I put my money in the slot and pressed the button but nothing came out.","The holder has slots for 100 CDs."],"wordExamples":[]}

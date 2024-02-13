@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a change that is made to something, or the process of doing this: ","wordDefPhrases":["These proposals will need a lot of revision.","He was forced to make several revisions to his speech."],"wordExamples":[]}

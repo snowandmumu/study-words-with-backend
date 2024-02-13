@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/hæŋk/","us":"/hæŋk/"},"wordClass":"noun"}

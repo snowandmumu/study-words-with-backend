@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"abbreviation for\n        \n         preposition  ","wordDefPhrases":[],"wordExamples":[]}

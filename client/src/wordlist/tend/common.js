@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/tend/","us":"/tend/"},"wordClass":"verb"}

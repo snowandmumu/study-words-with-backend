@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"about to happen or waiting to happen: ","wordDefPhrases":["There were whispers that a deal was pending.","The pending releases of the prisoners are meant to create a climate for negotiation."],"wordExamples":[]}

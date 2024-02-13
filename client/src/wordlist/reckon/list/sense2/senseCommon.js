@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to consider or have the opinion that something is as stated: ","wordDefPhrases":["I don't reckon much to (US of) their chances of winning (= I do not think they will win).","She was widely reckoned (to be) the best actress of her generation."],"wordExamples":[]}

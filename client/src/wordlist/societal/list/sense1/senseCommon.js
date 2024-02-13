@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to or involving society: ","wordDefPhrases":["societal change/concerns/problems/values"],"wordExamples":[]}

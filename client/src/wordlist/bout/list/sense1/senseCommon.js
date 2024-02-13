@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a short period of illness or involvement in an activity: ","wordDefPhrases":["a bout of flu ","a bout with the flu ","He suffered from periodic bouts of insanity.","a drinking bout (= short period of drinking a lot of alcohol)"],"wordExamples":[]}

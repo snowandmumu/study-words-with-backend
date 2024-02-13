@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/fʊlˈfɪl/","us":"/fʊlˈfɪl/"},"wordClass":"verb"}

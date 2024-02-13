@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the official set of numbers and letters shown on the front and back of a road vehicle: ","wordDefPhrases":["Police are looking for a small blue car with the registration number B34-ACS."],"wordExamples":[]}

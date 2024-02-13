@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a soft material used to fill furniture and other objects","wordDefPhrases":[],"wordExamples":[]}

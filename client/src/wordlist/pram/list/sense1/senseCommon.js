@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a vehicle for moving a baby around that consists of a small bed supported by a frame on four wheels: ","wordDefPhrases":["I saw her pushing a pram down the street."],"wordExamples":[]}

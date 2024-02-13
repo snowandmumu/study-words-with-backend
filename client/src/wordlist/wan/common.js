@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/wɒn/","us":"/wɑːn/"},"wordClass":"adjective"}

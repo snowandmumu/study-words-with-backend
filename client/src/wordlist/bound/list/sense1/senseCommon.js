@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"B2","wordDef":"certain or extremely likely to happen: ","wordDefPhrases":["You're bound to forget people's names occasionally.","You're bound to feel nervous about your interview.","They are bound and determined to build their own house someday.","He's in the pub, I'll be bound."],"wordExamples":[]}

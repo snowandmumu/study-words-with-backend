@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a green, arrow-shaped light that is part of a set of traffic lights and tells drivers when they can turn left or right: ","wordDefPhrases":["a traffic filter","a left/right filter"],"wordExamples":[]}

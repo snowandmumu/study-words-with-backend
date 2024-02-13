@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"If a reason, idea, opinion, etc. is inconsistent, different parts of it do not agree, or it does not agree with something else: ","wordDefPhrases":["These findings are inconsistent with those of previous studies."],"wordExamples":[]}

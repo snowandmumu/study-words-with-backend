@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪnˈspekt/","us":"/ɪnˈspekt/"},"wordClass":"verb"}

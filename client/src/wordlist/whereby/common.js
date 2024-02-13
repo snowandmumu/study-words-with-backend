@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/weəˈbaɪ/","us":"/werˈbaɪ/"},"wordClass":"adverbconjunction"}

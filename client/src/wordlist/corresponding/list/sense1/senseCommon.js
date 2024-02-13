@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"similar to, connected with, or caused by something else: ","wordDefPhrases":["Company losses were 50 percent worse than in the corresponding period last year.","As the course becomes more difficult, there's usually a corresponding drop in attendance."],"wordExamples":[]}

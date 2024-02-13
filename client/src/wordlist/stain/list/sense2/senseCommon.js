@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to permanently spoil something such as someone's reputation: ","wordDefPhrases":["Several important politicians have had their reputations stained by this scandal.","The country's history is stained with the blood of (= the country is guilty of killing) millions of innocent men and women."],"wordExamples":[]}

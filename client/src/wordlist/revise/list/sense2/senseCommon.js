@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"B1","wordDef":"to study again something you have already learned, in preparation for an exam: ","wordDefPhrases":["We're revising (algebra) for the test tomorrow."],"wordExamples":[]}

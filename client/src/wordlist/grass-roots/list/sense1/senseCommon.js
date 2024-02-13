@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the ordinary people in a society, movement, or organization: ","wordDefPhrases":["She spent years trying to design education policy from the grass roots up."],"wordExamples":[]}

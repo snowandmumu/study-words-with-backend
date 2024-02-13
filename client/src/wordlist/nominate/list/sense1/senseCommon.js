@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to officially suggest someone for an election, job, position, or honour: ","wordDefPhrases":["He's been nominated by the Green Party as their candidate in the next election.","Would you like to nominate anyone for/as director?","The film was nominated for an Academy Award."],"wordExamples":[]}

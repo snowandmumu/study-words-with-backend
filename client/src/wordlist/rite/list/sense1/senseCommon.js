@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(a usually religious ceremony with) a set of fixed words and actions: ","wordDefPhrases":["funeral/marriage/fertility rites","You have to go through an initiation rite before you become a full member."],"wordExamples":[]}

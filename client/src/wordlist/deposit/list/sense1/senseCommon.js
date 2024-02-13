@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to leave something somewhere: ","wordDefPhrases":["The flood waters fell, depositing mud over the whole area.","The bus deposited me miles from anywhere.","The cuckoo deposits her eggs in other birds' nests.","I deposited my luggage in a locker at the station."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a small closed area within a farm building in which there is space for one animal to be kept","wordDefPhrases":["There was one bathroom with a shower stall in the corner."],"wordExamples":[]}

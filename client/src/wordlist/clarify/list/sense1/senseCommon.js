@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to make something clear or easier to understand by giving more details or a simpler explanation: ","wordDefPhrases":["Could you clarify the first point please? I don't understand it completely.","The position of all shareholders will be clarified next month when we finalize our proposals."],"wordExamples":[]}

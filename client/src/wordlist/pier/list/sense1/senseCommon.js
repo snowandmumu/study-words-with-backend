@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a long structure sticking out from the land over the sea, where people can walk or large boats can be tied, sometimes with restaurants and places of entertainment on it","wordDefPhrases":[],"wordExamples":[]}

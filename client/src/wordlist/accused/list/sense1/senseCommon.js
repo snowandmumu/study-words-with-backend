@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the person who is on trial in a law court: ","wordDefPhrases":["The accused protested her innocence.","The accused were all found guilty."],"wordExamples":[]}

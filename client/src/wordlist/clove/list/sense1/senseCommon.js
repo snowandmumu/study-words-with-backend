@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a small separate part of a bulb of garlic (= a plant used in cooking): ","wordDefPhrases":["This recipe takes four cloves of garlic."],"wordExamples":[]}

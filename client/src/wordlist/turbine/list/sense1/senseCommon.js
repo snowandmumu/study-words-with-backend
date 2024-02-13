@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a type of machine through which liquid or gas flows and turns a special wheel with blades in order to produce power: ","wordDefPhrases":["a steam turbine","a turbine engine"],"wordExamples":[]}

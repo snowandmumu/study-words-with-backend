@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to allow someone to have something, even if you do not want to: ","wordDefPhrases":["The president is not expected to concede these reforms.","He is not willing to concede any of his power/authority.","Britain conceded (= allowed) independence to India in 1947."],"wordExamples":[]}

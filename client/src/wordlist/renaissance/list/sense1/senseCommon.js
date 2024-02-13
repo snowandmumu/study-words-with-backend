@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a new growth of activity or interest in something, especially art, literature, or music: ","wordDefPhrases":["Opera is enjoying a long-awaited renaissance."],"wordExamples":[]}

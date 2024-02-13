@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a situation that has been arranged for some purpose: ","wordDefPhrases":["He’s in the sign business and has a nice setup with that."],"wordExamples":[]}

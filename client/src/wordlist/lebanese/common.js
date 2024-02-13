@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˌleb.əˈniːz/","us":"/ˌleb.əˈniːz/"},"wordClass":""}

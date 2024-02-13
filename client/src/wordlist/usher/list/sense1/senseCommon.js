@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to show someone where they should go, or to make someone go where you want them to go: ","wordDefPhrases":["She ushered us into her office and offered us coffee.","Officials quickly ushered the protesters out of the hall."],"wordExamples":[]}

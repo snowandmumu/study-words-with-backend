@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make someone feel a particular way towards someone or something: ","wordDefPhrases":["His rudeness when we first met didn't dispose me very kindlyto/towards him."],"wordExamples":[]}

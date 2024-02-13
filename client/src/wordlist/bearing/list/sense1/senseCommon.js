@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a part of a machine that supports another part that turns around: ","wordDefPhrases":["a wheel bearing","a roller bearing"],"wordExamples":[]}

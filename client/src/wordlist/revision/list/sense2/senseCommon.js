@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"B1","wordDef":"study of work you have done, in order to prepare for an exam: ","wordDefPhrases":["She did no revision, but she still got a very high mark."],"wordExamples":[]}

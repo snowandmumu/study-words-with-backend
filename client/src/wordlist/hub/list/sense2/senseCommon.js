@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the central part of a wheel into which the spokes (= bars connecting the central part to the outer edge of the wheel) are fixed","wordDefPhrases":[],"wordExamples":[]}

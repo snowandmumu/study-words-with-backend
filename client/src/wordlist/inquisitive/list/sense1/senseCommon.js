@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"wanting to discover as much as you can about things, sometimes in a way that annoys people: ","wordDefPhrases":["an inquisitive child","an inquisitive mind","She could see inquisitive faces looking out from the windows next door."],"wordExamples":[]}

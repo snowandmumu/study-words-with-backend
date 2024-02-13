@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/krɪˈden.ʃəl/","us":"/krɪˈden.ʃəl/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/æbz/","us":"/æbz/"},"wordClass":"noun"}

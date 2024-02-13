@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/wɪsk/","us":"/wɪsk/"},"wordClass":"verb"}

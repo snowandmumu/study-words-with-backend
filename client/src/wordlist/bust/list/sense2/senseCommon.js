@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a model of the head and shoulders of a person: ","wordDefPhrases":["There was a bust of Mahler on his desk."],"wordExamples":[]}

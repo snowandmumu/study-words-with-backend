@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"in a law court, one member of the jury who is chosen to be in charge of their discussions and to speak officially for them","wordDefPhrases":[],"wordExamples":[]}

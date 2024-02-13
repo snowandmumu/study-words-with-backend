@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to be able to see the difference between two things or people: ","wordDefPhrases":["Police dogs can discriminate between the different smells."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a flat raised area","wordDefPhrases":["You hear insults like that all the time on the terraces."],"wordExamples":[]}

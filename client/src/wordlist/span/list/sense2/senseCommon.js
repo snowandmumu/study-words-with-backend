@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the length of something from one end to the other: ","wordDefPhrases":["huge wings with a span of over a metre","The bridge crosses the river in a single span."],"wordExamples":[]}

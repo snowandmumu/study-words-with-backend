@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɔːr/","us":"/ɔːr/"},"wordClass":"noun"}

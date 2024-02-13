@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a military unit consisting of three or more companies","wordDefPhrases":[],"wordExamples":[]}

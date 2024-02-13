@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"confidence: ","wordDefPhrases":["He spoke with calm assurance."],"wordExamples":[]}

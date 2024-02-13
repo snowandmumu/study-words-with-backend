@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who speaks publicly in support of a particular idea or plan of action: ","wordDefPhrases":["He is one of the leading proponents of capital punishment."],"wordExamples":[]}

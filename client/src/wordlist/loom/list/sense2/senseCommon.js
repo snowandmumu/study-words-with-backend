@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"If an unwanted or unpleasant event looms, it seems likely to happen soon and causes worry: ","wordDefPhrases":["Her final exams are looming.","Here, too, the threat of unemployment has been looming on the horizon.","The threat of closure looms over the workforce."],"wordExamples":[]}

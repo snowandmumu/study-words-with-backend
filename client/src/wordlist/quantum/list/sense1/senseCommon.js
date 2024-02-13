@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the smallest amount or unit of something, especially energy: ","wordDefPhrases":["quantum theory"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"relating to how good or bad something is: ","wordDefPhrases":["Is there any qualitative difference between these two DVD players?"],"wordExamples":[]}

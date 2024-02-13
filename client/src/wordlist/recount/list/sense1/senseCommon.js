@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to describe how something happened, or to tell a story: ","wordDefPhrases":["He recounted his adventures since he had left home.","He was fond of recounting how he had played professional football when he was 19."],"wordExamples":[]}

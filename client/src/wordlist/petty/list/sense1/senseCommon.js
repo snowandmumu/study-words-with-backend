@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"not important and not worth giving attention to: ","wordDefPhrases":["Prisoners complain that they are subjected to too many petty rules and restrictions.","Don't be so petty!"],"wordExamples":[]}

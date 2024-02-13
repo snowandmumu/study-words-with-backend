@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈkaʊnt/","us":"/rɪˈkaʊnt/"},"wordClass":"verb"}

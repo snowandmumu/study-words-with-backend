@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an artificial slope: ","wordDefPhrases":["I pushed the wheelchair up the ramp and into the supermarket."],"wordExamples":[]}

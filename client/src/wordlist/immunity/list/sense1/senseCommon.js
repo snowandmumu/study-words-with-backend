@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a situation in which you are protected against disease or from legal action: ","wordDefPhrases":["The vaccination gives you immunity against the disease for up to six months.","He was granted immunity from prosecution because he confessed the names of the other spies."],"wordExamples":[]}

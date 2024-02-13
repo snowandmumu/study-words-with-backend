@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a feeling of pleasure and also slight sadness when you think about things that happened in the past: ","wordDefPhrases":["Some people feel nostalgia for their schooldays.","Hearing that song again filled him with nostalgia.","a wave (= sudden strong feeling) of nostalgia"],"wordExamples":[]}

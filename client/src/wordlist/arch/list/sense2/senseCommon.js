@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"something that has the shape of an arch, often used for decoration: ","wordDefPhrases":["The boat floated through the arch of the trees towards the bridge."],"wordExamples":[]}

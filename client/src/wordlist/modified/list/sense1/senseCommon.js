@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"having been changed slightly, usually to improve something or make it more acceptable: ","wordDefPhrases":["The proposals were unpopular and were only accepted in a modified form."],"wordExamples":[]}

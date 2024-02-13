@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to eat the main meal of the day, usually in the evening: ","wordDefPhrases":["I hate dining alone.","We dined by candlelight.","He once dined with the president of France."],"wordExamples":[]}

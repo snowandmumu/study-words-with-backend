@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a document signed by a large number of people demanding or asking for some action from the government or another authority: ","wordDefPhrases":["I signed a petition against the proposed closure of the local hospital today.","She's filing a petition for divorce."],"wordExamples":[]}

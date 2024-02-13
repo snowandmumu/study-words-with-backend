@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"C2","wordDef":"rude and offensive: ","wordDefPhrases":["a crude remark/comment"],"wordExamples":[]}

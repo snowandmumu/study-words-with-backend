@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to tell someone what they must have or do, or to make a rule of something: ","wordDefPhrases":["Penalties for not paying taxes are prescribed by law.","The law prescribes that all children must go to school.","Grammatical rules prescribe how words may be used together."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"completely wet: ","wordDefPhrases":["It's pouring down outside - I'm absolutely saturated!","The drainage system prevents the soil from becoming saturated."],"wordExamples":[]}

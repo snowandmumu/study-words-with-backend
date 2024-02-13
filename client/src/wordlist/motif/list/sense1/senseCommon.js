@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a pattern or design: ","wordDefPhrases":["We chose some curtains with a flower motif."],"wordExamples":[]}

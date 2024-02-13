@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an exact written copy of something: ","wordDefPhrases":["Mysteriously, the transcript of what was said at the trial was lost."],"wordExamples":[]}

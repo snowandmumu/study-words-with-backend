@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"something that is considered to be a sign of how a future event will take place: ","wordDefPhrases":["The team's final victory of the season is a good omen for the playoffs, which start next week.","a bad omen","Many people believe that a broken mirror is an omen of bad luck."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"A catalogue of unwanted events is a series of them: ","wordDefPhrases":["The whole holiday was a catalogue of disasters.","a catalogue of errors/crimes/complaints"],"wordExamples":[]}

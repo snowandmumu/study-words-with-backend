@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a type of dark beer: ","wordDefPhrases":["a glass of porter"],"wordExamples":[]}

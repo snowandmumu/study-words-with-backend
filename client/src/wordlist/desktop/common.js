@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈdesk.tɒp/","us":"/ˈdesk.tɑːp/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/pəˈzes/","us":"/pəˈzes/"},"wordClass":"verb"}

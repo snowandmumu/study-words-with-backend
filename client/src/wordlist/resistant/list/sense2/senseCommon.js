@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not harmed or affected by something: ","wordDefPhrases":["a stain-resistant carpet","a disease-resistant variety of tomato"],"wordExamples":[]}

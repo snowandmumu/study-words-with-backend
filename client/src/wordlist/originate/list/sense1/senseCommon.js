@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to come from a particular place, time, situation, etc.: ","wordDefPhrases":["Although the technology originated in the UK, it has been developed in the US","The game is thought to have originated among the native peoples of Alaska.","Who originated the saying \"Small is beautiful\"?"],"wordExamples":[]}

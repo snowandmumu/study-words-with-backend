@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a title for a priest of the Christian Church: ","wordDefPhrases":["the Reverend H. Clark"],"wordExamples":[]}

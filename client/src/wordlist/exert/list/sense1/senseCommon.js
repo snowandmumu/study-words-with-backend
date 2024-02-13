@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to use something such as authority, power, influence, etc. in order to make something happen: ","wordDefPhrases":["If you were to exert your influence they might change their decision.","Some managers exert considerable pressure on their staff to work extra hours without being paid."],"wordExamples":[]}

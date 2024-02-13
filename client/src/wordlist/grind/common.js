@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɡraɪnd/","us":"/ɡraɪnd/"},"wordClass":"verb"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"proof: ","wordDefPhrases":["The detail of her wildlife paintings is (a) testament to (= proof of) her powers of observation."],"wordExamples":[]}

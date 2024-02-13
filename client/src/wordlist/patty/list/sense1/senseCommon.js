@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a piece of food made into a disc shape that is then cooked: ","wordDefPhrases":["minced meat patties/sweet corn patties"],"wordExamples":[]}

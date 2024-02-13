@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a powerful flow of electricity that goes across a space between two points","wordDefPhrases":[],"wordExamples":[]}

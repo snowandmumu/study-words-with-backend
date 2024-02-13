@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"something or someone that makes another's good or bad qualities more noticeable: ","wordDefPhrases":["The older, cynical character in the play is the perfect foil for the innocent William."],"wordExamples":[]}

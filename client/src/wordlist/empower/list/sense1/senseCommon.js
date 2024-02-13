@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to give someone official authority or the freedom to do something: ","wordDefPhrases":["This amendment empowers the president to declare an emergency for a wide range of reasons.","The first step in empowering the poorest sections of society is making sure they vote."],"wordExamples":[]}

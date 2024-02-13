@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"the relationships between the air, land, water, animals, plants, etc., usually of a particular area, or the scientific study of this: ","wordDefPhrases":["The oil spill caused terrible damage to the fragile ecology of the coast.","She hopes to study ecology at college."],"wordExamples":[]}

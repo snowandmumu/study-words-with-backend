@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make something known; to show: ","wordDefPhrases":["She signified her agreement by nodding her head.","She signified (that) she was in agreement by nodding her head."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a particular problem that seriously affects many people at the same time: ","wordDefPhrases":["a crime/unemployment epidemic"],"wordExamples":[]}

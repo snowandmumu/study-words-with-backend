@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the qualities of being careful and accurate: ","wordDefPhrases":["His books are a pleasure to read because he writes with such clarity and precision."],"wordExamples":[]}

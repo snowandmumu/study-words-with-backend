@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/həʊn/","us":"/hoʊn/"},"wordClass":"verb"}

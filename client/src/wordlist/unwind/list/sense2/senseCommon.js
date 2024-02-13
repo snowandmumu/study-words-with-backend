@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to relax and allow your mind to be free from worry after a period of work or some other activity that has made you worried: ","wordDefPhrases":["A glass of wine in the evening helps me to unwind after work."],"wordExamples":[]}

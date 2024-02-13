@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the act of officially choosing someone for a job or position: ","wordDefPhrases":["the nomination of Elena Kagan to the Supreme Court"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to pay someone money in exchange for something that has been lost or damaged or for some problem: ","wordDefPhrases":["Victims of the crash will be compensated for their injuries."],"wordExamples":[]}

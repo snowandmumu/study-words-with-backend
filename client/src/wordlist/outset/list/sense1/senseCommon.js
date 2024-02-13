@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the beginning: ","wordDefPhrases":["I told him at/from the outset I wasn't interested."],"wordExamples":[]}

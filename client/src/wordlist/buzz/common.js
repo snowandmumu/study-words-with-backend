@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/bʌz/","us":"/bʌz/"},"wordClass":"verb"}

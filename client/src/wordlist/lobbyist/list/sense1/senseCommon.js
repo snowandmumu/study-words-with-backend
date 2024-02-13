@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who tries to persuade a politician or official group to do something: ","wordDefPhrases":["Lobbyists for the tobacco industry have expressed concerns about the restriction of smoking in public places."],"wordExamples":[]}

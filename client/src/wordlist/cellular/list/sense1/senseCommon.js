@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"connected with the cells of a plant or animal","wordDefPhrases":[],"wordExamples":[]}

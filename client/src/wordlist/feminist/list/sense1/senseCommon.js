@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who believes in feminism, and tries to achieve change that helps women to get equal opportunities and treatment: ","wordDefPhrases":["All her life she was an ardent feminist.","a radical feminist"],"wordExamples":[]}

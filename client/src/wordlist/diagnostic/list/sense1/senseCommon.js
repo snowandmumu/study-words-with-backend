@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"identifying a particular illness using a combination of signs and symptoms: ","wordDefPhrases":["a diagnostic test","Jaundice is diagnostic of liver failure."],"wordExamples":[]}

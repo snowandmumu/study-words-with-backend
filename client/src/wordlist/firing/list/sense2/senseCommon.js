@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an act of speaking angrily to someone because you disapprove of what they have done: ","wordDefPhrases":["The official couldn't escape the firing by his superintendent."],"wordExamples":[]}

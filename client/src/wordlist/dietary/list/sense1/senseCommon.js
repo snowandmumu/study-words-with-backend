@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to your diet: ","wordDefPhrases":["Dietary habits can be very difficult to change.","Do you have any special dietary requirements?"],"wordExamples":[]}

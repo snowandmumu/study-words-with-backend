@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone with a lot of skill and experience in planning, especially in military, political, or business matters: ","wordDefPhrases":["He's the president's chief political strategist."],"wordExamples":[]}

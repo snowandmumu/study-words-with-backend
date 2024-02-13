@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"very large guns that are moved on wheels or metal tracks, or the part of the army that uses these: ","wordDefPhrases":["Naval gunfire and ground-based artillery are generally less accurate than many aircraft-borne weapons."],"wordExamples":[]}

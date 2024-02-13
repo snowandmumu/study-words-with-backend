@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"very tired, especially after working hard for a long time: ","wordDefPhrases":["I think he's a little weary after his long journey.","Here, sit down and rest your weary legs.","I've been going out with the same people to the same places for years and I've just grown weary of it."],"wordExamples":[]}

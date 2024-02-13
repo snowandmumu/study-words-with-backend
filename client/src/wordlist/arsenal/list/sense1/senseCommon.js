@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a building where weapons and military equipment are stored: ","wordDefPhrases":["The army planned to attack enemy arsenals.","The country has agreed to reduce its nuclear arsenal."],"wordExamples":[]}

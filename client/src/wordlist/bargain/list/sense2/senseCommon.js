@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an agreement between two people or groups in which each promises to do something in exchange for something else: ","wordDefPhrases":["\"I'll clean the kitchen if you clean the car.\" \"OK, it's a bargain.\"","The management and employees eventually struck/made a bargain (= reached an agreement)."],"wordExamples":[]}

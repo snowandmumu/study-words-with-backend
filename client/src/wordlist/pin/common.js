@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/pɪn/","us":"/pɪn/"},"wordClass":"noun"}

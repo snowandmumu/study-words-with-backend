@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"limiting the freedom of someone or preventing something from growing: ","wordDefPhrases":["He is self-employed because he finds working for other people too restrictive.","The college is not able to expand because of restrictive planning laws."],"wordExamples":[]}

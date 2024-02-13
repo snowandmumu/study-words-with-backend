@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a short road on which vehicles join or leave a main road","wordDefPhrases":[],"wordExamples":[]}

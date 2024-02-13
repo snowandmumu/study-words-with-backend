@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a gun that can be carried easily: ","wordDefPhrases":["He was found guilty of possessing an unlicensed firearm."],"wordExamples":[]}

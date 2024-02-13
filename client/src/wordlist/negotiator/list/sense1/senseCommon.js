@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who tries to help two groups who disagree to reach an agreement with each other, usually as a job: ","wordDefPhrases":["Some very skilful negotiators will be needed to settle this dispute."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"energetic, exciting, and full of enthusiasm: ","wordDefPhrases":["a vibrant young performer","a vibrant personality","a vibrant city","The hope is that this area will develop into a vibrant commercial centre.","He always uses vibrant colours in his paintings."],"wordExamples":[]}

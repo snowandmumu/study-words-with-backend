@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the position north or south of the equator measured from 0° to 90°","wordDefPhrases":["At these latitudes the sun does not rise at all on winter days."],"wordExamples":[]}

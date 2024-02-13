@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/deər/","us":"/der/"},"wordClass":"verb"}

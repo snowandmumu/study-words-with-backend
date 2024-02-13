@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"small, rounded stones, often mixed with sand: ","wordDefPhrases":["a gravel path"],"wordExamples":[]}

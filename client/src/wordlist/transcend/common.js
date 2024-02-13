@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/trænˈsend/","us":"/trænˈsend/"},"wordClass":"verb"}

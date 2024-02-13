@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"unable to be heard: ","wordDefPhrases":["The noise of the machinery made her voice inaudible."],"wordExamples":[]}

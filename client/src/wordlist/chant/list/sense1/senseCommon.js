@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to repeat or sing a word or phrase continuously: ","wordDefPhrases":["The crowd were chanting the team's name.","Demonstrators chanted anti-government slogans in the square.","We could hear the monks chanting."],"wordExamples":[]}

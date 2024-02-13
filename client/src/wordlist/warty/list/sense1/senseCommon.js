@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"having warts","wordDefPhrases":[],"wordExamples":[]}

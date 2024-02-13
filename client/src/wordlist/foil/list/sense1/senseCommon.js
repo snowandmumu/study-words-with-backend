@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a very thin sheet of metal, especially used to wrap food in to keep it fresh: ","wordDefPhrases":["tin foil","aluminium foil","The hairdresser chatted as he put the foils in."],"wordExamples":[]}

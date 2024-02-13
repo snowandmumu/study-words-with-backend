@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the state of being completely grown physically: ","wordDefPhrases":["How long does it take for the chicks to grow to maturity?"],"wordExamples":[]}

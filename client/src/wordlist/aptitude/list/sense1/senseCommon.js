@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a natural ability or skill: ","wordDefPhrases":["My son has no/little aptitude for sport.","We will take your personal aptitudes and abilities into account."],"wordExamples":[]}

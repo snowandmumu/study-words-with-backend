@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"any of various types of organisms that get their food from decaying material or other living things: ","wordDefPhrases":["Mushrooms and mould are fungi.","Fungus can be poisonous."],"wordExamples":[]}

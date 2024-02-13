@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prəˈspek.tɪv/","us":"/prəˈspek.tɪv/"},"wordClass":"adjective"}

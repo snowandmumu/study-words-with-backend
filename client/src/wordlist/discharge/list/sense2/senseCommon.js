@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to send out a substance, especially waste liquid or gas: ","wordDefPhrases":["Large amounts of dangerous waste are discharged daily by the factory.","The oil that discharged into the sea seriously harmed a lot of birds and animals."],"wordExamples":[]}

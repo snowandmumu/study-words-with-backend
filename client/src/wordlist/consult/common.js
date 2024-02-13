@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈsʌlt/","us":"/kənˈsʌlt/"},"wordClass":"verb"}

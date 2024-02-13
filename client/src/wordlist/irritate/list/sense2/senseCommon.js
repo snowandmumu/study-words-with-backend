@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make a part of your body sore or painful: ","wordDefPhrases":["At first my contact lenses irritated my eyes."],"wordExamples":[]}

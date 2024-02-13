@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B1","wordDef":"a man whose job is selling things in a shop or directly to customers: ","wordDefPhrases":["a car salesman","a travelling salesman","a door-to-door salesman"],"wordExamples":[]}

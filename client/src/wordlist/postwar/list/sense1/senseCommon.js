@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"happening or existing in the period after a war, esp. World War II","wordDefPhrases":[],"wordExamples":[]}

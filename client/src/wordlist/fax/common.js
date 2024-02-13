@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/fæks/","us":"/fæks/"},"wordClass":"noun"}

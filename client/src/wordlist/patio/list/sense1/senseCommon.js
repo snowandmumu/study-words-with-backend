@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an area outside a house with a solid floor but no roof, used in good weather for relaxing, eating, etc.: ","wordDefPhrases":["In the summer we have breakfast out on the patio."],"wordExamples":[]}

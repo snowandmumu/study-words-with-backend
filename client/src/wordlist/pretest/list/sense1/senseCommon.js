@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a test that is done on a product, piece of equipment, etc. to make sure it works before it is sold or used: ","wordDefPhrases":["The company was advised to carry out pretests on all electrical goods."],"wordExamples":[]}

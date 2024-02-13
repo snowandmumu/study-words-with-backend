@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a modified vehicle, tool, etc. has had changes made to it so it can be used for a different purpose: ","wordDefPhrases":["He transported the device in a modified guitar case."],"wordExamples":[]}

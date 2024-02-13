@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who becomes a member of a group or organization: ","wordDefPhrases":["new entrants to the school/company","All entrants complete two three-hour papers.","As a recent entrant to the Japanese market, the company is at a disadvantage compared to Japanese suppliers."],"wordExamples":[]}

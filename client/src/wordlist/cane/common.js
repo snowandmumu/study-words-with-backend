@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/keɪn/","us":"/keɪn/"},"wordClass":"noun"}

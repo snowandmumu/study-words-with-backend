@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪnˈtend/","us":"/ɪnˈtend/"},"wordClass":"verb"}

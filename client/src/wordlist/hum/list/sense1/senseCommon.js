@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make a continuous low sound: ","wordDefPhrases":["The computers were humming in the background.","What's that strange humming sound?","She hummed to herself as she walked to school.","I've forgotten how that song goes - could you hum it for me?","The bar was really humming last night."],"wordExamples":[]}

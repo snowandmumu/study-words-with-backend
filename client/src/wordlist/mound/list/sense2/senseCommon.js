@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the raised area in baseball from which the pitcher throws the ball","wordDefPhrases":[],"wordExamples":[]}

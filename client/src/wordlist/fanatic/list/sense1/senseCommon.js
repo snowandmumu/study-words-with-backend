@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a person who is extremely interested in something, to a degree that some people find unreasonable: ","wordDefPhrases":["a fitness/film fanatic","religious fanatics"],"wordExamples":[]}

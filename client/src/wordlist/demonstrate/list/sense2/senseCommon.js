@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to express or show that you have a particular feeling, quality, or ability: ","wordDefPhrases":["He has demonstrated a genuine interest in the project.","His answer demonstrated a complete lack of understanding of the question."],"wordExamples":[]}

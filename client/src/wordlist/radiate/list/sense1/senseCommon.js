@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to produce heat and/or light, or (of heat or light) to be produced: ","wordDefPhrases":["The planet Jupiter radiates twice as much heat from inside as it receives from the Sun.","A single beam of light radiated from the lighthouse."],"wordExamples":[]}

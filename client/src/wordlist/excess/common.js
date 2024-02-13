@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪkˈses/","us":"/ɪkˈses/"},"wordClass":"noun"}

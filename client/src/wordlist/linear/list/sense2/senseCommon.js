@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"involving events or thoughts in which one follows another one directly: ","wordDefPhrases":["Usually, stories are told in a linear way, from start to finish.","These mental exercises are designed to break linear thinking habits and encourage creativity."],"wordExamples":[]}

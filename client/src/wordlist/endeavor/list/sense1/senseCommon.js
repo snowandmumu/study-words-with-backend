@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"US spelling of \n        \n         endeavour  ","wordDefPhrases":[],"wordExamples":[]}

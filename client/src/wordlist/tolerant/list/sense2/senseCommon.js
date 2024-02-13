@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"able to deal with something unpleasant or annoying, or to continue existing despite bad or difficult conditions: ","wordDefPhrases":["I think men are less tolerant of stress than women.","Compared to other plants, rye is more tolerant of drought."],"wordExamples":[]}

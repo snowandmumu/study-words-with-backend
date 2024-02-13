@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"the feeling of wanting or needing something: ","wordDefPhrases":["her appetite for adventure","his insatiable sexual appetite","I've read an excerpt of the book on the Web and it's whetted my appetite (= increased my interest in it)."],"wordExamples":[]}

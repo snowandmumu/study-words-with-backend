@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"A scripted speech or broadcast has been written before it is read or performed: ","wordDefPhrases":["He read from a scripted speech and refused to answer any questions at all at the end of it."],"wordExamples":[]}

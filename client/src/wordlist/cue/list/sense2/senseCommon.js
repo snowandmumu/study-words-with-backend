@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a long, thin wooden pole with a small piece of leather at one end, used for hitting the ball in games such as billiards or snooker","wordDefPhrases":[],"wordExamples":[]}

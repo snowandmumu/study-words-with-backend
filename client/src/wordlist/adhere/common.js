@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ədˈhɪər/","us":"/ədˈhɪr/"},"wordClass":"verb"}

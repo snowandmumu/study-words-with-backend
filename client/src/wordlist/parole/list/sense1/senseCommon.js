@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"permission for a prisoner to be released before their period in prison is finished, with the agreement that they will behave well: ","wordDefPhrases":["He's been released on parole.","She hopes to be eligible for parole in three years.","Reynolds was sentenced to life without parole."],"wordExamples":[]}

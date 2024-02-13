@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"a small amount of an emotion or quality: ","wordDefPhrases":["There was certainly an element of truth in what she said."],"wordExamples":[]}

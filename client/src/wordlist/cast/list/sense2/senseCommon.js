@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an object made by pouring hot liquid into a container and leaving it to become solid","wordDefPhrases":["My leg was in a cast for about six weeks."],"wordExamples":[]}

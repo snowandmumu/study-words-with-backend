@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"intelligence and the ability to think quickly: ","wordDefPhrases":["She learned to survive on her wits."],"wordExamples":[]}

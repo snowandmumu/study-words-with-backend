@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who has stopped working: ","wordDefPhrases":["The neighborhood is a mixture of retirees and single professionals."],"wordExamples":[]}

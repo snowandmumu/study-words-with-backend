@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the place where two or more roads join or cross each other: ","wordDefPhrases":["a busy intersection","Turn right at the next intersection."],"wordExamples":[]}

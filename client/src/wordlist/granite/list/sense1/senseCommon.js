@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a very hard, grey, pink, or black rock, used for building","wordDefPhrases":[],"wordExamples":[]}

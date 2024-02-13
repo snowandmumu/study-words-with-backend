@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/slʌmp/","us":"/slʌmp/"},"wordClass":"verb"}

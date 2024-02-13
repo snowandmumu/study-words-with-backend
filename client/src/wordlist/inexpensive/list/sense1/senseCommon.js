@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B1","wordDef":"not costing a lot of money: ","wordDefPhrases":["It's an inexpensive perfume."],"wordExamples":[]}

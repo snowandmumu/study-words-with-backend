@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a young male horse under the age of four","wordDefPhrases":[],"wordExamples":[]}

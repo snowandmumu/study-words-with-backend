@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"relating to practical matters or physical things, rather than spiritual ones: ","wordDefPhrases":["The tyranny of the monarchy lies in its spiritual rather than its temporal power: it tyrannizes the imagination."],"wordExamples":[]}

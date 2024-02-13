@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/liːs/","us":"/liːs/"},"wordClass":"verb"}

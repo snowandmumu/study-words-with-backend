@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"having a privilege: ","wordDefPhrases":["As an ambassador, she enjoys a very privileged status.","I have been privileged to work with the pioneers of silicon technology."],"wordExamples":[]}

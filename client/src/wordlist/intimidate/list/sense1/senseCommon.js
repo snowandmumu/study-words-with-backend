@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to frighten or threaten someone, usually in order to persuade them to do something that you want them to do: ","wordDefPhrases":["They were intimidated into accepting a pay cut by the threat of losing their jobs."],"wordExamples":[]}

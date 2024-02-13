@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a piece of clothing","wordDefPhrases":[],"wordExamples":[]}

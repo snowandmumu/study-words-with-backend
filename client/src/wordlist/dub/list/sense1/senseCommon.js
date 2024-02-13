@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to give something or someone a particular name, especially describing what you think of it, him, or her: ","wordDefPhrases":["She was dubbed by the newspapers \"the Angel of Death\"."],"wordExamples":[]}

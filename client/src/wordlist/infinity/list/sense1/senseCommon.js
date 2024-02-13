@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"time or space that has no end: ","wordDefPhrases":["the infinity of the universe","the concept of infinity","The mountain range stretched away into infinity.","an infinity of stars in the galaxy"],"wordExamples":[]}

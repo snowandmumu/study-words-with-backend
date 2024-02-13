@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a leader who has complete power in a country and has not been elected by the people","wordDefPhrases":["My boss is kind of a dictator."],"wordExamples":[]}

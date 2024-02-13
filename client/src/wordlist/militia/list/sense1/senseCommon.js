@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a military force whose members are trained soldiers but who often have other jobs: ","wordDefPhrases":["A UN force was sent in to stop fighting between three rival militias.","The government called out the militia to help cope with the rioting."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a unit of data that is sent over a computer network","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a long step when walking or running: ","wordDefPhrases":["She attributes her record-breaking speed to the length of her stride."],"wordExamples":[]}

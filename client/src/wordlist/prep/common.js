@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prep/","us":"/prep/"},"wordClass":"noun"}

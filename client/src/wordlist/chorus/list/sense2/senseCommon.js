@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a group of people who are trained to sing together: ","wordDefPhrases":["He sings with the Los Angeles Gay Men's Chorus."],"wordExamples":[]}

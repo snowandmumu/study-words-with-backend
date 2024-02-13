@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to hit a part of the body against something by accident: ","wordDefPhrases":["She fell and banged her head.","I banged my head on the shelf as I stood up.","She was unsteady and banged against the furniture.","He banged the ball into the net.","I banged my shot against the crossbar."],"wordExamples":[]}

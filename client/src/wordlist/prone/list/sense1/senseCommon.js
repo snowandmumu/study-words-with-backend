@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"C2","wordDef":"likely to show a particular characteristic, usually a negative one, or to be affected by something bad, such as damage or an illness : ","wordDefPhrases":["I've always been prone to headaches."],"wordExamples":[]}

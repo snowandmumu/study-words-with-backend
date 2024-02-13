@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"religious leaders, especially Christian priests, ministers, etc.: ","wordDefPhrases":["We were surprised when he announced he wanted to join the clergy."],"wordExamples":[]}

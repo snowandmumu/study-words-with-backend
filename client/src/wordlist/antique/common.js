@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ænˈtiːk/","us":"/ænˈtiːk/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"making you feel that something bad or evil might happen: ","wordDefPhrases":["The ruined house had a sinister appearance.","A sinister-looking man sat in the corner of the room."],"wordExamples":[]}

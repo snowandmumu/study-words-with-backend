@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"no longer having any limits or controls: ","wordDefPhrases":["No longer bound by a strict schedule of training and competing, she felt liberated.","When I dance I feel liberated, like I've left a heavy load behind."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"unsuitable: ","wordDefPhrases":["His casual behaviour was wholly inappropriate for such a formal occasion.","I think it would be inappropriate (for you) to invite her to a party so soon after her husband's death."],"wordExamples":[]}

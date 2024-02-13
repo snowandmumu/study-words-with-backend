@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/dreɪp/","us":"/dreɪp/"},"wordClass":"verb"}

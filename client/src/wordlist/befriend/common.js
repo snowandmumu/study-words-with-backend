@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/bɪˈfrend/","us":"/bɪˈfrend/"},"wordClass":"verb"}

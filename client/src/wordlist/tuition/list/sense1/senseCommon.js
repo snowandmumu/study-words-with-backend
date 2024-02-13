@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"teaching, especially when given to a small group or one person, such as in a college or university: ","wordDefPhrases":["All students receive tuition in logic and metaphysics.","Few can afford the tuition of $12,000 a semester."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈdiː.fekt/","us":"/ˈdiː.fekt/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈfaɪn/","us":"/kənˈfaɪn/"},"wordClass":"verb"}

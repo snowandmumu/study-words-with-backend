@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to numbers or amounts: ","wordDefPhrases":["quantitative analysis"],"wordExamples":[]}

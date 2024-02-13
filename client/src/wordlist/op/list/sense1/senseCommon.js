@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a medical operation: ","wordDefPhrases":["How long did you take to recover from your op?"],"wordExamples":[]}

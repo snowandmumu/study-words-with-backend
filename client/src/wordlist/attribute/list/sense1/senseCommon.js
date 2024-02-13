@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a quality or characteristic that someone or something has: ","wordDefPhrases":["Organizational ability is an essential attribute for a good manager."],"wordExamples":[]}

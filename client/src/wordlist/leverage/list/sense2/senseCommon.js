@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"power to influence people and get the results you want: ","wordDefPhrases":["If the United Nations had more troops in the area, it would have greater leverage."],"wordExamples":[]}

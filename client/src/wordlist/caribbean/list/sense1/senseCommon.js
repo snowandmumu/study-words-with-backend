@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to Caribbean islands and countries, or their people: ","wordDefPhrases":["Caribbean food"],"wordExamples":[]}

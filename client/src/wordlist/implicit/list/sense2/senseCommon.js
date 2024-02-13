@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"complete and without any doubts: ","wordDefPhrases":["All her life she had implicit faith in socialism.","We had implicit trust in him.","She is accustomed to implicit obedience from her staff."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"feelings of great unhappiness and loss of hope: ","wordDefPhrases":["Bergman's films are often full of gloom and despair.","There is widespread gloom and doom about the company's future."],"wordExamples":[]}

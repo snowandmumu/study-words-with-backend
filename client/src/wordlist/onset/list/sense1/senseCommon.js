@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the moment at which something begins, and especially something uncomfortable or unpleasant: ","wordDefPhrases":["the onset of winter"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to state something as true: ","wordDefPhrases":["The suspect affirmed (that) he had been at home all evening.","She affirmed her intention to apply for the post.","The government has affirmed its commitment to equal rights."],"wordExamples":[]}

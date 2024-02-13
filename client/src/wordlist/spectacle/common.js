@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈspek.tə.kəl/","us":"/ˈspek.tə.kəl/"},"wordClass":"noun"}

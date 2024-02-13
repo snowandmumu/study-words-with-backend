@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an illness, injury, or condition that makes it difficult for someone to do some things that other people do, and that is usually permanent or lasts for a long time. This word is now considered offensive by many people, who prefer the word disability.","wordDefPhrases":[],"wordExamples":[]}

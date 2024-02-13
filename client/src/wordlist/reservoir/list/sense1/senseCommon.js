@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a place for storing liquid, especially a natural or artificial lake providing water for a city or other area","wordDefPhrases":["The universities constitute a reservoir of expert knowledge."],"wordExamples":[]}

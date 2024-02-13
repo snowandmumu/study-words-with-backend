@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to give someone the official authority to be an officer in the armed forces: ","wordDefPhrases":["Grandfather was commissioned as Group Captain in the RAF just before the war."],"wordExamples":[]}

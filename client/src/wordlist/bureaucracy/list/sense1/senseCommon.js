@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a system for controlling or managing a country, company, or organization that is operated by a large number of officials employed to follow rules carefully: ","wordDefPhrases":["I had to deal with the university's bureaucracy when I was applying for financial aid."],"wordExamples":[]}

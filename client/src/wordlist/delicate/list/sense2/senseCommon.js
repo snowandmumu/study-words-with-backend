@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"C1","wordDef":"a situation, matter, etc. that needs to be dealt with carefully in order to avoid trouble or offence: ","wordDefPhrases":["I need to speak to you about a delicate matter."],"wordExamples":[]}

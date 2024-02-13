@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the first public performance of a play or any other type of entertainment: ","wordDefPhrases":["The world premiere of the opera will be at the Metropolitan Opera House in New York."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a collection of historical records relating to a place, organization, or family: ","wordDefPhrases":["archive film/footage/material","These old photographs should go in the family archives.","I've been studying village records in the local archive."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈtɪn.ju.ə.li/","us":"/kənˈtɪn.ju.ə.li/"},"wordClass":"adverb"}

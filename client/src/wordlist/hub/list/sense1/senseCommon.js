@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the central or main part of something where there is most activity: ","wordDefPhrases":["The City of London is the hub of the UK's financial world.","The computer department is at the hub of the company's operations."],"wordExamples":[]}

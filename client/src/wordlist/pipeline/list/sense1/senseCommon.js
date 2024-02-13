@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a very long large tube, often underground, through which liquid or gas can flow for long distances","wordDefPhrases":[],"wordExamples":[]}

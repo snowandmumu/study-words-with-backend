@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a roughly cut piece: ","wordDefPhrases":["a chunk of cheese/meat","pineapple/tuna chunks","a chunk of text","a substantial chunk of our profits","Three hours is quite a chunk out of my working day."],"wordExamples":[]}

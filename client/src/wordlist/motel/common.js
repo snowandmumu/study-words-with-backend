@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/məʊˈtel/","us":"/moʊˈtel/"},"wordClass":"noun"}

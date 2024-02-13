@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈzaɪd/","us":"/rɪˈzaɪd/"},"wordClass":"verb"}

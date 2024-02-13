@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"Sandy hair is a pale brownish-orange colour.","wordDefPhrases":[],"wordExamples":[]}

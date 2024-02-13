@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"agreement between and support for the members of a group, especially a political group: ","wordDefPhrases":["The situation raises important questions about solidarity among member states of the UN.","The purpose of the speech was to show solidarity with the country's leaders."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"caused by a virus: ","wordDefPhrases":["viral infections"],"wordExamples":[]}

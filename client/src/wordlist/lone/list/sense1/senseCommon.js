@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"alone: ","wordDefPhrases":["a lone survivor","He was a lone voice (= the only person) arguing against a reduction in payments."],"wordExamples":[]}

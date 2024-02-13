@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the second letter of the Greek alphabet","wordDefPhrases":[],"wordExamples":[]}

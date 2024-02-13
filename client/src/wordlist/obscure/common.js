@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/əbˈskjʊər/","us":"/əbˈskjʊr/"},"wordClass":"adjective"}

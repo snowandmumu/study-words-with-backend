@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to make someone angry or annoyed: ","wordDefPhrases":["After a while her behaviour really began to irritate me."],"wordExamples":[]}

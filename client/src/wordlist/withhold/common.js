@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/wɪðˈhəʊld/","us":"/wɪðˈhoʊld/"},"wordClass":"verb"}

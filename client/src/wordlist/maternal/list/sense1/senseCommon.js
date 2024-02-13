@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"behaving or feeling in the way that a mother does towards her child, especially in a kind, loving way: ","wordDefPhrases":["maternal instincts","She is very maternal towards her employees.","Her maternal grandmother (= mother's mother) is still alive."],"wordExamples":[]}

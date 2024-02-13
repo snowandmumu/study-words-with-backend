@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈfes/","us":"/kənˈfes/"},"wordClass":"verb"}

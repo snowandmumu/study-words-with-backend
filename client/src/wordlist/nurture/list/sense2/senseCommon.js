@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to have a particular emotion, plan, or idea for a long time: ","wordDefPhrases":["Winifred nurtured ambitions for her daughter to be a surgeon."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an event, or the rate at which something happens: ","wordDefPhrases":["There have been quite a few incidences of bullying in the school this year.","an increased incidence of cancer near nuclear power stations"],"wordExamples":[]}

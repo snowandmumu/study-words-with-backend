@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a student at a junior school","wordDefPhrases":["Lewis has just moved up to the juniors."],"wordExamples":[]}

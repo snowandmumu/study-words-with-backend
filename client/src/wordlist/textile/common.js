@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈtek.staɪl/","us":"/ˈtek.staɪl/"},"wordClass":"noun"}

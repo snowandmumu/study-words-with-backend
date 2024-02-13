@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a small baby: ","wordDefPhrases":["a newborn babe","It's up to you, babe. I'll do whatever you say.","He's a total babe."],"wordExamples":[]}

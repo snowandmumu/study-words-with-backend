@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to introduce something new that is necessary or helpful to a situation or process: ","wordDefPhrases":["A large amount of money will have to be injected into the company if it is to survive.","I tried to inject a little humour into the meeting."],"wordExamples":[]}

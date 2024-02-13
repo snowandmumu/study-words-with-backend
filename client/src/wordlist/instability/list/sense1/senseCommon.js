@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"uncertainty caused by the possibility of a sudden change in the present situation: ","wordDefPhrases":["political/economic instability","The instability of the euro continues.","The building's instability makes it extremely dangerous."],"wordExamples":[]}

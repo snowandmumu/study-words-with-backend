@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a situation in which you have a close friendship or sexual relationship with someone: ","wordDefPhrases":["Intimacy between teachers and students is not recommended.","It was obvious from their witty intimacies that they had been good friends for many years."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to make or try to make a person or an animal angry: ","wordDefPhrases":["It was a vicious-looking dog and I didn't want to provoke it.","He was clearly trying to get at me but I refused to be provoked.","I was provoked into the argument."],"wordExamples":[]}

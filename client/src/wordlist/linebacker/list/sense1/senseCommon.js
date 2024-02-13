@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a player in American football who tries to stop players from the other team from moving the ball along the field","wordDefPhrases":[],"wordExamples":[]}

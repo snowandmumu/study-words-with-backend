@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"to show clearly how good, strong, or effective something or someone is: ","wordDefPhrases":["I've never met a five-year-old as well behaved as your son - he's a tribute to you!"],"wordExamples":[]}

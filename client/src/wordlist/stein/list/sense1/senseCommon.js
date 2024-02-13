@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a very large cup, usually made of clay and often decorated, that has a handle and a lid and is used for drinking beer","wordDefPhrases":[],"wordExamples":[]}

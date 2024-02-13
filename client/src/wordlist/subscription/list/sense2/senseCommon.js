@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an opportunity to buy shares in a company: ","wordDefPhrases":["You will soon have the opportunity to purchase stock through a subscription offering."],"wordExamples":[]}

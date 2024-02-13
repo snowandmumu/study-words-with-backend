@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"B2","wordDef":"to remove the good or bad effects of an action or several actions: ","wordDefPhrases":["I did a really tough aerobics class and then went out for dinner and undid (all) the good work!","It's very difficult to undo the damage that's caused by inadequate parenting in a child's early years."],"wordExamples":[]}

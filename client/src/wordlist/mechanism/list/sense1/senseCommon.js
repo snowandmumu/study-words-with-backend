@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"a part of a machine, or a set of parts that work together: ","wordDefPhrases":["These automatic cameras have a special focusing mechanism."],"wordExamples":[]}

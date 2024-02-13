@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the action or advantage of using a lever: ","wordDefPhrases":["Using ropes and wooden poles for leverage, they haul sacks of cement up the track."],"wordExamples":[]}

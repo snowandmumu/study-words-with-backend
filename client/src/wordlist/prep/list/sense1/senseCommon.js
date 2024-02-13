@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"school work that students, especially students at private schools, do at home or not during school time: ","wordDefPhrases":["Do you have much prep tonight?"],"wordExamples":[]}

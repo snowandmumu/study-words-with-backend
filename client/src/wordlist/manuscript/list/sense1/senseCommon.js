@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the original copy of a book or article before it is printed: ","wordDefPhrases":["He sent the 400-page manuscript to his publisher.","It is thought that the manuscript is the work of a monk and dates from the twelfth century."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the group of people who work in a company, industry, country, etc.: ","wordDefPhrases":["The majority of factories in the region have a workforce of 50 to 100 (people).","Much of the workforce in the banking sector is/are affected by the new legislation."],"wordExamples":[]}

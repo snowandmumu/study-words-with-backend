@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"B2","wordDef":"to produce music, poetry, or formal writing: ","wordDefPhrases":["Prokofiev started composing at the age of five.","The music was specially composed for the film.","a piece of music composed for the flute","He composed this poem for his wife.","My lawyer is going to compose a letter of complaint."],"wordExamples":[]}

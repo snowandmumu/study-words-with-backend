@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make something into small pieces or a powder by pressing between hard surfaces: ","wordDefPhrases":["to grind coffee","Shall I grind a little black pepper over your salad?","They grind the grain into flour (= make flour by crushing grain) between two large stones."],"wordExamples":[]}

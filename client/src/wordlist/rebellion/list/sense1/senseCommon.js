@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"violent action organized by a group of people who are trying to change the political system in their country: ","wordDefPhrases":["The government has brutally crushed the rebellion.","a backbench rebellion against the new foreign policy","her teenage rebellion"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an area of land or sea that has been divided from other areas and is controlled by a particular country: ","wordDefPhrases":["What is the total oil output from the British sector of the North Sea?"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to cook something liquid, or something with liquid in it, at a temperature slightly below boiling: ","wordDefPhrases":["Leave the vegetables to simmer for a few minutes.","The strike has been simmering for weeks.","She's been simmering with resentment ever since the meeting."],"wordExamples":[]}

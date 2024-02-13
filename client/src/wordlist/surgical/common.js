@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈsɜː.dʒɪ.kəl/","us":"/ˈsɝː.dʒɪ.kəl/"},"wordClass":"adjective"}

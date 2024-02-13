@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"difficult to describe, find, achieve, or remember: ","wordDefPhrases":["The answers to these questions remain as elusive as ever.","Success, however, remained elusive for her.","elusive memories"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/bredθ/","us":"/bredθ/"},"wordClass":"noun"}

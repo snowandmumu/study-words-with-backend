@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/blɒnd/","us":"/blɑːnd/"},"wordClass":"adjective"}

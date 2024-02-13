@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"in a way that is not firmly held or attached: ","wordDefPhrases":["The parcel had only been loosely wrapped, and the paper had come off."],"wordExamples":[]}

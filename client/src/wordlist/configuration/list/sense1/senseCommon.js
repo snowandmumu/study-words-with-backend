@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the particular arrangement or pattern of a group of related things: ","wordDefPhrases":["We tried the furniture in different configurations to see which fit best."],"wordExamples":[]}

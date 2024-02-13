@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to beat eggs, cream, etc. with a special tool in order to add air and make the food light: ","wordDefPhrases":["Whisk the egg whites until stiff.","Remove mixture from heat and whisk in the brandy and vanilla essence."],"wordExamples":[]}

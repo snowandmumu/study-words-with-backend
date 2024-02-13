@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"existing very commonly or happening often: ","wordDefPhrases":["These diseases are more prevalent among young children.","Trees are dying in areas where acid rain is most prevalent."],"wordExamples":[]}

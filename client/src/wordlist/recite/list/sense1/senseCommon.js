@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to say a piece of writing aloud from memory, or to publicly say a list of things: ","wordDefPhrases":["She proudly recited the Pledge of Allegiance.","The opposition party recited a long list of the government's failings."],"wordExamples":[]}

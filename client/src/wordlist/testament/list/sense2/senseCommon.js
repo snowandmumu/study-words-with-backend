@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a will that someone makes, saying what should be done with their money and property after they die: ","wordDefPhrases":["This article will give clear instructions for making a last will and testament."],"wordExamples":[]}

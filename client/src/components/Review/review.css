@@ -1,0 +1,36 @@
+
+.review-container {
+    width: 700px;
+    margin: 0 auto;
+    .review-word-info {
+      /* border-bottom: 1px solid darkgrey; */
+      font-size: 12px;
+      color: #1d2a57;
+      overflow: hidden;
+      padding: 10px 16px 16px;
+      background-color: #efefef;
+      /* margin-bottom: 20px; */
+      border-radius: 8px;
+      border: 1px solid #dddddd;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      .response {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        .btn-box {
+          width: 49%;
+        }
+      }
+      .review-word {
+        border-bottom: 1px solid #dddddd;
+        padding-bottom: 6px;
+        margin-bottom: 10px;
+        .review-word-text {
+          font-size: 36px;
+          display: flex;
+          justify-content: space-between;
+        }
+      }
+    }
+}
+  

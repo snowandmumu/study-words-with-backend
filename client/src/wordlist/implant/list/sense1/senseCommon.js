@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to put an organ, group of cells, or device into the body in a medical operation: ","wordDefPhrases":["The owner's name and address is stored on a microchip and implanted in the dog's body."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a long, thin pole with a sharp point that soldiers used in the past as a weapon when riding horses","wordDefPhrases":[],"wordExamples":[]}

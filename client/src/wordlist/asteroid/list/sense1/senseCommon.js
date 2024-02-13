@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"one of many large rocks that circle the sun","wordDefPhrases":[],"wordExamples":[]}

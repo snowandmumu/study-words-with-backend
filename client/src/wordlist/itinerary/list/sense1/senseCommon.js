@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a detailed plan or route of a journey: ","wordDefPhrases":["The tour operator will arrange transport and plan your itinerary."],"wordExamples":[]}

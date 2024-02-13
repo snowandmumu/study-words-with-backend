@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˌvjet.nəˈmiːz/","us":"/ˌvjet.nəˈmiːz/"},"wordClass":"adjective"}

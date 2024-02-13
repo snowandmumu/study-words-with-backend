@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make an illegal copy of something in order to deceive: ","wordDefPhrases":["a forged passport","a forged signature","A number of forged works of art have been sold as genuine."],"wordExamples":[]}

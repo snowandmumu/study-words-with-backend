@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"used for medical operations: ","wordDefPhrases":["surgical supplies/instruments/gloves, etc.","surgical procedures/techniques/intervention","surgical staff","a surgical shoe/collar/corset"],"wordExamples":[]}

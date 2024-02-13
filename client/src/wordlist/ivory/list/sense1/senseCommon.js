@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the hard yellowish-white substance that forms the tusks of some animals such as elephants, used especially in the past to make decorative objects: ","wordDefPhrases":["Ivory is a softer material than you might imagine.","a ban on ivory trading","a collection of Japanese ivories"],"wordExamples":[]}

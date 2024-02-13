@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to sit or fall heavily and suddenly: ","wordDefPhrases":["She slumped into the chair, exhausted."],"wordExamples":[]}

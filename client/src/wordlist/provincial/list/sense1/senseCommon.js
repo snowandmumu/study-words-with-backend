@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who comes from somewhere in a country outside its capital city","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/skiːm/","us":"/skiːm/"},"wordClass":"noun"}

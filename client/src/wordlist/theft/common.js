@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/θeft/","us":"/θeft/"},"wordClass":"noun"}

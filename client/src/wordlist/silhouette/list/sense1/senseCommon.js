@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a dark shape seen against a light surface: ","wordDefPhrases":["The silhouette of the bare tree on the hill was clear against the winter sky."],"wordExamples":[]}

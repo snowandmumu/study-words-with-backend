@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the act of not allowing someone or something to take part in an activity or to enter a place: ","wordDefPhrases":["her exclusion from the list of Oscar nominees","the exclusion of disruptive students from school","He was obsessed, almost to the exclusion of everything else, with a family feud."],"wordExamples":[]}

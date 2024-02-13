@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"thinking carefully and quietly: ","wordDefPhrases":["After hearing the news they sat in a quiet, reflective silence."],"wordExamples":[]}

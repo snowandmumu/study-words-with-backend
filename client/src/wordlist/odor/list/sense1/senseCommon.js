@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"US spelling of \n        \n         odour UK formal ","wordDefPhrases":[],"wordExamples":[]}

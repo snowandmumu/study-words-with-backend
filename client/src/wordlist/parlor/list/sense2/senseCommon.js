@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"(especially in the past) a room in a private house used for relaxing, especially one that was kept clean and neat for entertaining guests: ","wordDefPhrases":["the front parlor"],"wordExamples":[]}

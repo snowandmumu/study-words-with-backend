@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"most important or best; leading: ","wordDefPhrases":["This is one of the country's foremost arts centres.","She's one of the foremost experts on child psychology."],"wordExamples":[]}

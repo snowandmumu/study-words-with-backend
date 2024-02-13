@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a rude word for solid waste, or an occasion when an animal or person produces solid waste: ","wordDefPhrases":["I stepped in a pile of crap.","to have (US take) a crap"],"wordExamples":[]}

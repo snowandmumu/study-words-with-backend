@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/snæp/","us":"/snæp/"},"wordClass":"verb"}

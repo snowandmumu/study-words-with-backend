@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/fəʊm/","us":"/foʊm/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to take or carry someone or something to a particular place: ","wordDefPhrases":["The goods are usually conveyed by rail.","Could you convey a message to Mr Merrick for me, please?"],"wordExamples":[]}

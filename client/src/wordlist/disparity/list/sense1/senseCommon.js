@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a lack of equality or similarity, especially in a way that is not fair: ","wordDefPhrases":["the growing disparity between rich and poor"],"wordExamples":[]}

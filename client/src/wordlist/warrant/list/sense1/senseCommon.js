@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make a particular activity necessary: ","wordDefPhrases":["Obviously what she did was wrong, but I don't think it warranted such a severe punishment.","It's a relatively simple task that really doesn't warrant a great deal of time being spent on it."],"wordExamples":[]}

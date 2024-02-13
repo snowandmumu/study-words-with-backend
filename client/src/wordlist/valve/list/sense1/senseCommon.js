@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a device that opens and closes to control the flow of liquids or gases, or a similar structure in the heart and the veins that controls the flow of blood: ","wordDefPhrases":["The valve failed to open/close.","It was a weak heart valve that caused her death."],"wordExamples":[]}

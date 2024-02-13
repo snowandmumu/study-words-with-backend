@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to change one thing into another: ","wordDefPhrases":["People used to believe that you could commute base metals into gold.","I think I'll commute my life insurance into an annuity.","Her sentence was commuted from death to life imprisonment."],"wordExamples":[]}

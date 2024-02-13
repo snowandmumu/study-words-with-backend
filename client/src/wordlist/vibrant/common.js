@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈvaɪ.brənt/","us":"/ˈvaɪ.brənt/"},"wordClass":"adjective"}

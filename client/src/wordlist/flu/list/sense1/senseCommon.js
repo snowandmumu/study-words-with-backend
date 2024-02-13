@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B1","wordDef":"a common infectious illness that causes fever and headache: ","wordDefPhrases":["a flu virus","to catch/get/have (the) flu"],"wordExamples":["She's very hot and shivery, so I think she must have flu.","There are lots of people off school this week with flu."]}

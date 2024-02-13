@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a short journey usually made for pleasure, often by a group of people: ","wordDefPhrases":["This year's annual excursion will be to Lincoln.","Next week we're going on an excursion.","A teacher by profession, this is her first excursion into writing."],"wordExamples":[]}

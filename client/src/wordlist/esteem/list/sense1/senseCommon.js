@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"respect for or a good opinion of someone: ","wordDefPhrases":["There has been a drop in public esteem for teachers.","Because of their achievements they were held in (= given) (high) esteem."],"wordExamples":[]}

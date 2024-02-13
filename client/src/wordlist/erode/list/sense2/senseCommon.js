@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to slowly reduce or destroy something: ","wordDefPhrases":["His behaviour over the last few months has eroded my confidence in his judgment."],"wordExamples":[]}

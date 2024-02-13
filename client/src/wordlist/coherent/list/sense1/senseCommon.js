@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered, and each part of it connects or follows in a natural or reasonable way.","wordDefPhrases":["When she calmed down, she was more coherent (= able to speak clearly and be understood)."],"wordExamples":[]}

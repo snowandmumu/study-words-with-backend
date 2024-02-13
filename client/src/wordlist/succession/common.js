@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/səkˈseʃ.ən/","us":"/səkˈseʃ.ən/"},"wordClass":"noun"}

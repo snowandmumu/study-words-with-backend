@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"rock or soil from which metal can be obtained: ","wordDefPhrases":["iron/copper ore"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈraɪ.vəl/","us":"/ˈraɪ.vəl/"},"wordClass":"noun"}

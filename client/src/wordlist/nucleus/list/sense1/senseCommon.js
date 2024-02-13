@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the central part of an atom, usually made up of protons and neutrons","wordDefPhrases":["DNA is stored in the nucleus of a cell.","These three players will form the nucleus of a revised and stronger team."],"wordExamples":[]}

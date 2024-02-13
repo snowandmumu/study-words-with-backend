@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the act of hitting someone with your hand in a light, joking way: ","wordDefPhrases":["She gave him a playful cuff on the shoulder."],"wordExamples":[]}

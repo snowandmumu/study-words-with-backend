@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"C1","wordDef":"suitable for the situation in which something is used: ","wordDefPhrases":["I tend to wear clothes that are practical rather than fashionable.","Heavy boots aren't very practical for running."],"wordExamples":[]}

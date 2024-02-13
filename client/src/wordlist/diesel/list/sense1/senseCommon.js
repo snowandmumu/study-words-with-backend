@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a type of heavy oil used as fuel: ","wordDefPhrases":["a diesel engine","My new car runs on (= uses) diesel."],"wordExamples":[]}

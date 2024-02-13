@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈɪn.tel/","us":"/ˈɪn.tel/"},"wordClass":"noun"}

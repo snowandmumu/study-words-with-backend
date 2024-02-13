@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make an object sharp: ","wordDefPhrases":["The bone had been honed to a point."],"wordExamples":[]}

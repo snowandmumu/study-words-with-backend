@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"A reflective surface sends back most of the light that shines on it and can therefore be seen easily.","wordDefPhrases":[],"wordExamples":[]}

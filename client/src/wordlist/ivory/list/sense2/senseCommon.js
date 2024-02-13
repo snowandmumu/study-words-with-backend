@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a pale cream colour: ","wordDefPhrases":["The elegant navy-blue dress has a leafy pattern in ivory."],"wordExamples":[]}

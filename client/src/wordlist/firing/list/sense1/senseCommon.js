@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an act of removing someone from their job: ","wordDefPhrases":["hirings and firings"],"wordExamples":[]}

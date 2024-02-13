@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to think carefully about something, especially for a noticeable length of time: ","wordDefPhrases":["She sat back for a minute to ponder her next move in the game."],"wordExamples":[]}

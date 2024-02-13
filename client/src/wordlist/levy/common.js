@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈlev.i/","us":"/ˈlev.i/"},"wordClass":"noun"}

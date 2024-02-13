@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈfaɪn/","us":"/rɪˈfaɪn/"},"wordClass":"verb"}

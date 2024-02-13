@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"a way of doing something that is planned or part of a system: ","wordDefPhrases":["The mechanism for collecting taxes needs revising."],"wordExamples":[]}

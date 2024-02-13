@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an open area or square in a town, especially in Spanish-speaking countries","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to rub or be rubbed away gradually: ","wordDefPhrases":["Wind and rain have eroded the statues into shapeless lumps of stone.","The cliffs are eroding several feet a year."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make a sound quieter and less clear: ","wordDefPhrases":["The house has double-glazed windows to muffle the noise of aircraft.","The report concluded that business pressure on the government had muffled the impact of the legislation."],"wordExamples":[]}

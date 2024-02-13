@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the state of being near in space or time: ","wordDefPhrases":["The best thing about the location of the house is its proximity to the town centre."],"wordExamples":[]}

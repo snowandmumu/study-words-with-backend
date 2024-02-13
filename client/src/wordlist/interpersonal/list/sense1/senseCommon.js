@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"connected with relationships between people: ","wordDefPhrases":["The successful applicant will have excellent interpersonal skills."],"wordExamples":[]}

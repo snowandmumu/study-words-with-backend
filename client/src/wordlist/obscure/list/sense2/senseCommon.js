@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not clear and difficult to understand or see: ","wordDefPhrases":["Official policy has changed, for reasons that remain obscure.","His answers were obscure and confusing."],"wordExamples":[]}

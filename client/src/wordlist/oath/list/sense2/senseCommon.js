@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an offensive word, especially one that uses a name for God: ","wordDefPhrases":["muttering/mouthing oaths"],"wordExamples":[]}

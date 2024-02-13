@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not tight; loose: ","wordDefPhrases":["These tent ropes are too slack - they need tightening."],"wordExamples":[]}

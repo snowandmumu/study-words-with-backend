@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a religious leader and teacher in the Jewish religion: ","wordDefPhrases":["Rabbi Jonathan Sacks","Good morning, Rabbi."],"wordExamples":[]}

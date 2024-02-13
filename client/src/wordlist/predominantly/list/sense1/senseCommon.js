@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"mostly or mainly: ","wordDefPhrases":["a predominantly Muslim community","She is predominantly a dancer, but she also sings."],"wordExamples":[]}

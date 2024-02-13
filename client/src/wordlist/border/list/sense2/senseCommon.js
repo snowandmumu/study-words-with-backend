@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a strip that goes around or along the edge of something, often as decoration: ","wordDefPhrases":["The dress was white with a delicate lace border.","a picture with a decorative/plain border","to weed/plant the borders"],"wordExamples":[]}

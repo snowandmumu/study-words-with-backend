@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"When a tree or plant blossoms, it produces flowers before producing fruit that can be eaten: ","wordDefPhrases":["The cherry tree is beginning to blossom.","She has really blossomed recently.","They are all blossoming into attractive, confident adults.","Sean and Sarah's friendship blossomed into love."],"wordExamples":[]}

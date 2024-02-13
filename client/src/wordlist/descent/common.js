@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/dɪˈsent/","us":"/dɪˈsent/"},"wordClass":"noun"}

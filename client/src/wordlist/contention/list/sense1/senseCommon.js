@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the disagreement that results from opposing arguments: ","wordDefPhrases":["There's a lot of contention about that issue - for every person firmly in favour, there's someone fiercely against it.","The issue has been settled - it's no longer in contention."],"wordExamples":[]}

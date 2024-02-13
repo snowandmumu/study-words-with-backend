@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/deɪl/","us":"/deɪl/"},"wordClass":"noun"}

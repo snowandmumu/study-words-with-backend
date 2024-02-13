@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a drink of any type: ","wordDefPhrases":["Hot beverages include tea, coffee, and hot chocolate.","We do not sell alcoholic beverages."],"wordExamples":[]}

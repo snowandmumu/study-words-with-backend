@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"used to refer to the part of the work of teachers and priests that involves giving help and advice about personal matters: ","wordDefPhrases":["A priest's pastoral duties include helping the poor and sick."],"wordExamples":[]}

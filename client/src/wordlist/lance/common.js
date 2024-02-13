@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/lɑːns/","us":"/læns/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a large pile of earth, stones, etc. like a small hill: ","wordDefPhrases":["a burial mound (= a place where people were buried in ancient times)","a mound of potatoes/papers"],"wordExamples":[]}

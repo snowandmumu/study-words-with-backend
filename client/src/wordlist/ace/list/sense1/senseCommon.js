@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"one of the four playing cards with a single mark or spot. The ace has the highest or lowest value in many card games: ","wordDefPhrases":["the ace of hearts/clubs/spades/diamonds"],"wordExamples":[]}

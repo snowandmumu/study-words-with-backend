@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an act of taking in something, especially breath: ","wordDefPhrases":["I heard a sharp intake of breath behind me."],"wordExamples":[]}

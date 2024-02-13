@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"relating to territory: ","wordDefPhrases":["a territorial dispute","Some animals and birds are territorial (= they mark out areas which they defend against others)."],"wordExamples":[]}

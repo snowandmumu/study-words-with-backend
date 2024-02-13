@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"used to describe something that quickly becomes very popular or well known by being published on the internet or sent from person to person by email, phone, etc.: ","wordDefPhrases":["Here's a list of the top ten viral videos this week.","Within days the film clip went viral."],"wordExamples":[]}

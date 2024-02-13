@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈbeɪ.sən/","us":"/ˈbeɪ.sən/"},"wordClass":"noun"}

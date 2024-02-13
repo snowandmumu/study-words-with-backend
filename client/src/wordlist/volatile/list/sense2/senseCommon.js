@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"A volatile liquid or solid substance will change easily into a gas: ","wordDefPhrases":["The substance is highly volatile.","volatile compounds"],"wordExamples":["There are different rules for ships carrying highly volatile cargo, such as oil.","Fruit release volatile compounds which attract animals and insects."]}

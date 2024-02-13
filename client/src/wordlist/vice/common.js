@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/vaɪs/","us":"/vaɪs/"},"wordClass":"prefix"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"If you say something evenly, you speak without showing emotion in your voice although you are angry or not satisfied in some way: ","wordDefPhrases":["\"We are not terrorists,\" he said evenly. \"We are freedom fighters.\""],"wordExamples":[]}

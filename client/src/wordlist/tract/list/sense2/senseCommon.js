@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a large area of land: ","wordDefPhrases":["The house is surrounded by vast tracts of woodland.","a 132-acre tract in Irving"],"wordExamples":[]}

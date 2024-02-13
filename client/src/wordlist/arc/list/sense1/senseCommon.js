@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the shape of part of a circle, or other curved line: ","wordDefPhrases":["The ball rose in a high arc and fell behind the boundary line."],"wordExamples":[]}

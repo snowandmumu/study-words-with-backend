@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"giving advice on a particular subject: ","wordDefPhrases":["a consulting lawyer/engineer"],"wordExamples":[]}

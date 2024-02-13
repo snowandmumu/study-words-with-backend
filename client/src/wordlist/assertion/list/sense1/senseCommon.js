@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a statement that you strongly believe is true: ","wordDefPhrases":["I certainly don't agree with his assertion that men are better drivers than women."],"wordExamples":[]}

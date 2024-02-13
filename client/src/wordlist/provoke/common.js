@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prəˈvəʊk/","us":"/prəˈvoʊk/"},"wordClass":"verb"}

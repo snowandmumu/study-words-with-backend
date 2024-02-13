@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the main stem of a plant, or the narrow stem that joins leaves, flowers, or fruit to the main stem of a plant: ","wordDefPhrases":["She trimmed the stalks of the tulips before putting them in a vase.","The eyes of shrimps are on movable stalks."],"wordExamples":[]}

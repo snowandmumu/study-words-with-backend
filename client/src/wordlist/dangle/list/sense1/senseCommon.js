@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to hang loosely, or to hold something so that it hangs loosely: ","wordDefPhrases":["Loose electric wires were dangling from the wall.","He dangled the puppet in front of the children.","I've tried dangling all kinds of offers in front of him to get him to work harder at school, but nothing works."],"wordExamples":[]}

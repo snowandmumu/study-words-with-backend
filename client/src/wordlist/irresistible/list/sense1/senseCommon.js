@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"impossible to refuse, oppose, or avoid because it is too pleasant, attractive, or strong: ","wordDefPhrases":["an irresistible offer","She gave me one of those irresistible smiles and I just had to agree."],"wordExamples":[]}

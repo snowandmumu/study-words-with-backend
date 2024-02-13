@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a chemical substance used to kill harmful insects, small animals, wild plants, and other unwanted organisms: ","wordDefPhrases":["The pesticides that farmers spray on their crops kill pests, but they can also damage people's health."],"wordExamples":[]}

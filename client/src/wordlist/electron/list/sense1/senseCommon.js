@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an extremely small piece of matter with a negative electrical charge","wordDefPhrases":[],"wordExamples":[]}

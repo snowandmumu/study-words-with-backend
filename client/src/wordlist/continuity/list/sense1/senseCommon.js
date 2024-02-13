@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the fact of something continuing for a long period of time without being changed or stopped: ","wordDefPhrases":["There has been no continuity in that class - they've had six different teachers."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the part of the eye behind the pupil (= the black hole at the front of the eye) that helps you to see clearly by focusing (= collecting) light onto the retina","wordDefPhrases":[],"wordExamples":[]}

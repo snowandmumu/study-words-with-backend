@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"Impractical people are not naturally good at doing useful jobs such as making or repairing things.","wordDefPhrases":["It's impractical to have so many people all trying to use this equipment at the same time.","I love high heels but they're rather impractical."],"wordExamples":[]}

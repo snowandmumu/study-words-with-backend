@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to happen between two times or between other events or activities: ","wordDefPhrases":["Two decades intervened between the completion of the design and the opening of the theatre."],"wordExamples":[]}

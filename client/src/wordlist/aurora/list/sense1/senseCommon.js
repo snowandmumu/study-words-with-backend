@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a natural appearance of coloured light in the sky that is usually seen in the latitudes (= parts of earth) nearest the Arctic or Antarctic","wordDefPhrases":[],"wordExamples":[]}

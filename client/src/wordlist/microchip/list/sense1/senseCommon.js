@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a \n        \n         chip  ","wordDefPhrases":[],"wordExamples":[]}

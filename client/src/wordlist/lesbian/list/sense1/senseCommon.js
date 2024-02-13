@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a woman who is sexually or romantically attracted to other women and not to people of other genders: ","wordDefPhrases":["gay men and lesbians"],"wordExamples":[]}

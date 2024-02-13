@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to officially choose someone for a job or to do something: ","wordDefPhrases":["She was nominated as the delegation's official interpreter.","President Yeltsin nominated acting prime minister Sergei Kiriyenko to head the government."],"wordExamples":[]}

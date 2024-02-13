@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the height of a place above the level of the sea: ","wordDefPhrases":["Atmospheric pressure varies with elevation and temperature.","The crop is not grown at high elevations/above an elevation of 1,000 metres."],"wordExamples":[]}

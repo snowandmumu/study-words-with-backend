@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an opportunity: ","wordDefPhrases":["a photo op (= a chance for a politician, etc. to be photographed looking good or doing good things)"],"wordExamples":[]}

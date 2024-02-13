@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a system in which people or things are arranged according to their importance: ","wordDefPhrases":["Some monkeys have a very complex social hierarchy.","He rose quickly through the political hierarchy to become party leader."],"wordExamples":[]}

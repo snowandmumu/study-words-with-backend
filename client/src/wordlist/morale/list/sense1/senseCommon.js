@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation: ","wordDefPhrases":["A couple of victories would improve the team's morale enormously.","There have been a lot of job losses recently so morale is fairly low."],"wordExamples":[]}

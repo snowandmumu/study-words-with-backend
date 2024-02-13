@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a skilled person with experience who is in charge of and watches over a group of workers","wordDefPhrases":[],"wordExamples":[]}

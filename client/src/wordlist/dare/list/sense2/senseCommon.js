@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to ask someone to do something that involves risk: ","wordDefPhrases":["Wear the low-cut blouse with your pink shorts - go on, I dare you!","I dare you to ask him to dance."],"wordExamples":[]}

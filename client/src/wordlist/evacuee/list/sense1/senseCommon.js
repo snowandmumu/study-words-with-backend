@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who is evacuated from a dangerous place, especially during a war: ","wordDefPhrases":["Thousands of evacuees crossed the border to safety."],"wordExamples":[]}

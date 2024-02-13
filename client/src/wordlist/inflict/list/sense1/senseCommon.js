@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to force someone to experience something very unpleasant: ","wordDefPhrases":["These new bullets are capable of inflicting massive injuries.","The suffering inflicted on these children was unimaginable."],"wordExamples":[]}

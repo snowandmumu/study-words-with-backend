@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/spæn/","us":"/spæn/"},"wordClass":"noun"}

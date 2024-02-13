@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prəˈməʊt/","us":"/prəˈmoʊt/"},"wordClass":"verb"}

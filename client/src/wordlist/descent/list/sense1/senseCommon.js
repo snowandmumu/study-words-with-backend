@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the state or fact of being related to a particular person or group of people who lived in the past: ","wordDefPhrases":["She's a woman of mixed/French descent.","They trace their line of descent back to a French duke.","He claims direct descent from Mohammed."],"wordExamples":[]}

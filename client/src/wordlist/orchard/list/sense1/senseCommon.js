@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an area of land where fruit trees (but not orange trees or other citrus trees) are grown: ","wordDefPhrases":["an apple/cherry orchard"],"wordExamples":[]}

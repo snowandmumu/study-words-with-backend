@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"women's shoes with a heel all the way under the shoe","wordDefPhrases":[],"wordExamples":[]}

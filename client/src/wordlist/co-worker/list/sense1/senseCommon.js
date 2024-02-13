@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who you work with, especially someone with a similar job or level of responsibility","wordDefPhrases":[],"wordExamples":[]}

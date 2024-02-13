@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the way that organizations or countries are managed at the highest level, and the systems for doing this: ","wordDefPhrases":["We aim to promote and maintain the highest standards of directorship and corporate governance."],"wordExamples":[]}

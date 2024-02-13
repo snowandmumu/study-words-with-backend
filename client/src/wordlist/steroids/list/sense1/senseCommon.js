@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"one of the different types of chemical substances that are produced in the body","wordDefPhrases":["I'm taking steroids/I'm on steroids for my asthma."],"wordExamples":[]}

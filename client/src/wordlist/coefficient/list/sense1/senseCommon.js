@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a value, in mathematics, that appears in front of and multiplies another value: ","wordDefPhrases":["In 2x + 4y = 7, 2 is the coefficient of x."],"wordExamples":[]}

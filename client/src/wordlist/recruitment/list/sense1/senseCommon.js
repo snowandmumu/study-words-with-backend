@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"the process of finding people to work for a company or become a new member of an organization: ","wordDefPhrases":["The recession has forced a lot of companies to cut down on graduate recruitment.","It's all part of a recruitment drive intended to increase the party's falling numbers."],"wordExamples":[]}

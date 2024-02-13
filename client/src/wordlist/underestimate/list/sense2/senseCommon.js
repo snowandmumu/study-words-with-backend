@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to fail to understand how strong, skilful, intelligent, or determined someone, especially a competitor, is: ","wordDefPhrases":["Never underestimate your opponent!"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"received from someone who has died: ","wordDefPhrases":["inherited money/property/wealth"],"wordExamples":[]}

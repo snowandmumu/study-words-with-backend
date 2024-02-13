@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who enters a place illegally and usually violently, and steals from it: ","wordDefPhrases":["Armed raiders forced their way into the couple's home."],"wordExamples":[]}

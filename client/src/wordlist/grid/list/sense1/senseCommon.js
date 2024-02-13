@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a pattern or structure made from horizontal and vertical lines crossing each other to form squares: ","wordDefPhrases":["A metal grid had been placed over the hole to prevent people from falling in.","In Barcelona the streets are laid out in/on a grid system."],"wordExamples":[]}

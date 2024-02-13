@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"to provide, and sometimes serve, food: ","wordDefPhrases":["I'm catering for twelve on Sunday - the whole family is coming.","Which firm will be catering at the wedding reception?","Who catered your party?"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(an act of) murder: ","wordDefPhrases":["He was convicted of homicide.","The number of homicides in the city has risen sharply."],"wordExamples":[]}

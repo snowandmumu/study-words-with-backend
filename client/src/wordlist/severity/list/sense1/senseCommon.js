@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"seriousness: ","wordDefPhrases":["Even the doctors were shocked by the severity of his injuries.","I don't think you quite understand the severity of our financial problems."],"wordExamples":[]}

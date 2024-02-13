@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a member of a female religious group that lives in a convent: ","wordDefPhrases":["a convent school run by Catholic nuns"],"wordExamples":["She decided to become a nun.","All the nuns live in this convent."]}

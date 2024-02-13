@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a wide road in a city, usually with trees on each side or along the centre: ","wordDefPhrases":["We strolled along the boulevard."],"wordExamples":[]}

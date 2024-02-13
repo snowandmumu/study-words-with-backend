@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to become greater, more serious, or more extreme, or to make something do this: ","wordDefPhrases":["Fighting around the capital has intensified in the last few hours."],"wordExamples":[]}

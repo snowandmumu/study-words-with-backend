@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a person who pays rent for the use of land or a building","wordDefPhrases":[],"wordExamples":["Tenants are complaining that vital repairs are not being done.","They formed a tenants association.","He was cruel to his tenants.","Tenants had to give part of their harvest to the landowners."]}

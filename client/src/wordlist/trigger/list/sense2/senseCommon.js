@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an event or situation, etc. that causes something to start: ","wordDefPhrases":["There are fears that the incident may be a trigger for more violence in the capital.","A trigger is something that sets off a flashback, transporting the person back to the traumatic event."],"wordExamples":[]}

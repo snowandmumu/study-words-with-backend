@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the removal of a liquid or gas from a space in the body using suction (= a sucking action): ","wordDefPhrases":["Aspiration of typical cyst fluid confirms the diagnosis.","bone marrow aspiration","Check the patient's gag reflex to prevent aspiration.","aspiration of an object"],"wordExamples":[]}

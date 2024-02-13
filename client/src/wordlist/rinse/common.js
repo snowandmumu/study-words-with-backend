@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪns/","us":"/rɪns/"},"wordClass":"verb"}

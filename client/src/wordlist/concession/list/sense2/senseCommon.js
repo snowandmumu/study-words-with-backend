@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"a reduction in the usual price of something, made available to students, old people, etc.: ","wordDefPhrases":["You can get travel concessions if you are under 26."],"wordExamples":[]}

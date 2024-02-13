@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a comparison between things that have similar features, often used to help explain a principle or idea: ","wordDefPhrases":["He drew an analogy between the brain and a vast computer.","It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete."],"wordExamples":[]}

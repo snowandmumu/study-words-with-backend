@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to eat something extremely fast: ","wordDefPhrases":["Tony inhaled his burger."],"wordExamples":[]}

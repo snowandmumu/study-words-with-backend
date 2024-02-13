@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a group of people or countries who join together because they have the same interest: ","wordDefPhrases":["the League of Nations"],"wordExamples":[]}

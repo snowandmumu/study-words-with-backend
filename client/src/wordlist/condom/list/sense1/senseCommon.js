@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a thin rubber covering that a man can wear on his penis during sex to stop a woman becoming pregnant or to protect him or his partner against infectious diseases","wordDefPhrases":[],"wordExamples":[]}

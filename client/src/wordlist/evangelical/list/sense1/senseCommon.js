@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"belonging to one of the Protestant Churches or Christian groups that believes that the teaching of the Bible and persuading other people to join them is extremely important: ","wordDefPhrases":["the Evangelical movement"],"wordExamples":[]}

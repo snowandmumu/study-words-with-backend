@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a problem that you have to deal with before you can make progress: ","wordDefPhrases":["Getting a work permit was the first hurdle to overcome.","The cost of this exercise is proving to be a major hurdle."],"wordExamples":[]}

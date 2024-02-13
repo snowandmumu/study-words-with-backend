@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a cloth or long, loose piece of clothing that is used to wrap a dead body before it is buried","wordDefPhrases":[],"wordExamples":[]}

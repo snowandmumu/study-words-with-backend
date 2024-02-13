@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɡluːm/","us":"/ɡluːm/"},"wordClass":"noun"}

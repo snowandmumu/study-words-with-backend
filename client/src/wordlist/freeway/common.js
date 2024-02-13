@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈfriː.weɪ/","us":"/ˈfriː.weɪ/"},"wordClass":"noun"}

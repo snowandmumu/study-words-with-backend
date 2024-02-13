@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a computer program that changes the instructions in another program into a form that can be easily understood by a computer","wordDefPhrases":[],"wordExamples":[]}

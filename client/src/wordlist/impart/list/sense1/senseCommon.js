@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to communicate information to someone: ","wordDefPhrases":["to impart the bad news","I was rather quiet as I didn't feel I had much wisdom to impart on the subject.","Preservatives can impart colour and flavour to a product."],"wordExamples":[]}

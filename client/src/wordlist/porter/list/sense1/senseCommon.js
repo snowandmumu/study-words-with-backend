@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a person whose job is to carry things, especially travellers' bags at railway stations, airports, hotels etc.: ","wordDefPhrases":["There aren't any porters, so we'll have to find a trolley for the luggage.","The porter opened the door for me and then called a taxi."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to pull and then release the strings of a musical instrument with your finger to play notes: ","wordDefPhrases":["He sat on the bed, idly plucking (at) the strings of his guitar."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not staying the same in behaviour or quality: ","wordDefPhrases":["The teacher said that Alex's schoolwork was very inconsistent.","Problems arise if the parents' approach to discipline is inconsistent."],"wordExamples":[]}

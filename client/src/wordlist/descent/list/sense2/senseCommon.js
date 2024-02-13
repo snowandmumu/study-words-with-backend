@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an occasion when a group of people arrive somewhere, usually suddenly or unexpectedly: ","wordDefPhrases":["We weren't prepared for the descent of thousands of journalists on the town."],"wordExamples":[]}

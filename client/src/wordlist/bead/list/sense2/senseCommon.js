@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a very small amount of liquid: ","wordDefPhrases":["Beads of sweat stood out on his forehead."],"wordExamples":[]}

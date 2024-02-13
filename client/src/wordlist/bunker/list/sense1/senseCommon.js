@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a shelter, usually underground, that has strong walls to protect the people inside it from bullets or bombs","wordDefPhrases":[],"wordExamples":[]}

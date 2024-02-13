@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to study or investigate something in order to understand it: ","wordDefPhrases":["It's hard to penetrate her mind.","He penetrates deeper into the artist's life in the second volume of his autobiography."],"wordExamples":[]}

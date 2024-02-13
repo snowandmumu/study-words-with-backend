@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"B1","wordDef":"covered with sand or containing sand: ","wordDefPhrases":["a lovely sandy beach","sandy soil"],"wordExamples":[]}

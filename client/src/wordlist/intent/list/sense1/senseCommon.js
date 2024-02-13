@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"giving all your attention to something: ","wordDefPhrases":["an intent stare","She had an intent look on her face."],"wordExamples":[]}

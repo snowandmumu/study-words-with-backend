@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an order to temporarily stop something, especially trading or giving information: ","wordDefPhrases":["They have put an embargo on imports of clothing.","The police asked for a news embargo while they tried to find the kidnapper."],"wordExamples":[]}

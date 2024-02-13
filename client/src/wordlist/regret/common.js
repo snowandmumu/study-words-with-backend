@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rɪˈɡret/","us":"/rɪˈɡret/"},"wordClass":"noun"}

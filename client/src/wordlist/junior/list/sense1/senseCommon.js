@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"someone who has a job at a low level within an organization: ","wordDefPhrases":["an office junior"],"wordExamples":[]}

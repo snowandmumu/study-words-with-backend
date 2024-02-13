@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kəmˈpaɪl/","us":"/kəmˈpaɪl/"},"wordClass":"verb"}

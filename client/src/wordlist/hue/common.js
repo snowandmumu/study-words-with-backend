@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/hjuː/","us":"/hjuː/"},"wordClass":"noun"}

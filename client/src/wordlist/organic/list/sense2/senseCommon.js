@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"being or coming from living plants and animals: ","wordDefPhrases":["A quarter of the contents of an average family's dustbin is organic matter."],"wordExamples":[]}

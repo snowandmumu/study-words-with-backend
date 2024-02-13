@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"behaviour that is illegal because it does not obey or respect the rules of a law court: ","wordDefPhrases":["The tobacco companies may be guilty of contempt of court for refusing to produce the documents."],"wordExamples":[]}

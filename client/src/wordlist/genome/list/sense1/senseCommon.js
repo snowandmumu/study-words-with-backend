@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the complete set of genetic material of a human, animal, plant, or other living thing","wordDefPhrases":[],"wordExamples":[]}

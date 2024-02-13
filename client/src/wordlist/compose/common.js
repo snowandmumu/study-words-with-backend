@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kəmˈpəʊz/","us":"/kəmˈpoʊz/"},"wordClass":"verb"}

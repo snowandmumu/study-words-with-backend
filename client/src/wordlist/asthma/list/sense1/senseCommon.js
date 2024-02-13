@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a medical condition that makes breathing difficult by causing the air passages to become narrow or blocked: ","wordDefPhrases":["an asthma sufferer","Medics tended to a boy who was having an asthma attack. "],"wordExamples":[]}

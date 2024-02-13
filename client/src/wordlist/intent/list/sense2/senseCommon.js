@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to be determined to do or achieve something: ","wordDefPhrases":["I've tried persuading her not to go but she's intent on it."],"wordExamples":[]}

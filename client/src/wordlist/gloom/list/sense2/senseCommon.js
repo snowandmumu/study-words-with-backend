@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a situation in which it is nearly dark and difficult to see well: ","wordDefPhrases":["She peered into the gloom, but she couldn't see where the noise was coming from.","A figure emerged from the gloom of the corridor."],"wordExamples":[]}

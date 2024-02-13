@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"B2","wordDef":"to become more familiar with a new situation: ","wordDefPhrases":["I can't adjust to living on my own.","Her eyes slowly adjusted to the dark.","The lifestyle is so very different - it takes a while to adjust."],"wordExamples":[]}

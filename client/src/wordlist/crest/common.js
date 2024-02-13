@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/krest/","us":"/krest/"},"wordClass":"noun"}

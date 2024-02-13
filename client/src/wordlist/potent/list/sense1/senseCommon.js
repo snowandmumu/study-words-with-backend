@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"very powerful, forceful, or effective: ","wordDefPhrases":["Surprise remains the terrorists' most potent weapon.","The Berlin Wall was a potent symbol of the Cold War.","This is a very potent drug and can have unpleasant side-effects."],"wordExamples":[]}

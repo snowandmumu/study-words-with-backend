@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who is an accepted member of a group and who therefore has special or secret knowledge or influence: ","wordDefPhrases":["According to insiders, the committee is having difficulty making up its mind."],"wordExamples":[]}

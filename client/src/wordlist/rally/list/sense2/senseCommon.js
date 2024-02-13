@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"a car or motorcycle race, especially over long distances on public roads: ","wordDefPhrases":["The French driver has taken the lead in the Paris-Dakar rally."],"wordExamples":[]}

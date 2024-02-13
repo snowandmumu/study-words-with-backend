@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"to interest someone a lot: ","wordDefPhrases":["Science has always fascinated me.","Anything to do with planes and flying fascinates him."],"wordExamples":[]}

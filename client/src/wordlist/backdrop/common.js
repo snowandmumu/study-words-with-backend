@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈbæk.drɒp/","us":"/ˈbæk.drɑːp/"},"wordClass":"noun"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who is eating a meal, especially in a restaurant","wordDefPhrases":[],"wordExamples":[]}

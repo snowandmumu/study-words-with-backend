@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a situation in which two or more people in a conversation are talking at the same time: ","wordDefPhrases":["People complained that there was too much crosstalk on the show, that we were always talking over each other.","Cross-talk can be very difficult to interpret for people with hearing loss."],"wordExamples":[]}

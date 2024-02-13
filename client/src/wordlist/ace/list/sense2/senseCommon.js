@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a person who is very skilled at something: ","wordDefPhrases":["a tennis/flying ace"],"wordExamples":[]}

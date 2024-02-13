@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(of a person's face) more pale than usual and tired-looking","wordDefPhrases":[],"wordExamples":[]}

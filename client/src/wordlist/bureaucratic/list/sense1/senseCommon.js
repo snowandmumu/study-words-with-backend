@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"relating to a system of controlling or managing a country, company, or organization that is operated by a large number of officials: ","wordDefPhrases":["The company was inefficient because it was highly bureaucratic.","I had a lot of bureaucratic hassle trying to get the information I needed."],"wordExamples":[]}

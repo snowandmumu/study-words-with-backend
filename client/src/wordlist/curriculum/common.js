@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kəˈrɪk.jə.ləmkəˈrɪk.jə.lə/","us":"/kəˈrɪk.jə.ləmkəˈrɪk.jə.lə/"},"wordClass":"noun"}

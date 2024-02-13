@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"light and small enough to be easily carried or moved: ","wordDefPhrases":["a portable radio/phone/computer","They offer portable pensions, carried by employees from job to job.","Your phone number is portable if you decide to move to a different home or office."],"wordExamples":[]}

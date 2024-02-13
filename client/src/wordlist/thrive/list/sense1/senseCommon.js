@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"to grow, develop, or be successful: ","wordDefPhrases":["His business thrived in the years before the war.","She seems to thrive on stress."],"wordExamples":[]}

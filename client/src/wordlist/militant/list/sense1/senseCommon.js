@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"active, determined, and often willing to use force: ","wordDefPhrases":["militant extremists","The group has taken a militant position on the abortion issue and is refusing to compromise."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the particular type of character that a person naturally has: ","wordDefPhrases":["She is of a nervous/cheerful/sunny disposition.","a disposition to deceive"],"wordExamples":[]}

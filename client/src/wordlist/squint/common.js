@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/skwɪnt/","us":"/skwɪnt/"},"wordClass":"verb"}

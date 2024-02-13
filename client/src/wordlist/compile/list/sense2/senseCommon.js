@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to change a computer program into a machine language","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the quality of being very unkind or unpleasant: ","wordDefPhrases":["He spoke with great severity.","The severity of the punishment should match the seriousness of the crime."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈhaɪ.brɪd/","us":"/ˈhaɪ.brɪd/"},"wordClass":"noun"}

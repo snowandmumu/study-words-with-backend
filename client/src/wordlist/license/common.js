@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈlaɪ.səns/","us":"/ˈlaɪ.səns/"},"wordClass":"noun"}

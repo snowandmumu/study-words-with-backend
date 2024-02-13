@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"mentally ill: ","wordDefPhrases":["For the last ten years of his life he was clinically insane.","I sometimes think I'm going insane (= I feel very confused).","It would be insane not to take advantage of this opportunity."],"wordExamples":[]}

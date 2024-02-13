@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a man who has never married: ","wordDefPhrases":["He remained a bachelor until he was well into his 40s.","Sam is a confirmed bachelor (= he is unlikely ever to want to get married)."],"wordExamples":[]}

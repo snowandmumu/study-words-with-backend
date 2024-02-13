@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/stræp/","us":"/stræp/"},"wordClass":"noun"}

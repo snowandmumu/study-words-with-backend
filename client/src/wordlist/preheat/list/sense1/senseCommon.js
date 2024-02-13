@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to heat an oven to a particular temperature before putting food in it: ","wordDefPhrases":["Preheat the oven to 180°C.","a preheated oven"],"wordExamples":[]}

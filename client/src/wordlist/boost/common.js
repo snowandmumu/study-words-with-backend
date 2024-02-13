@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/buːst/","us":"/buːst/"},"wordClass":"verb"}

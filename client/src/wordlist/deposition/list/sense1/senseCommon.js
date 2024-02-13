@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a formal written statement made or used in a law court: ","wordDefPhrases":["Before the court case, we had to file/give a deposition.","Our lawyer took a deposition from us.","a sworn deposition"],"wordExamples":[]}

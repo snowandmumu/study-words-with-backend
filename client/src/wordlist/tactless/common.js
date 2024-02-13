@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈtækt.ləs/","us":"/ˈtækt.ləs/"},"wordClass":"adjective"}

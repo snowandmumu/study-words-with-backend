@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"abbreviation for\n        \n         the Post Office  ","wordDefPhrases":[],"wordExamples":[]}

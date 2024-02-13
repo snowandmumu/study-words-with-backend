@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"the introduction of something new that is necessary or helpful to a situation or process: ","wordDefPhrases":["A cash injection of £20 million will be used to improve the health service.","an injection of humour/excitement"],"wordExamples":[]}

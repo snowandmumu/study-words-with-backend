@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"strongly supporting a person, principle, or political party, often without considering or judging the matter very carefully: ","wordDefPhrases":["The audience was very partisan, and refused to listen to her speech.","partisan politics"],"wordExamples":[]}

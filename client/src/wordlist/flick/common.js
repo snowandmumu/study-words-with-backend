@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/flɪk/","us":"/flɪk/"},"wordClass":"verb"}

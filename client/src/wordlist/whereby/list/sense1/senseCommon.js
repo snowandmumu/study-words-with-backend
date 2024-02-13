@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"by which way or method: ","wordDefPhrases":["They've set up a plan whereby you can spread the cost over a two-year period.","We need to devise some sort of system whereby people can liaise with each other.","It's put me in a position whereby I can't afford to take a job."],"wordExamples":[]}

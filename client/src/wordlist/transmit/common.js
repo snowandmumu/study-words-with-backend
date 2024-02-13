@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/trænzˈmɪt/","us":"/trænsˈmɪt/"},"wordClass":"verb"}

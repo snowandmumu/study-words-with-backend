@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a business that provides a stated type of personal service or sells a stated product: ","wordDefPhrases":["a beauty parlor","an ice-cream/pizza parlor"],"wordExamples":[]}

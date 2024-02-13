@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who does skilled work with their hands","wordDefPhrases":[],"wordExamples":[]}

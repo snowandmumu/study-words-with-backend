@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to end something by force: ","wordDefPhrases":["The Hungarian uprising in 1956 was suppressed by the Soviet Union."],"wordExamples":[]}

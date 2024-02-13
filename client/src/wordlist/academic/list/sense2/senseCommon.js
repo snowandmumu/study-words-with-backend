@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"based on ideas and theories and not related to practical effects in real life: ","wordDefPhrases":["a purely academic argument/question"],"wordExamples":[]}

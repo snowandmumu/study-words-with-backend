@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make someone remember something or feel an emotion: ","wordDefPhrases":["That smell always evokes memories of my old school.","a detergent designed to evoke the fresh smell of summer meadows"],"wordExamples":[]}

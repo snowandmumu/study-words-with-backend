@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a tall plant that has blue, yellow, or white flowers and long, narrow leaves","wordDefPhrases":[],"wordExamples":[]}

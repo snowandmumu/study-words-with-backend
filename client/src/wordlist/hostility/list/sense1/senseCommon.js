@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"an occasion when someone is unfriendly or shows that they do not like something: ","wordDefPhrases":["They showed open (= obvious) hostility to/towards their new neighbours."],"wordExamples":[]}

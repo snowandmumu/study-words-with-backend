@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a short, thin piece of wire used to fasten sheets of paper together. It has sharp ends that are pushed through the paper and then bent flat by a special device.","wordDefPhrases":[],"wordExamples":[]}

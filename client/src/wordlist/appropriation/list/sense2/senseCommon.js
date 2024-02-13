@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an amount of money to be used for a particular purpose: ","wordDefPhrases":["The committee approved an appropriation of £10,000.","The foundation was promised a seven percent increase to bring its appropriations to $2.07 billion."],"wordExamples":[]}

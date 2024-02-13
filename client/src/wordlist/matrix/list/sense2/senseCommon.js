@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a group of numbers or other symbols arranged in a rectangle that can be used together as a single unit to solve particular mathematical problems","wordDefPhrases":[],"wordExamples":[]}

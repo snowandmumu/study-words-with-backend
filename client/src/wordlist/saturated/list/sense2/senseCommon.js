@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"completely filled with something so that no more can be added: ","wordDefPhrases":["Even with 10,000 users, the server is not saturated. ","The airwaves are saturated with advertising."],"wordExamples":[]}

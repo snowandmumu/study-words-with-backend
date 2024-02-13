@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the distance of a place east or west of an imaginary line between the North Pole and the South Pole, measured in degrees","wordDefPhrases":[],"wordExamples":[]}

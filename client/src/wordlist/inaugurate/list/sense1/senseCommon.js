@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to put someone into an official position with a ceremony: ","wordDefPhrases":["American presidents are always inaugurated on 20 January .","The European Community inaugurated the Single European Market in 1993.","The change of government inaugurated a new era of economic prosperity."],"wordExamples":[]}

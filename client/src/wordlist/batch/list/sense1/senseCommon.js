@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a group of things or people dealt with at the same time or considered similar in type: ","wordDefPhrases":["The cook brought in a fresh batch of homemade cupcakes.","We looked at the job applications in two batches."],"wordExamples":[]}

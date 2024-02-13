@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/præm/","us":"/præm/"},"wordClass":"noun"}

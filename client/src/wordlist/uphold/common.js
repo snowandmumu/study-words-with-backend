@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ʌpˈhəʊld/","us":"/ʌpˈhoʊld/"},"wordClass":"verb"}

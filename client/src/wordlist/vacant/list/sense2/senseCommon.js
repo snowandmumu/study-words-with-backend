@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"showing no interest or mental activity: ","wordDefPhrases":["She had a vacant look/expression on her face."],"wordExamples":[]}

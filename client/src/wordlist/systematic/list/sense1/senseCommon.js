@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"according to an agreed set of methods or organized plan: ","wordDefPhrases":["We've got to be more systematic in the way that we approach this task.","We're hearing reports of the systematic rape and torture of prisoners."],"wordExamples":[]}

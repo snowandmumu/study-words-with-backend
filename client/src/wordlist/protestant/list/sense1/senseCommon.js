@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a member of the parts of the Christian Church that separated from the Roman Catholic Church during the 16th century","wordDefPhrases":[],"wordExamples":["Protestants and Catholics attend the same schools here.","He was a supporter of the Protestant church."]}

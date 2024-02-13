@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/sɪˈdæn/","us":"/səˈdæn/"},"wordClass":"noun"}

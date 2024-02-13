@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a small symbol on a computer screen or website that allows you to open different documents or pages: ","wordDefPhrases":["Move between pages by clicking on the tabs at the top of the screen."],"wordExamples":[]}

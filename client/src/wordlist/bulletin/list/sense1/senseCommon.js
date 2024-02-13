@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a short news programme on television or radio, often about something that has just happened, or a short newspaper printed by an organization: ","wordDefPhrases":["an hourly news bulletin","The company publishes a weekly bulletin for its employees."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/steɪn/","us":"/steɪn/"},"wordClass":"verb"}

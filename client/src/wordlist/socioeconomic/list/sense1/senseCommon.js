@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"related to the differences between groups of people caused mainly by their financial situation: ","wordDefPhrases":["socioeconomic groups/groupings","socioeconomic factors","College Board officials said the difficulties arise more from socioeconomic than from ethnic differences."],"wordExamples":[]}

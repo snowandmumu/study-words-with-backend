@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"the continued use, existence, or possession of something or someone: ","wordDefPhrases":["Two influential senators have argued for the retention of the unpopular tax.","The retention of old technology has slowed the company's growth.","water/heat retention"],"wordExamples":[]}

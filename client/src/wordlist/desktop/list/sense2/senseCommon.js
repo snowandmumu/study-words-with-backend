@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the top of a desk","wordDefPhrases":[],"wordExamples":[]}

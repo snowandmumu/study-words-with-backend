@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a public event or show that is exciting to watch: ","wordDefPhrases":["The carnival was a magnificent spectacle.","The television show was mere spectacle (= had an exciting appearance, but little value)."],"wordExamples":[]}

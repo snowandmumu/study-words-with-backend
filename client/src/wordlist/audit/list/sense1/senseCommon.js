@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to make an official examination of the accounts of a business and produce a report","wordDefPhrases":[],"wordExamples":[]}

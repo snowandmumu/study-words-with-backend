@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a voter (= person who can vote) in a particular area of the country: ","wordDefPhrases":["The MP worked hard, always talking to his constituents and listening to their problems."],"wordExamples":[]}

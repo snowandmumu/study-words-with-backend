@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who makes a journey, often a long and difficult one, to a special place for religious reasons","wordDefPhrases":[],"wordExamples":[]}

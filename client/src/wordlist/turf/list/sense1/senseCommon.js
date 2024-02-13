@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the surface layer of land on which grass is growing, consisting of the grass and the soil in which its roots grow, or a piece of this that is cut from the ground and is usually rectangular","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a short plastic stick with a cup-shaped top on which a golf ball is put to be hit, or the area where this is used to start the play for each hole","wordDefPhrases":[],"wordExamples":[]}

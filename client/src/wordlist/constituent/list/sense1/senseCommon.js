@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"one of the parts that a substance or combination is made of: ","wordDefPhrases":["What are the basic constituents of the mixture?"],"wordExamples":[]}

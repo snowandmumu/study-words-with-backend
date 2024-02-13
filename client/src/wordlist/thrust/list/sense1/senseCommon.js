@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to push suddenly and strongly: ","wordDefPhrases":["She thrust the money into his hand.","They thrust a microphone in front of me and fired questions at me.","She thrust the papers at me (= towards me).","The bodyguards thrust past the crowd to get at the cameraman."],"wordExamples":[]}

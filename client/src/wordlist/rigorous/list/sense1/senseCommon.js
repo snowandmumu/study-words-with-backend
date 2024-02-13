@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"careful to look at or consider every part of something to make certain it is correct or safe: ","wordDefPhrases":["rigorous testing/checking/methods"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an important positive development: ","wordDefPhrases":["The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s.","The group has made strides to expand internationally."],"wordExamples":[]}

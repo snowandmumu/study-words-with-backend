@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈlen.dər/","us":"/ˈlen.dɚ/"},"wordClass":"noun"}

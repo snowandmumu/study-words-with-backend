@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a bird's covering of feathers: ","wordDefPhrases":["Male peacocks have beautiful plumage."],"wordExamples":[]}

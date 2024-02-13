@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a different type or group: ","wordDefPhrases":["Politicians of all hues wish to get sleaze off the agenda so that they can discuss the real issues."],"wordExamples":[]}

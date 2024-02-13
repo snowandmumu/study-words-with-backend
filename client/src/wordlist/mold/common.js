@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/məʊld/","us":"/moʊld/"},"wordClass":"nounverb"}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to fix something firmly into a substance","wordDefPhrases":[],"wordExamples":[]}

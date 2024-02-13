@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"although: ","wordDefPhrases":["The evening was very pleasant, albeit a little quiet.","He tried, albeit without success."],"wordExamples":[]}

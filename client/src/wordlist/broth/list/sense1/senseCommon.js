@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a thin soup, often with vegetables or rice in it: ","wordDefPhrases":["chicken/turkey/beef broth"],"wordExamples":[]}

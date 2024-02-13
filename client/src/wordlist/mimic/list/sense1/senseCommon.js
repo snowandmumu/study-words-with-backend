@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to copy the way in which a particular person usually speaks and moves, usually in order to make people laugh: ","wordDefPhrases":["She was mimicking the various people in our office."],"wordExamples":[]}

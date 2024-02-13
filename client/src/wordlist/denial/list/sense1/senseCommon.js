@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C2","wordDef":"a statement that something is not true or does not exist: ","wordDefPhrases":["The CEO issued a denial of the report that she is about to resign.","Officials did not believe the runner's denial that he had taken drugs.","His denial of responsibility for the accident was unconvincing."],"wordExamples":[]}

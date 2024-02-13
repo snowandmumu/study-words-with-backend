@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"how easy a vehicle is to control: ","wordDefPhrases":["Power steering can dramatically improve a car's handling."],"wordExamples":[]}

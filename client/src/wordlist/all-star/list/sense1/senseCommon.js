@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"having or including famous actors or players: ","wordDefPhrases":["His latest film featured an all-star cast.","an all-star baseball team"],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to throw something or someone suddenly and with a lot of force: ","wordDefPhrases":["He crumpled up the letter and flung it into the fire.","\"And you can take your ring back too!\" she cried, flinging it down on the table.","Could you fling the paper over here (= give me the paper)?"],"wordExamples":[]}

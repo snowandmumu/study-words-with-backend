@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a group of aircraft circling over an airport at different heights waiting for permission to land: ","wordDefPhrases":["We were in the stack for over an hour before we landed."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/wedʒ/","us":"/wedʒ/"},"wordClass":"noun"}

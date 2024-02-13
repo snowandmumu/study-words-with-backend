@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"a good characteristic: ","wordDefPhrases":["She's well aware of her strengths and weaknesses as an artist.","His greatest strengths are his determination and resilience."],"wordExamples":[]}

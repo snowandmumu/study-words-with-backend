@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"physically strong and solid or thick, and therefore unlikely to break or be hurt: ","wordDefPhrases":["sturdy walking boots","a sturdy table","sturdy little legs","They put up a sturdy defence of their proposal."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kɑːst/","us":"/kæst/"},"wordClass":"noun"}

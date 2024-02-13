@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the period of time in a person's life when they are developing into an adult: ","wordDefPhrases":["She had a troubled adolescence.","yet another novel about the joys and sorrows of adolescence"],"wordExamples":[]}

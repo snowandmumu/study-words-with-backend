@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kɒn/","us":"/kɑːn/"},"wordClass":"verb"}

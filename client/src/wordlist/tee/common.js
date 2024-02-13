@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/tiː/","us":"/tiː/"},"wordClass":"noun"}

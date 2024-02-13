@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone or something that lends money, especially a large financial organization such as a bank: ","wordDefPhrases":["The smaller local lenders charge high interest rates."],"wordExamples":[]}

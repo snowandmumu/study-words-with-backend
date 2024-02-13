@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the money needed to do a particular thing, or the way of getting the money: ","wordDefPhrases":["BP will provide 65 percent of the financing for the project."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the ability to have particular services available on a mobile phone, small computer, etc.: ","wordDefPhrases":["Consumers are demanding mobility, so that they can have access to information wherever they go."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"to an exact degree: ","wordDefPhrases":["a finely-tuned engine","a finely-executed manoeuvre"],"wordExamples":[]}

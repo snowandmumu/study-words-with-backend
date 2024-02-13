@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"hurt by being repeatedly hit: ","wordDefPhrases":["She set up a sanctuary for battered wives.","battered furniture/toys"],"wordExamples":[]}

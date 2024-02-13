@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to control or limit something that is not wanted: ","wordDefPhrases":["The government should act to curb tax evasion."],"wordExamples":["He is someone who finds it difficult to curb his fleshly desires.","You really need to curb your spending.","The police are trying to curb under-age drinking."]}

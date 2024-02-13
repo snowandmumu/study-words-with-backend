@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an aircraft that does not have a pilot but is controlled by someone on the ground, used especially for dropping bombs or for surveillance (= careful watching of a place): ","wordDefPhrases":["The U. S. Border Patrol's unmanned drone helped agents track down their smuggling suspect."],"wordExamples":[]}

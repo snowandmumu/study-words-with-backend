@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kəʊlt/","us":"/koʊlt/"},"wordClass":"noun"}

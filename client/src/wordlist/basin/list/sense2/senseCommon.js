@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the area of land from which streams run into a river, lake, or sea","wordDefPhrases":[],"wordExamples":[]}

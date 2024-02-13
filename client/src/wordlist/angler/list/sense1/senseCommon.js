@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person whose hobby is trying to catch fish with a rod and line","wordDefPhrases":[],"wordExamples":[]}

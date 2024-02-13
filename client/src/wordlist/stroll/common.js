@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/strəʊl/","us":"/stroʊl/"},"wordClass":"verb"}

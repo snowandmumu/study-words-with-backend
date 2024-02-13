@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"belonging to or used by a group of people rather than one single person: ","wordDefPhrases":["communal facilities/food/property","We each have a separate bedroom but share a communal kitchen."],"wordExamples":[]}

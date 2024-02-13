@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"not wanting to accept something, especially changes or new ideas: ","wordDefPhrases":["Why are you so resistant to change?"],"wordExamples":[]}

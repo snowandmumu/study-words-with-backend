@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C1","wordDef":"to work with someone else for a special purpose: ","wordDefPhrases":["Two writers collaborated on the script for the film.","A German company collaborated with a Swiss firm to develop the product.","The British and Italian police collaborated in catching the terrorists."],"wordExamples":[]}

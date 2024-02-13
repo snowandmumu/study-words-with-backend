@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B1","wordDef":"the window at the front of a car, truck, etc.","wordDefPhrases":[],"wordExamples":[]}

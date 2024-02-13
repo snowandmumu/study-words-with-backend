@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to cause something to happen, usually something bad: ","wordDefPhrases":["Favouritism breeds resentment.","Some teachers believe that early failures can later breed success. "],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"","wordDef":"If someone smiles broadly, they have a big smile: ","wordDefPhrases":["He jumped up, grinning broadly."],"wordExamples":[]}

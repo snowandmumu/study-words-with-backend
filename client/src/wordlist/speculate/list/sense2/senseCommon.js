@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to buy and sell in the hope that the value of what you buy will increase and that it can then be sold at a higher price in order to make a profit: ","wordDefPhrases":["He made his money speculating on the London gold and silver markets.","The company has been speculating in property for years."],"wordExamples":[]}

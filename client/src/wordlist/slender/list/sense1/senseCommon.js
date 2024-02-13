@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"thin and delicate, often in a way that is attractive: ","wordDefPhrases":["He put his hands around her slender waist.","The plant's leaves are long and slender.","a man of slender means (= without much money)","The chances of settling this dispute through talks seem increasingly slender."],"wordExamples":[]}

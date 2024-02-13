@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"The imperial system of measurement uses units such as inches, miles, and pints: ","wordDefPhrases":["Imperial units have in many cases been replaced by metric ones in Britain."],"wordExamples":[]}

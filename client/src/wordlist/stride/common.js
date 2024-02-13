@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/straɪd/","us":"/straɪd/"},"wordClass":"noun"}

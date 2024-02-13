@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a set of equipment or tools or a machine that is used for a particular purpose: ","wordDefPhrases":["a piece of apparatus","The divers checked their breathing apparatus."],"wordExamples":[]}

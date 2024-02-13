@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"something that is very beautiful or valuable: ","wordDefPhrases":["Many visitors consider the Sistine Chapel to be the jewel of the Vatican."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a feeling of being very uncomfortable and worried: ","wordDefPhrases":["Several people had experienced the same feeling of oppression when they slept in that room."],"wordExamples":[]}

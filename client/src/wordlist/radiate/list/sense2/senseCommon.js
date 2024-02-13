@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to show an emotion or quality, or (of an emotion or quality) to be shown or felt: ","wordDefPhrases":["He was radiating joy and happiness.","Enthusiasm was radiating from her."],"wordExamples":[]}

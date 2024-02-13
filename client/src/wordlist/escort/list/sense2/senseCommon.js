@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to go to a social event with someone, especially a person of a different gender: ","wordDefPhrases":["Who will be escorting her to the ball?"],"wordExamples":[]}

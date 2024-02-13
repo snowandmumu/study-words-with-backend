@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/drɪp/","us":"/drɪp/"},"wordClass":"verb"}

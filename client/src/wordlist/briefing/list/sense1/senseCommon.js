@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"information that is given to someone just before they do something, or a meeting where this happens: ","wordDefPhrases":["They received thorough briefing before they left the country.","We had to attend a briefing once a month."],"wordExamples":[]}

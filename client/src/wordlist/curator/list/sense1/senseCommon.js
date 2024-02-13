@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person in charge of a museum, library, etc.","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the fact of arranging something so that the colours, etc. match or look attractive together: ","wordDefPhrases":["Her home shows her eye for detail and colour coordination.","Think about co-ordination when choosing your outfit."],"wordExamples":[]}

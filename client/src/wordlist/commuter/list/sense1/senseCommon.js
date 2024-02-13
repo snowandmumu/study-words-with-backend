@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who regularly travels between work and home: ","wordDefPhrases":["The train was packed with commuters."],"wordExamples":[]}

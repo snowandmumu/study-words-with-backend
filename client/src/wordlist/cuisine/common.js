@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kwɪˈziːn/","us":"/kwɪˈziːn/"},"wordClass":"noun"}

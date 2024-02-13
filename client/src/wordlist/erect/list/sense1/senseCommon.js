@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to build a building, wall, or other structure: ","wordDefPhrases":["The war memorial was erected in 1950.","The soldiers had erected barricades to protect themselves."],"wordExamples":[]}

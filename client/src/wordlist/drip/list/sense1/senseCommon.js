@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"If a liquid drips, it falls in drops, or you make it fall in drops: ","wordDefPhrases":["Water dripped down the wall.","She dripped paint on the carpet.","Watch out - the candle's dripping."],"wordExamples":[]}

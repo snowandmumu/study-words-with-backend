@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"praise for a person because of something they have done, usually in sport, the arts, or politics: ","wordDefPhrases":["The actors are very good, but when all is considered the laurels must surely go to the director of the play."],"wordExamples":[]}

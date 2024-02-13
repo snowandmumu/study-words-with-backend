@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics: ","wordDefPhrases":["It's a curious paradox that drinking a lot of water can often make you feel thirsty."],"wordExamples":[]}

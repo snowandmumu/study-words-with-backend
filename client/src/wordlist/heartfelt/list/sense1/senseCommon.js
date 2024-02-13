@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"strongly felt and sincere: ","wordDefPhrases":["heartfelt relief","Please accept my heartfelt apologies/thanks."],"wordExamples":[]}

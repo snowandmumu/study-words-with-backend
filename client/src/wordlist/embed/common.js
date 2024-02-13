@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪmˈbed/","us":"/ɪmˈbed/"},"wordClass":"verb"}

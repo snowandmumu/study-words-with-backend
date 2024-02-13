@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"the length of time that something lasts: ","wordDefPhrases":["He planned a stay of two years' duration.","I guess we're stuck with each other for the duration (of the journey)."],"wordExamples":[]}

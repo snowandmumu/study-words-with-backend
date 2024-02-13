@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a large piece of cloth with buildings, countryside, etc. painted on it, hung at the back of a stage during a performance","wordDefPhrases":["The mountains form a dramatic backdrop to the little village.","Their love affair began against a backdrop of war."],"wordExamples":[]}

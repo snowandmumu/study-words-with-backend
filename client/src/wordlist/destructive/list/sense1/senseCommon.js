@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"causing, or able to cause, damage: ","wordDefPhrases":["the destructive power of nuclear weapons","I worry about the destructive effect that violent films may have on children.","Lack of trust is very destructive in a relationship."],"wordExamples":[]}

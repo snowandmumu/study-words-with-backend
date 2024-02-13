@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"B2","wordDef":"If you do something automatically, you do it without thinking about it: ","wordDefPhrases":["I automatically put my hand out to catch it."],"wordExamples":[]}

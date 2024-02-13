@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/bætʃ/","us":"/bætʃ/"},"wordClass":"noun"}

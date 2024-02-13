@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"happening or moving quickly or within a short time, especially in a smooth and easy way: ","wordDefPhrases":["The police took swift action against the rioters.","Thank you for your swift reply.","The gazelle is one of the swiftest and most graceful of animals."],"wordExamples":[]}

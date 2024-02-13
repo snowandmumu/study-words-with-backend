@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a very large amount of destruction, especially by fire or heat, or the killing of very large numbers of people: ","wordDefPhrases":["A nuclear holocaust (= destruction caused by nuclear weapons) would leave few survivors."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"B2","wordDef":"in a fast or sudden way: ","wordDefPhrases":["Things are changing very rapidly.","The country's oil reserves are rapidly declining."],"wordExamples":["a rapidly growing industrial city","When women reach menopause, they begin to lose bone more rapidly.","The wind power industry is expanding rapidly."]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"involving two or more people working together for a special purpose: ","wordDefPhrases":["The presentation was a collaborative effort by all the children in the class."],"wordExamples":[]}

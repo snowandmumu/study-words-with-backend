@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"in sport , to score extra points such as a conversion, free throw, or penalty shot","wordDefPhrases":[],"wordExamples":[]}

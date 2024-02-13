@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to help someone, especially an actor, to remember what they were going to say or do: ","wordDefPhrases":["I forgot my line and had to be prompted."],"wordExamples":[]}

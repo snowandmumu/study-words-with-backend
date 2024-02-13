@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to increase in value: ","wordDefPhrases":["The value of our house has appreciated by 50 percent in the last two years.","Our house has appreciated in value over the last two years."],"wordExamples":[]}

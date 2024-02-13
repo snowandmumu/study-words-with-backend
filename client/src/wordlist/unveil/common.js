@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ʌnˈveɪl/","us":"/ʌnˈveɪl/"},"wordClass":"verb"}

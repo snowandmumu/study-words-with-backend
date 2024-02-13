@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the period of time that something exists or happens: ","wordDefPhrases":["He has a short attention/concentration span.","an average lifespan of 70 years","Over a span of just three years, the new government has transformed the country's economic prospects."],"wordExamples":[]}

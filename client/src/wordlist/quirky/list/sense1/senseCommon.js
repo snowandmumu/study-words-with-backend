@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"unusual in an attractive and interesting way: ","wordDefPhrases":["He was tall and had a quirky, off-beat sense of humour."],"wordExamples":[]}

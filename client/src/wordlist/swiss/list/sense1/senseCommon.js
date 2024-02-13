@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to Switzerland or its people: ","wordDefPhrases":["The meeting took place at a Swiss spa resort.","Meyer Guggenheim was a Swiss Jew who emigrated to the US and made a fortune in mining and smelting."],"wordExamples":[]}

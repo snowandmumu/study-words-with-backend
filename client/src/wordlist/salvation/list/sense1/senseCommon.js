@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(a way of) being saved from danger, loss, or harm: ","wordDefPhrases":["After the diagnosis, getting to know Mary was his salvation.","a marriage beyond salvation","The Gospel message is one of personal salvation."],"wordExamples":[]}

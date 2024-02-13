@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/brɔːd/","us":"/brɑːd/"},"wordClass":"adjective"}

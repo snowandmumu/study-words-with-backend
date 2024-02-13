@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"skilled: ","wordDefPhrases":["She's a very accomplished pianist/painter/horsewoman.","He was accomplished in all the arts."],"wordExamples":[]}

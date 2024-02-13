@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an electronic device that allows one computer to send information to another through standard phone lines and therefore over long distances","wordDefPhrases":[],"wordExamples":[]}

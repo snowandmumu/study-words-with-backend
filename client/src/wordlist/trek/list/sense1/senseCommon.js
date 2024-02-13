@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to walk a long distance, usually over land such as hills, mountains, or forests: ","wordDefPhrases":["We spent the day trekking through forests and over mountains.","I trekked (= walked a long and tiring distance) all the way into town to meet him and he didn't even turn up."],"wordExamples":[]}

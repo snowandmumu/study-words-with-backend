@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"belonging to or relating to Italy, its people, or its language: ","wordDefPhrases":["Italian food/art/wine"],"wordExamples":[]}

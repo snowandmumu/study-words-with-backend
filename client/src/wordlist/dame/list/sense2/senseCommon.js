@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the funny character of an older woman, usually played by a man, in a pantomime (= a musical play for children) ","wordDefPhrases":[],"wordExamples":[]}

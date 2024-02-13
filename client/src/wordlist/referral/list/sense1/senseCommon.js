@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the act of directing someone to a different place or person for information, help, or action, often to a person or group with more knowledge or power: ","wordDefPhrases":["The doctor gave him a referral to (= arranged for him to see) the consultant."],"wordExamples":[]}

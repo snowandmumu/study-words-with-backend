@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"paintings, films, books, etc. that try to represent life as it really is: ","wordDefPhrases":["The director used handheld camera techniques to add to the gritty realism of the film."],"wordExamples":[]}

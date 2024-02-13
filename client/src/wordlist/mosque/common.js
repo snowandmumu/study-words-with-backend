@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/mɒsk/","us":"/mɑːsk/"},"wordClass":"noun"}

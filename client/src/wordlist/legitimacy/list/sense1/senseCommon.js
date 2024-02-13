@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the quality of being legal : ","wordDefPhrases":["The lawyers expressed serious doubts about the legitimacy of military action."],"wordExamples":[]}

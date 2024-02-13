@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"without limits; extremely large or great: ","wordDefPhrases":["an infinite number/variety","The universe is theoretically infinite.","With infinite patience, she explained the complex procedure to us."],"wordExamples":[]}

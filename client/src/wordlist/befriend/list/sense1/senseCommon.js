@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to be friendly towards someone: ","wordDefPhrases":["He was befriended by an old lady.","It is not advisable to befriend your boss, or your teacher."],"wordExamples":[]}

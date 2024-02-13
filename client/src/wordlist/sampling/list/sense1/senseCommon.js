@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the activity of providing or trying a small amount of a product so someone can decide whether to buy it: ","wordDefPhrases":["When it works, sampling can be the most effective form of advertising."],"wordExamples":[]}

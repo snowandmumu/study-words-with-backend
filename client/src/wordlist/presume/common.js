@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/prɪˈzjuːm/","us":"/prɪˈzuːm/"},"wordClass":"verb"}

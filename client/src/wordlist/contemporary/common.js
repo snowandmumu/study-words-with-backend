@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈtem.pər.ər.i/","us":"/kənˈtem.pə.rer.i/"},"wordClass":"adjective"}

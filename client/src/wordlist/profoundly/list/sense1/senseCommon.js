@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"deeply or extremely: ","wordDefPhrases":["Society has changed so profoundly over the last 50 years.","We are all profoundly grateful for your help and encouragement."],"wordExamples":[]}

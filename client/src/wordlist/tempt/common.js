@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/tempt/","us":"/tempt/"},"wordClass":"verb"}

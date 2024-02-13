@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kræp/","us":"/kræp/"},"wordClass":"noun"}

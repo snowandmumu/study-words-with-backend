@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the sport of horse racing","wordDefPhrases":[],"wordExamples":[]}

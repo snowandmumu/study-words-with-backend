@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"not enough: ","wordDefPhrases":["insufficient information/time","There was insufficient money to fund the project."],"wordExamples":[]}

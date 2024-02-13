@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"arriving, doing something, or happening at the expected, correct time; not late: ","wordDefPhrases":["a punctual start to the meeting","He's fairly punctual (= he usually arrives on time)."],"wordExamples":[]}

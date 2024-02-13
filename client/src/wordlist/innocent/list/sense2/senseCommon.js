@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"B2","wordDef":"having no knowledge of the unpleasant and evil things in life: ","wordDefPhrases":["She has such an innocent face that I find it hard to believe anything bad of her."],"wordExamples":[]}

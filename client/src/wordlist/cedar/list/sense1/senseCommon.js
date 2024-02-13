@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a tall, wide evergreen tree (= one that never loses its leaves)","wordDefPhrases":[],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person or group who receives money, advantages, etc. as a result of something else: ","wordDefPhrases":["Her wife was the chief beneficiary of her will."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"a part of a city or a town in which vehicles are not allowed, used for a special purpose, such as shopping: ","wordDefPhrases":["a shopping precinct","a pedestrian precinct"],"wordExamples":[]}

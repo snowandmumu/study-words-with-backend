@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to continue to take part in a planned group of activities, especially a war: ","wordDefPhrases":["He seemed convinced that the US would prosecute the war to its end."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/dəˈmes.tɪk/","us":"/dəˈmes.tɪk/"},"wordClass":"adjective"}

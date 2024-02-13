@@ -1,0 +1,1 @@
+export default {"wordClass":"adverb","wordLevel":"C1","wordDef":"in a general way, without considering specific examples or all the details: ","wordDefPhrases":["Broadly speaking, don't you think women make better drivers than men?","Many of the findings in this study are broadly similar to those of Johnes (1990)."],"wordExamples":[]}

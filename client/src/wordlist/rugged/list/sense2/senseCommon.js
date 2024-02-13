@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"strong and simple; not delicate: ","wordDefPhrases":["Jeeps are rugged vehicles, designed for rough conditions.","She fell for his rugged good looks."],"wordExamples":[]}

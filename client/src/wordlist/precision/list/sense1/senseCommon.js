@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the quality of being exact: ","wordDefPhrases":["Great precision is required to align the mirrors accurately.","Precision bombing was used to destroy enemy airbases and armaments factories."],"wordExamples":[]}

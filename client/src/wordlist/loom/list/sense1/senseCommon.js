@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"to appear as a large, often frightening or unclear shape or object: ","wordDefPhrases":["Dark storm clouds loomed on the horizon."],"wordExamples":[]}

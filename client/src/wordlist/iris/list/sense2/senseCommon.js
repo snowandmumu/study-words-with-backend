@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the coloured circular part of that eye that surrounds the black pupil (= central part)","wordDefPhrases":[],"wordExamples":[]}

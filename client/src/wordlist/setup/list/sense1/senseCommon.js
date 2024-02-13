@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"an arrangement of things that allows something to happen, or the process that prepares this arrangement: ","wordDefPhrases":["The novel's setup smacks of stereotype, but its heroine has a strong voice and a spine of steel.","This television's excellent on-screen display make setup a breeze."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/taʊt/","us":"/taʊt/"},"wordClass":"verb"}

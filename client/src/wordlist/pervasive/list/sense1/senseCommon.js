@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"present or noticeable in every part of a thing or place: ","wordDefPhrases":["The influence of Freud is pervasive in her books.","a pervasive smell of diesel","Reforms are being undermined by the all-pervasive corruption in the country."],"wordExamples":[]}

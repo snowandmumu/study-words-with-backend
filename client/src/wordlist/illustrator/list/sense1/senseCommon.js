@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a person who draws pictures, especially for books","wordDefPhrases":[],"wordExamples":[]}

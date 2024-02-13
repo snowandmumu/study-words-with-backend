@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ˈpaɪp.laɪn/","us":"/ˈpaɪp.laɪn/"},"wordClass":"noun"}

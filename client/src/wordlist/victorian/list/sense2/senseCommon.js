@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"from or belonging or relating to the state of Victoria","wordDefPhrases":[],"wordExamples":[]}

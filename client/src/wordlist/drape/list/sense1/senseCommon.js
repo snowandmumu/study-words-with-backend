@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to put something such as cloth or a piece of clothing loosely over something: ","wordDefPhrases":["He draped his jacket over the back of the chair and sat down to eat.","The coffins were all draped with the national flag."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"C1","wordDef":"a device or machine, usually in the house, that operates quickly and needs little effort: ","wordDefPhrases":["The house has every modern convenience.","The conveniencies of life become more plentiful every day ."],"wordExamples":[]}

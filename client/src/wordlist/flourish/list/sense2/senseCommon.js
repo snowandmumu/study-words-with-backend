@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to move something in your hand in order to make people look at it: ","wordDefPhrases":["She came in smiling, flourishing her exam results."],"wordExamples":[]}

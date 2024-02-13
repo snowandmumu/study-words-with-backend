@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/əˈledʒ/","us":"/əˈledʒ/"},"wordClass":"verb"}

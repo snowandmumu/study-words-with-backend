@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/slɪm/","us":"/slɪm/"},"wordClass":"adjective"}

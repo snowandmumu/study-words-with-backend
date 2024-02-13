@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪnˈdiːd/","us":"/ɪnˈdiːd/"},"wordClass":"adverb"}

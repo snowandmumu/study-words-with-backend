@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to persuade someone to believe or do one thing rather than another: ","wordDefPhrases":["Her speech failed to sway her colleagues into supporting the plan."],"wordExamples":[]}

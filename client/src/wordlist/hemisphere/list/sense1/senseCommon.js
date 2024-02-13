@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"one of two halves of the earth, especially above or below the equator: ","wordDefPhrases":["the northern/southern hemisphere","the left/right hemisphere","The bush had been pruned into a perfect hemisphere."],"wordExamples":[]}

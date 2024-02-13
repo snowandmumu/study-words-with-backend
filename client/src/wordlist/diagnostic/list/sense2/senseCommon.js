@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"used for making a judgment about what a particular problem is: ","wordDefPhrases":["The model is a useful diagnostic tool to determine what has the most impact on employees' performance."],"wordExamples":[]}

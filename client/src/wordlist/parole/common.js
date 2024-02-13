@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/pəˈrəʊl/","us":"/pəˈroʊl/"},"wordClass":"noun"}

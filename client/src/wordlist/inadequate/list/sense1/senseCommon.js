@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"not good enough or too low in quality: ","wordDefPhrases":["This work is woefully (= extremely) inadequate - you'll have to do it again.","She rejected the $2 million offer as totally inadequate.","Maddie's a real expert on art, so I feel completely inadequate whenever I talk to her about it."],"wordExamples":[]}

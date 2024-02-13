@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/sɪˈment/","us":"/səˈment/"},"wordClass":"noun"}

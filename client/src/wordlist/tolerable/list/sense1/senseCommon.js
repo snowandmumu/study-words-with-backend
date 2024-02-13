@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"of a quality that is acceptable, although certainly not good: ","wordDefPhrases":["At their best the conditions in these prisons are barely tolerable.","For me it's friendships that make life tolerable."],"wordExamples":[]}

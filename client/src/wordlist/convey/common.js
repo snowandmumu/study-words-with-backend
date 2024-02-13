@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈveɪ/","us":"/kənˈveɪ/"},"wordClass":"verb"}

@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/əˈbjuːz/","us":"/əˈbjuːz/"},"wordClass":"verb"}

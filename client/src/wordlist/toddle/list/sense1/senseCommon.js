@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"(especially of a young child) to walk with short steps, trying to keep the body balanced: ","wordDefPhrases":["I watched my two-year-old nephew toddling around after his puppy.","I'm just toddling off/round to the shops."],"wordExamples":[]}

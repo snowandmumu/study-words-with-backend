@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/rəʊm/","us":"/roʊm/"},"wordClass":"verb"}

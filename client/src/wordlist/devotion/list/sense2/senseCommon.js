@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"the fact of following religious teachings, or religious worship: ","wordDefPhrases":["He knelt in humble devotion.","The music was performed as part of their religious devotions."],"wordExamples":[]}

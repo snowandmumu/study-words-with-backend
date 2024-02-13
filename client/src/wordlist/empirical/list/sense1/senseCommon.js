@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"based on what is experienced or seen rather than on theory: ","wordDefPhrases":["This theory needs to be backed up with solid empirical data/evidence.","Empirical studies show that some forms of alternative medicine are extremely effective."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"one of two or more people who write a book, article, report, etc. together","wordDefPhrases":[],"wordExamples":[]}

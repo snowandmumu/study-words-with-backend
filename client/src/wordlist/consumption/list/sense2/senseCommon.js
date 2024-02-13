@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"old-fashioned for\n        \n         tuberculosis   (= a serious disease of the lungs)","wordDefPhrases":[],"wordExamples":[]}

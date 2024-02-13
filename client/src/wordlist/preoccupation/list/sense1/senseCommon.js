@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"an idea or subject that someone thinks about most of the time: ","wordDefPhrases":["My main preoccupation now is trying to keep life normal for the sake of my two boys.","Lately, his preoccupation with football had caused his marks at school to slip."],"wordExamples":[]}

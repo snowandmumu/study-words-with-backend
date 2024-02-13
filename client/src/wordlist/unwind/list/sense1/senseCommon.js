@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"C2","wordDef":"If you unwind something that is wrapped around an object, you unfasten it, and if it unwinds, it becomes unfastened: ","wordDefPhrases":["In a nearby medical tent, a US Army doctor gently unwinds Metruk's bandage."],"wordExamples":[]}

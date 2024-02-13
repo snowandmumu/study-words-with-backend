@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɔːlˈbiː.ɪt/","us":"/ɑːlˈbiː.ɪt/"},"wordClass":"conjunction"}

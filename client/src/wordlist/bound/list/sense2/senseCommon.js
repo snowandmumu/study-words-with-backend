@@ -1,0 +1,1 @@
+export default {"wordClass":"adjective","wordLevel":"","wordDef":"having a moral or legal duty to do something: ","wordDefPhrases":["The company is bound by a special agreement to involve the union in important decisions.","She feels duty-bound to tell him everything."],"wordExamples":[]}

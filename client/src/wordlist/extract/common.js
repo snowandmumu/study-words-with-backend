@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/ɪkˈstrækt/","us":"/ɪkˈstrækt/"},"wordClass":"verb"}

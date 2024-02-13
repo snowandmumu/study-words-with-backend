@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"to make or do something again in exactly the same way: ","wordDefPhrases":["Researchers tried many times to replicate the original experiment.","Chromosomes replicate before cells divide and multiply.","Computer viruses replicate themselves and are passed along from user to user."],"wordExamples":[]}

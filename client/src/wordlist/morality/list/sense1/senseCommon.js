@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a set of personal or social standards for good or bad behaviour and character: ","wordDefPhrases":["They argued for a new morality based on self-sacrifice and honesty.","I have to question the morality of forcing poor people to pay for their medical treatment."],"wordExamples":[]}

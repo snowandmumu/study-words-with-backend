@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"to say something or to make a sound with your voice: ","wordDefPhrases":["She sat through the whole meeting without uttering a word."],"wordExamples":[]}

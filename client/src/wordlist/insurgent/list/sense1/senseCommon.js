@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"someone who is fighting against the government in their own country: ","wordDefPhrases":["All approaches to the capital are now under the control of the insurgents."],"wordExamples":[]}

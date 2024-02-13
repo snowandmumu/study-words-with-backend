@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C1","wordDef":"a poisonous form of oxygen","wordDefPhrases":[],"wordExamples":[]}

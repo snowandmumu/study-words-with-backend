@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/pledʒ/","us":"/pledʒ/"},"wordClass":"noun"}

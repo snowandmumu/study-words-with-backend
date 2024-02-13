@@ -1,0 +1,1 @@
+export default {"wordClass":"noun","wordLevel":"","wordDef":"something very noticeable that a person typically has or does: ","wordDefPhrases":["He was wearing one of the brightly coloured ties that are his trademark.","She gave one of her trademark smiles."],"wordExamples":[]}

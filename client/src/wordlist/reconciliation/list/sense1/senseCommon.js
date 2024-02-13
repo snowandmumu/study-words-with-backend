@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a situation in which two people or groups of people become friendly again after they have argued: ","wordDefPhrases":["It took hours of negotiations to bring about a reconciliation between the two sides."],"wordExamples":[]}

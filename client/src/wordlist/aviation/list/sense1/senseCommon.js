@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"the activity of flying aircraft, or of designing, producing, and keeping them in good condition: ","wordDefPhrases":["the British Civil Aviation Authority","the US Federal Aviation Administration","aviation fuel"],"wordExamples":["Orville and Wilbur Wright were aviation trail blazers."]}

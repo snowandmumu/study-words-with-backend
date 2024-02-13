@@ -1,0 +1,1 @@
+export default {"wordClass":"verb","wordLevel":"","wordDef":"to hang: ","wordDefPhrases":["The builders worked on wooden platforms, suspended by ropes from the roof of the building.","It was very uncomfortable lying on the hospital bed with my legs suspended in the air.","The drug is suspended in a saline solution.","A cloud of smoke was suspended in the air."],"wordExamples":[]}

@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"a collection of numerical facts or measurements, as about people, business conditions, or weather: ","wordDefPhrases":["The statistics show that, in general, women live longer than men."],"wordExamples":[]}

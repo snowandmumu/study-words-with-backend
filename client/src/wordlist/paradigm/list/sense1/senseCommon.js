@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"C2","wordDef":"a model of something, or a very clear and typical example of something: ","wordDefPhrases":["Some of these educators are hoping to produce a change in the current cultural paradigm."],"wordExamples":[]}

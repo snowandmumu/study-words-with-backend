@@ -1,0 +1,1 @@
+export default {"wordClass":"","wordLevel":"","wordDef":"containing a serious, detailed study of a subject: ","wordDefPhrases":["a scholarly article/book/work/journal","a scholarly young woman"],"wordExamples":[]}

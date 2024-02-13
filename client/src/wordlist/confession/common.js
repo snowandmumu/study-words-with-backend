@@ -1,0 +1,1 @@
+export default {"soundmarks":{"uk":"/kənˈfeʃ.ən/","us":"/kənˈfeʃ.ən/"},"wordClass":"noun"}
