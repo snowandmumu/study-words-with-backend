@@ -10,7 +10,6 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import thunk from 'redux-thunk';
 
 import { reducers } from './reducers';
-import App from './App';
 import Card from './components/Card';
 import Review from './components/Review';
 import Test from './components/Test'
@@ -28,8 +27,7 @@ ReactDOM.render(
         <Route path="/" element={<Card />}/>
         <Route path="review" element={<Review />}/>
         <Route path="test" element={<Test />}/>
-        <Route path="memory" element={<App />}/>
-        <Route path="*" element={<App />}/>
+        <Route path="*" element={<Card />}/>
       </Routes>
     </Router>
   </Provider>,

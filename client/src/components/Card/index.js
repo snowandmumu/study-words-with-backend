@@ -84,7 +84,7 @@ function App() {
                 }
             }
         }, 500);
-        // request.get('/words/getWords', {startTime, endTime, status}).then((res={})=>{
+        // request.get('/api/getWords', {startTime, endTime, status}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -92,7 +92,7 @@ function App() {
         //     console.log(error)
         // });
 
-        // request.patch('/words/updateWord', {_id: '65c21c5dab1098df757623d7', text: 'forge', status: 3, updatedAt: 1707368686205}).then((res={})=>{
+        // request.patch('/api/updateWord', {_id: '65c21c5dab1098df757623d7', text: 'forge', status: 3, updatedAt: 1707368686205}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -100,7 +100,7 @@ function App() {
         //     console.log(error)
         // });
 
-        // request.post('/words/createWord', {text: 'xxxx'}).then((res={})=>{
+        // request.post('/api/createWord', {text: 'xxxx'}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -108,7 +108,7 @@ function App() {
         //     console.log(error)
         // });
 
-        // request.delete('/words/deleteWord', {_id: '65c461cf0b1ae23c024c1d5e'}).then((res={})=>{
+        // request.delete('/api/deleteWord', {_id: '65c461cf0b1ae23c024c1d5e'}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -120,7 +120,7 @@ function App() {
     useEffect(() => {
         // 加入ignore的原因是保证最终数据返回的顺序和请求的顺序一致，参考：https://juejin.cn/post/7225632029799776312
         let ignore = false;
-        request.get('/words/getWords', {startTime, endTime, status}).then((res={})=>{
+        request.get('/api/getWords', {startTime, endTime, status}).then((res={})=>{
             if (!ignore) {
                 dispatch(getWordsAction(res));
                 const firstWords = getFirstWord(res);
@@ -146,7 +146,7 @@ function App() {
                 newData.status = 1;
             }
             // dispatch(updateWord(targetWord._id, newData));
-            request.patch('/words/updateWord', newData).then((res={})=>{
+            request.patch('/api/updateWord', newData).then((res={})=>{
                 dispatch(updateWordAction(res));
             }).catch((error)=>{
                 console.log(error)

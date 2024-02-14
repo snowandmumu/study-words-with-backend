@@ -44,7 +44,7 @@ function App() {
     const [tipVisible, setTipVisible] = useState(false);
 
     useEffect(() => {
-        request.get('/words/getWords', {}).then((res={})=>{
+        request.get('/api/getWords', {}).then((res={})=>{
             dispatch(getWordsAction(res));
             // 设置测试的目标单词
             const testWords = res.filter(w => w.status === 2).map(i => i.text);
@@ -106,7 +106,7 @@ function App() {
 
         const oldData = _.find(allWords, i => i.text === currentWord);
         const newData = {...oldData, status: value === currentWord ? 4 : 3};
-        request.patch('/words/updateWord', newData).then((res={})=>{
+        request.patch('/api/updateWord', newData).then((res={})=>{
             dispatch(updateWordAction(res))
         }).catch((error)=>{
             console.log(error)

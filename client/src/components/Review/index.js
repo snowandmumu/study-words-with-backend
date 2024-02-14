@@ -60,7 +60,7 @@ function App() {
     useEffect(() => {
         if (startTime && endTime) {
             // dispatch(getWords({startTime, endTime, status: [1, 3]}));
-            request.get('/words/getWords', {startTime, endTime, status: [1, 3]}).then((res={})=>{
+            request.get('/api/getWords', {startTime, endTime, status: [1, 3]}).then((res={})=>{
                 console.log(res);
                 dispatch(getWordsAction(res));
             }).catch((error)=>{
@@ -93,7 +93,7 @@ function App() {
         if (targetWord && currentWord) {
             const newData = {...targetWord, status: 3};
             // dispatch(updateWord(targetWord._id, newData));
-            request.patch('/words/updateWord', newData).then((res={})=>{
+            request.patch('/api/updateWord', newData).then((res={})=>{
                 dispatch(updateWordAction(res))
             }).catch((error)=>{
                 console.log(error)
@@ -109,7 +109,7 @@ function App() {
         if (targetWord && currentWord) {
             const newData = {...targetWord, status: 2};
             // dispatch(updateWord(targetWord._id, newData));
-            request.patch('/words/updateWord', newData).then((res={})=>{
+            request.patch('/api/updateWord', newData).then((res={})=>{
                 dispatch(updateWordAction(res))
             }).catch((error)=>{
                 console.log(error)
@@ -122,7 +122,7 @@ function App() {
         count = 0;
         setCannotWords([]);
         // dispatch(getWords({startTime, endTime, status: [3]}));
-        request.get('/words/getWords', {startTime, endTime, status: [3]}).then((res={})=>{
+        request.get('/api/getWords', {startTime, endTime, status: [3]}).then((res={})=>{
             dispatch(getWordsAction(res));
         }).catch((error)=>{
             console.log(error)
