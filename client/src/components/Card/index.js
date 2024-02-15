@@ -194,7 +194,7 @@ function App() {
                 </div>
                 <div className="App">
                     <div className='opeartor'>
-                        查询学习过&nbsp;<InputNumber min={1} max={10} value={count} onChange={onChangeCount} />&nbsp;次的单词
+                        查询学习过&nbsp;<InputNumber min={0} max={10} value={count} onChange={onChangeCount} />&nbsp;次的单词
                     </div>
                     <div className='App-inner'>
                         <div className='word-content'>
