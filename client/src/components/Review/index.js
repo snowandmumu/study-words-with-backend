@@ -1,18 +1,16 @@
 import React, { useState, useEffect, Fragment } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from "react-router-dom";
-import { DatePicker, Empty, Modal, Button, Menu, ConfigProvider} from 'antd';
+import { Empty, Modal, Button, Menu, ConfigProvider} from 'antd';
 import { TransactionOutlined, SmileOutlined, RedditOutlined } from '@ant-design/icons';
 import _ from 'lodash';
 import './review.css';
 import {getWordsAction, updateWordAction} from '../../actions/reviewWords';
 import ReviewWord from './reviewCard';
-import {useUpdateEffect, getTimePair} from '../../tools';
+import {useUpdateEffect} from '../../tools';
 import request from '../../request/request';
 
-const { RangePicker } = DatePicker;
-
-let count = 0;
+let times = 0;
 const getNavItems = () => ([
     {
       label: <Link to='/'>Study word</Link>,
@@ -33,13 +31,8 @@ const getNavItems = () => ([
 
 function App() {
     const dispatch = useDispatch();
-    // const times = getTodayTimePair();
-    const [startTime, setStartTime] = useState(null);
-    const [endTime, setEndTime] = useState(null);
-    const [showEmpty, setShowEmpty] = useState(false);
     const [tipVisible, setTipVisible] = useState(false);
     const [currentWord, setCurrentWord] = useState('');
-    const [cannotWords, setCannotWords] = useState([]);
     const [currentNav, setCurrentNav] = useState('review');
 
     const reviewWords = useSelector((state) => {
@@ -47,10 +40,10 @@ function App() {
     });
 
     const updateCurrentWord = () => {
-        if (count < reviewWords.length) {
-            const targetWord = reviewWords[count];
+        if (times < reviewWords.length) {
+            const targetWord = reviewWords[times];
             setCurrentWord(targetWord?.text);
-            count++;
+            times++;
         }
         else {
             setTipVisible(true);
@@ -58,57 +51,28 @@ function App() {
     }
 
     useEffect(() => {
-        if (startTime && endTime) {
-            // dispatch(getWords({startTime, endTime, status: [1, 3]}));
-            request.get('/api/getWords', {startTime, endTime, status: [1, 3]}).then((res={})=>{
-                console.log(res);
-                dispatch(getWordsAction(res));
-            }).catch((error)=>{
-                console.log(error)
+        request.get('/api/getWords', {}).then((res={})=>{
+            const wordsWithPriority = _.sortBy(res, word => {
+                const {count, updatedAt} = word;
+                const now = new Date().getTime();
+                const priority = (now - updatedAt) / Math.pow(3, count);
+                return -priority;
             });
-            setTipVisible(false);
-        }
-    }, [startTime, endTime]);
+            dispatch(getWordsAction(wordsWithPriority));
+        }).catch((error)=>{
+            console.log(error)
+        });
+        setTipVisible(false);
+    }, []);
 
     useUpdateEffect(updateCurrentWord, [reviewWords]);
-
-    const onChangeDate = (date, str) => {
-        const [start, end] = str;
-        if (!start || !end) {
-            setShowEmpty(true);
-        }
-        else {
-            const {startTime} = getTimePair(start);
-            const {endTime} = getTimePair(end);
-            setStartTime(startTime);
-            setEndTime(endTime);
-            setShowEmpty(false);
-        }
-    }
-
-    const handleCannot = () => {
-        updateCurrentWord();
-        // 更新单词状态
-        const targetWord = _.find(reviewWords, info => info.text === currentWord);
-        if (targetWord && currentWord) {
-            const newData = {...targetWord, status: 3};
-            // dispatch(updateWord(targetWord._id, newData));
-            request.patch('/api/updateWord', newData).then((res={})=>{
-                dispatch(updateWordAction(res))
-            }).catch((error)=>{
-                console.log(error)
-            });
-            setCannotWords([...cannotWords, currentWord])
-        }
-    }
 
     const handleCan = () => {
         updateCurrentWord();
         // 更新单词状态
         const targetWord = _.find(reviewWords, info => info.text === currentWord);
         if (targetWord && currentWord) {
-            const newData = {...targetWord, status: 2};
-            // dispatch(updateWord(targetWord._id, newData));
+            const newData = {...targetWord, count: targetWord.count + 1, updatedAt: new Date().getTime()};
             request.patch('/api/updateWord', newData).then((res={})=>{
                 dispatch(updateWordAction(res))
             }).catch((error)=>{
@@ -119,18 +83,18 @@ function App() {
 
     const handleAgain = () => {
         setTipVisible(false);
-        count = 0;
-        setCannotWords([]);
-        // dispatch(getWords({startTime, endTime, status: [3]}));
-        request.get('/api/getWords', {startTime, endTime, status: [3]}).then((res={})=>{
-            dispatch(getWordsAction(res));
+        times = 0;
+        request.get('/api/getWords', {}).then((res={})=>{
+            const wordsWithPriority = _.sortBy(res, word => {
+                const {count, updatedAt} = word;
+                const now = new Date().getTime();
+                const priority = (now - updatedAt) / Math.pow(3, count);
+                return -priority;
+            });
+            dispatch(getWordsAction(wordsWithPriority));
         }).catch((error)=>{
             console.log(error)
         });
-    };
-
-    const handleGotoStudy = () => {
-        setTipVisible(false);
     };
 
     const handleCancel = () => {
@@ -160,11 +124,10 @@ function App() {
                 </div>
                 <div className="review-container">
                     <div className='review-content'>
-                        <RangePicker style={{marginBottom: '10px'}} onChange={onChangeDate} />
                         {
-                            showEmpty || reviewWords.length === 0
+                            reviewWords.length === 0
                                 ? <div><Empty imageStyle={{height: '150px'}} description="No words" /></div>
-                                : <ReviewWord word={currentWord} handleCannot={handleCannot} handleCan={handleCan} />
+                                : <ReviewWord word={currentWord} handleCan={handleCan} />
                         }
                     </div>
                     <Modal
@@ -176,24 +139,13 @@ function App() {
                             </Button>,
                             <Button key="submit" type="primary" onClick={handleAgain}>
                             再复习一次
-                            </Button>,
-                            <Button
-                            key="link"
-                            type="link"
-                            onClick={handleGotoStudy}
-                            >
-                            <Link to={`/?startTime=${startTime}&endTime=${endTime}&status=3`}>再去学一次</Link>
-                            </Button>,
+                            </Button>
                         ]}
                     >
                         <div className="all-words-info">
                             <div>
                                 <p>本轮复习的单词有：</p>
                                 <p>{reviewWords.map(w => w.text).join(',')}</p>
-                            </div>
-                            <div>
-                                <p>本轮复习结束，其中不会的单词有：</p>
-                                <p>{cannotWords.join(',')}</p>
                             </div>
                         </div>
                     </Modal>

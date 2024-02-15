@@ -1,6 +1,5 @@
 import React, {PureComponent, Fragment} from 'react';
-import _ from 'lodash';
-import {Skeleton, Button} from 'antd';
+import {Button} from 'antd';
 import AudioPlayer from '../player';
 import examples from '../Card/examples_1';
 
@@ -14,7 +13,7 @@ const defaultState = {
     usAudio: null,
     commonInfo: null,
     sense1CommonInfo: null,
-    showWordInfo: false
+    targetInfo: {}
 };
 
 let audioInstances = [];
@@ -35,33 +34,54 @@ export default class ReviewWord extends PureComponent {
 
     requireInfo = (w) => {
         const word = w || this.props.word;
-        // 加载基本信息
-        import(`../../wordlist/${word}/common.js`).then(res => {
-            this.setState({
-                commonInfo: res.default
-            });
-        }).catch(err => {});
+        if (word) {
+            Promise.all([
+                import(`../../wordlist/${word}/common.js`),
+                import(`../../wordlist/${word}/list/sense1/senseCommon.js`),
+                import(`../../wordlist/${word}/audios/uk/${word}.mp3`),
+                import(`../../wordlist/${word}/audios/us/${word}.mp3`)
+            ])
+            .then(([module1, module2, module3, module4]) => {
+                
+                const dictExamplesAudios = [];
+                const dictExamplesImgs = [];
+                const dictExamplesTexts = [];
+                if (module2.default?.wordExamples?.length > 0) {
+                    for (let i = 0; i < module2.default?.wordExamples?.length; i++) {
+                        dictExamplesAudios.push(`${hostName}/audios/${word}_sense_1_example_${i}.mp3`);
+                        dictExamplesImgs.push(`${hostName}/images/${word}_sense_1_example_${i}.png`);
+                        dictExamplesTexts.push(module2.default?.wordExamples?.[i]);
+                    }
+                }
+                const chatGptExamplesAudios = [];
+                const chatGptExamplesImgs = [];
+                const chatGptExamplesTexts = [];
+                if (examples[`${word}_0`]) {
+                    for (let j = 0; j < 5; j++) {
+                        chatGptExamplesAudios.push(`${hostName}/audios/${word}_${j}.mp3`);
+                        chatGptExamplesImgs.push(`${hostName}/images/${word}_${j}.png`);
+                        chatGptExamplesTexts.push(examples[`${word}_${j}`]);
+                    }
+                }
+                const allExamplesAudios = [...dictExamplesAudios, ...chatGptExamplesAudios];
+                const allExamplesImgs = [...dictExamplesImgs, ...chatGptExamplesImgs];
+                const allExamplesTexts = [...dictExamplesTexts, ...chatGptExamplesTexts];
+                const targetIndex = Math.floor(Math.random() * allExamplesAudios?.length);
 
-        // 加载sense1基本信息
-        import(`../../wordlist/${word}/list/sense1/senseCommon.js`).then(res => {
-            this.setState({
-                sense1CommonInfo: res.default
+                this.setState({
+                    commonInfo: module1.default,
+                    sense1CommonInfo: module2.default,
+                    ukAudio: module3.default,
+                    usAudio: module4.default,
+                    targetInfo: {
+                        audio: allExamplesAudios[targetIndex],
+                        image: allExamplesImgs[targetIndex],
+                        text: allExamplesTexts[targetIndex]
+                    }
+                });
+                setTimeout(() => {this.playOneWordAudios();}, 500);
             });
-        }).catch(err => {});
-
-        // 加载英式读音音频
-        import(`../../wordlist/${word}/audios/uk/${word}.mp3`).then(res => {
-            this.setState({
-                ukAudio: res.default
-            });
-            this.audio = new Audio(res.default);
-        }).catch(err => {});
-        // 加载美式读音音频
-        import(`../../wordlist/${word}/audios/us/${word}.mp3`).then(res => {
-            this.setState({
-                usAudio: res.default
-            });
-        }).catch(err => {});
+        }
     }
 
     componentDidMount() {
@@ -88,17 +108,13 @@ export default class ReviewWord extends PureComponent {
         const {word} = this.props;
         const {
             ukAudio,
-            sense1CommonInfo
+            targetInfo
         } = this.state;
-
-        const exampleAudio = sense1CommonInfo?.wordExamples?.length > 0
-            ? `${hostName}/audios/${word}_sense_1_example_0.mp3`
-            : (examples[`${word}_0`] ? `${hostName}/audios/${word}_0.mp3` : '');
 
         const targetAudios = [
             ukAudio,
             `${hostName}/audios/${word}_sense_1_def.mp3`,
-            exampleAudio
+            targetInfo.audio
         ].filter(audio => !!audio);
         return targetAudios;
     }
@@ -134,7 +150,6 @@ export default class ReviewWord extends PureComponent {
                     this.setState({
                         currentAudio: null
                     });
-                    this.props.handleCannot();
                 }
             };
             audioInstances.push(audio);
@@ -152,11 +167,6 @@ export default class ReviewWord extends PureComponent {
         }
     }
 
-    handleCannot = () => {
-        this.setState({showWordInfo: true});
-        this.playOneWordAudios();
-    };
-
     handleCan = () => {
         this.props.handleCan();
     };
@@ -171,23 +181,8 @@ export default class ReviewWord extends PureComponent {
             commonInfo,
             sense1CommonInfo,
             currentAudio,
-            showWordInfo
+            targetInfo
         } = this.state;
-
-        let firstExample = sense1CommonInfo?.wordExamples?.[0];
-        let firstExampleAudio = '';
-        let firstExampleImage = '';
-        let firstExampleText = '';
-        if (firstExample) {
-            firstExampleAudio = `${hostName}/audios/${word}_sense_1_example_0.mp3`;
-            firstExampleImage = `${hostName}/images/${word}_sense_1_example_0.png`;
-            firstExampleText = firstExample;
-        }
-        else {
-            firstExampleAudio = examples[`${word}_0`] ? `${hostName}/audios/${word}_0.mp3` : '';
-            firstExampleImage = examples[`${word}_0`] ? `${hostName}/images/${word}_0.png` : '';
-            firstExampleText = examples[`${word}_0`];
-        }
 
         return (
             <div className='review-word-info'>
@@ -196,73 +191,62 @@ export default class ReviewWord extends PureComponent {
                         {word}
                     </div>
                 </div>
-                {
-                    showWordInfo
-                        ? (
-                            <Fragment>
-                                <div className='class-and-level'>
-                                    {commonInfo?.wordClass && <div className='word-class'>{commonInfo.wordClass}</div>}
-                                    {sense1CommonInfo?.wordLevel && <span className='word-level'>{sense1CommonInfo.wordLevel}</span>}
+                <Fragment>
+                    <div className='class-and-level'>
+                        {commonInfo?.wordClass && <div className='word-class'>{commonInfo.wordClass}</div>}
+                        {sense1CommonInfo?.wordLevel && <span className='word-level'>{sense1CommonInfo.wordLevel}</span>}
+                    </div>
+                    <div className='word-audio-and-sound-mark'>
+                        {
+                            ukAudio &&
+                                <div className='word-sound uk'>
+                                    <span className={`word-sound-type ${currentAudio === ukAudio ? 'current' : ''}`}>UK</span>
+                                    <AudioPlayer url={ukAudio} />
+                                    {commonInfo?.soundmarks?.uk && <div className='sound-mark sound-mark-uk'>{commonInfo?.soundmarks?.uk}</div>}
                                 </div>
-                                <div className='word-audio-and-sound-mark'>
-                                    {
-                                        ukAudio &&
-                                            <div className='word-sound uk'>
-                                                <span className={`word-sound-type ${currentAudio === ukAudio ? 'current' : ''}`}>UK</span>
-                                                <AudioPlayer url={ukAudio} />
-                                                {commonInfo?.soundmarks?.uk && <div className='sound-mark sound-mark-uk'>{commonInfo?.soundmarks?.uk}</div>}
-                                            </div>
-                                    }
-                                    {
-                                        usAudio &&
-                                            <div className='word-sound us'>
-                                                <span className='word-sound-type'>US</span>
-                                                <AudioPlayer url={usAudio} />
-                                                {commonInfo?.soundmarks?.us && <div className='sound-mark sound-mark-us'>{commonInfo?.soundmarks?.us}</div>}
-                                            </div>
-                                    }
+                        }
+                        {
+                            usAudio &&
+                                <div className='word-sound us'>
+                                    <span className='word-sound-type'>US</span>
+                                    <AudioPlayer url={usAudio} />
+                                    {commonInfo?.soundmarks?.us && <div className='sound-mark sound-mark-us'>{commonInfo?.soundmarks?.us}</div>}
                                 </div>
-                                <div className='word-sense-container'>
-                                    <div className='sense sense1' key={word}>
-                                        <div className='sense-info'>
-                                            {sense1CommonInfo?.wordDef &&
-                                                (
-                                                    <div className={`word-def ${currentAudio === `${hostName}/audios/${word}_sense_1_def.mp3` ? 'current' : ''}`}>
-                                                        <span className='def-audio'>
-                                                            <AudioPlayer url={`${hostName}/audios/${word}_sense_1_def.mp3`} />
-                                                        </span>
-                                                        {sense1CommonInfo.wordDef}
-                                                    </div>
-                                                )
-                                            }
-                                            <div id="card-container" className='word-example-list'>
-                                                <div className={`word-example-item ${currentAudio === firstExampleAudio ? 'current' : ''}`}>
-                                                    <div className='word-example-item-left'>
-                                                        <img className='img' src={firstExampleImage} />
-                                                    </div>
-                                                    <div className='word-example-item-right'>
-                                                        <span className='dic-example-audio'>
-                                                            <AudioPlayer url={firstExampleAudio} />
-                                                        </span>
-                                                        {firstExampleText}
-                                                    </div>
-                                                </div>
-                                            </div>
+                        }
+                    </div>
+                    <div className='word-sense-container'>
+                        <div className='sense sense1' key={word}>
+                            <div className='sense-info'>
+                                {sense1CommonInfo?.wordDef &&
+                                    (
+                                        <div className={`word-def ${currentAudio === `${hostName}/audios/${word}_sense_1_def.mp3` ? 'current' : ''}`}>
+                                            <span className='def-audio'>
+                                                <AudioPlayer url={`${hostName}/audios/${word}_sense_1_def.mp3`} />
+                                            </span>
+                                            {sense1CommonInfo.wordDef}
+                                        </div>
+                                    )
+                                }
+                                <div id="card-container" className='review-word-example-list'>
+                                    <div className={`word-example-item ${currentAudio === targetInfo.audio ? 'current' : ''}`}>
+                                        <div className='word-example-item-left'>
+                                            <img className='img' src={targetInfo.image} />
+                                        </div>
+                                        <div className='word-example-item-right'>
+                                            <span className='dic-example-audio'>
+                                                <AudioPlayer url={targetInfo.audio} />
+                                            </span>
+                                            {targetInfo.text}
                                         </div>
                                     </div>
                                 </div>
-                            </Fragment>
-                        )
-                        : <Skeleton active />
-                }
-                {
-                    !showWordInfo && (
-                        <div className='response'>
-                            <div className='btn-box'><Button style={{ width: '100%' }} type="primary" onClick={this.handleCan}>我会了</Button></div>
-                            <div className='btn-box'><Button style={{ width: '100%' }} type="primary" danger onClick={this.handleCannot}>我不会</Button></div>
+                            </div>
                         </div>
-                    )
-                }
+                    </div>
+                </Fragment>
+                <div className='response'>
+                    <div className='btn-box'><Button style={{ width: '100%' }} size='large' type="primary" onClick={this.handleCan}>复习完成</Button></div>
+                </div>
             </div>
         );
     }

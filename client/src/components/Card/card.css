@@ -24,6 +24,7 @@
   .opeartor {
     display: flex;
     height: 31px;
+    align-items: center;
   }
   .App-inner {
     display: flex;

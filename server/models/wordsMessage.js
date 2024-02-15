@@ -12,7 +12,15 @@ const WordsSchema = mongoose.Schema({
     status: {
         type: Number,
         default: 0,
-    }
+    },
+    count: {
+        type: Number,
+        default: 0,
+    },
+    testCount: {
+        type: Number,
+        default: 0,
+    },
 })
 
 var WordsMessage = mongoose.model('WordsMessage', WordsSchema);

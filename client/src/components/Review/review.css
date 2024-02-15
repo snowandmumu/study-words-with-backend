@@ -16,9 +16,9 @@
       .response {
         display: flex;
         justify-content: space-between;
-        margin-top: 20px;
+        margin-top: 10px;
         .btn-box {
-          width: 49%;
+          width: 100%;
         }
       }
       .review-word {
@@ -29,6 +29,9 @@
           font-size: 36px;
           display: flex;
           justify-content: space-between;
+        }
+        .review-word-example-list {
+          height: auto;
         }
       }
     }

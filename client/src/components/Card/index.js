@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Fragment } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { Anchor, Modal, DatePicker, Select, Menu, ConfigProvider, Result} from 'antd';
+import { Anchor, Modal, Menu, ConfigProvider, Result, InputNumber} from 'antd';
 import { TransactionOutlined, SmileOutlined, RedditOutlined, SoundOutlined } from '@ant-design/icons';
 import { Link } from "react-router-dom";
 import _ from 'lodash';
@@ -13,14 +13,6 @@ import {getFirstWord, useUpdateEffect} from '../../tools';
 import { getWordsAction, updateWordAction } from '../../actions/words';
 import request from '../../request/request';
 
-const { RangePicker } = DatePicker;
-const options = [
-    {label: '未学习', value: 0},
-    {label: '已学习', value: 1},
-    {label: '复习并通过', value: 2},
-    {label: '复习未通过', value: 3},
-    {label: '归档', value: 4},
-];
 const getNavItems = callback => ([
     {
       label: 'Study word',
@@ -53,9 +45,7 @@ function App() {
     const [viewVisible, setViewVisible] = useState(false);
     const [currentWord, setCurrentWord] = useState(localStorage.getItem('currentWord') || null);
     const [audiotEndTime, setAudiotEndTime] = useState((new Date()).getTime());
-    const [startTime, setStartTime] = useState(null);
-    const [endTime, setEndTime] = useState(null);
-    const [status, setStatus] = useState([0, 1, 2, 3, 4]);
+    const [count, setCount] = useState('');
     const [currentNav, setCurrentNav] = useState('word');
 
     useEffect(() => {
@@ -66,25 +56,7 @@ function App() {
                 scrollElement.scrollTo({ top: anchorElement.offsetTop + 2, behavior: "smooth" });
             }
         }, 500);
-        setTimeout(() => {
-            // 获取链接中的初始值
-            const search = window.location.search?.substring(1);
-            const paramsPairs = search?.split('&');
-            for (let i = 0; i < paramsPairs.length; i++) {
-                const item = paramsPairs[i];
-                const itemPair = item.split('=');
-                if (itemPair[0] === 'status') {
-                    setStatus([Number(itemPair[1])]);
-                }
-                if (itemPair[0] === 'startTime') {
-                    setStartTime(itemPair[1]);
-                }
-                if (itemPair[0] === 'endTime') {
-                    setEndTime(itemPair[1]);
-                }
-            }
-        }, 500);
-        // request.get('/api/getWords', {startTime, endTime, status}).then((res={})=>{
+        // request.get('/api/getWords', {count}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -92,7 +64,7 @@ function App() {
         //     console.log(error)
         // });
 
-        // request.patch('/api/updateWord', {_id: '65c21c5dab1098df757623d7', text: 'forge', status: 3, updatedAt: 1707368686205}).then((res={})=>{
+        // request.patch('/api/updateWord', {_id: '65c21c5dab1098df757623d7', text: 'forge', count: 3, updatedAt: 1707368686205}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
         // }).catch((error)=>{
@@ -120,7 +92,8 @@ function App() {
     useEffect(() => {
         // 加入ignore的原因是保证最终数据返回的顺序和请求的顺序一致，参考：https://juejin.cn/post/7225632029799776312
         let ignore = false;
-        request.get('/api/getWords', {startTime, endTime, status}).then((res={})=>{
+        const params = count === '' ? {} : {count: JSON.stringify({$eq: count})};
+        request.get('/api/getWords', params).then((res={})=>{
             if (!ignore) {
                 dispatch(getWordsAction(res));
                 const firstWords = getFirstWord(res);
@@ -132,7 +105,7 @@ function App() {
         return () => {
             ignore = true;
         }
-    }, [currentWord, startTime, endTime, status]);
+    }, [currentWord, count]);
 
     const words = useSelector((state) => {
         return state.words;
@@ -141,11 +114,7 @@ function App() {
     const handleWord = () => {
         const targetWord = _.find(words, info => info.text === currentWord);
         if (targetWord && currentWord) {
-            const newData = {...targetWord, updatedAt: (new Date()).getTime()};
-            if (newData.status === 0) {
-                newData.status = 1;
-            }
-            // dispatch(updateWord(targetWord._id, newData));
+            const newData = {...targetWord, updatedAt: (new Date()).getTime(), count: targetWord.count + 1};
             request.patch('/api/updateWord', newData).then((res={})=>{
                 dispatch(updateWordAction(res));
             }).catch((error)=>{
@@ -194,17 +163,8 @@ function App() {
         return item.updatedAt >= startTime && item.updatedAt <= endTime;
     });
 
-    const onChangeDate = (date) => {
-        const [startTime, endTime] = date;
-        const startTime2 = dayjs(startTime).valueOf();
-        const endTime2 = dayjs(endTime).valueOf() + 24 * 60 * 60 * 1000 - 1;
-        setStartTime(startTime2);
-        setEndTime(endTime2);
-    }
-    const dates = (startTime && endTime) ? [dayjs(Number(startTime)), dayjs(Number(endTime))] : null;
-
-    const onChangeStatus = status => {
-        setStatus(status);
+    const onChangeCount = count => {
+        setCount(count);
     };
 
     const onClickNav = (e) => {
@@ -223,7 +183,6 @@ function App() {
                 components: {
                     Menu: {
                         itemBg: 'none',
-                        // horizontalItemSelectedColor: 'orangered',
                         fontSize: 16,
                         iconSize: 18
                     }
@@ -235,15 +194,7 @@ function App() {
                 </div>
                 <div className="App">
                     <div className='opeartor'>
-                        <RangePicker onChange={onChangeDate} value={dates} />
-                        <Select
-                            mode="multiple"
-                            placeholder="Please select"
-                            value={status}
-                            onChange={onChangeStatus}
-                            options={options}
-                            style={{width: '470px'}}
-                        />
+                        查询学习过&nbsp;<InputNumber min={1} max={10} value={count} onChange={onChangeCount} />&nbsp;次的单词
                     </div>
                     <div className='App-inner'>
                         <div className='word-content'>
@@ -257,7 +208,7 @@ function App() {
                             }
                         </div>
                         <div className='time-line' id="time-line">
-                            {list.map(word => {
+                            {list.map((word, i) => {
                                 let id = null;
                                 const index = _.findIndex(firstWords, item => item.word === word);
                                 if (index > -1) {

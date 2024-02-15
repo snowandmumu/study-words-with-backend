@@ -10,7 +10,7 @@ import request from '../../request/request';
 
 const hostName = 'http://139.180.129.169';
 
-let count = 0;
+let times = 0;
 const getNavItems = () => ([
     {
       label: <Link to='/'>Study word</Link>,
@@ -44,10 +44,17 @@ function App() {
     const [tipVisible, setTipVisible] = useState(false);
 
     useEffect(() => {
-        request.get('/api/getWords', {}).then((res={})=>{
-            dispatch(getWordsAction(res));
+        request.get('/api/getWords', {count: JSON.stringify({$gt: 0})}).then((res={})=>{
+            const wordsWithPriority = _.sortBy(res, word => {
+                const {testCount, updatedAt} = word;
+                const now = new Date().getTime();
+                const priority = (now - updatedAt) / Math.pow(3, testCount);
+                return -priority;
+            });
+            dispatch(getWordsAction(wordsWithPriority));
             // 设置测试的目标单词
-            const testWords = res.filter(w => w.status === 2).map(i => i.text);
+            const testWords = wordsWithPriority.map(i => i.text);
+            
             setTestWords(testWords);
             // 设置测试的第一个单词
             if (testWords.length > 0) {
@@ -105,17 +112,23 @@ function App() {
         }
 
         const oldData = _.find(allWords, i => i.text === currentWord);
-        const newData = {...oldData, status: value === currentWord ? 4 : 3};
+        const newData = {...oldData};
+        if (value === currentWord) {
+            newData.testCount = newData.testCount + 1;
+        }
+        else {
+            newData.testCount = 0;
+        }
         request.patch('/api/updateWord', newData).then((res={})=>{
             dispatch(updateWordAction(res))
         }).catch((error)=>{
             console.log(error)
         });
 
-        if (count < testWords.length - 1) {
-            count++;
+        if (times < testWords.length - 1) {
+            times++;
             setTimeout(() => {
-                setCurrentWord(testWords[count]);
+                setCurrentWord(testWords[times]);
                 setResult(null);
             }, 800);
         }
