@@ -1,5 +1,5 @@
 import React, {PureComponent, Fragment} from 'react';
-import {Button} from 'antd';
+import {SoundOutlined} from '@ant-design/icons';
 import AudioPlayer from '../player';
 import examples from '../Card/examples_1';
 
@@ -79,7 +79,7 @@ export default class ReviewWord extends PureComponent {
                         text: allExamplesTexts[targetIndex]
                     }
                 });
-                setTimeout(() => {this.playOneWordAudios();}, 500);
+                // setTimeout(() => {this.playOneWordAudios();}, 500);
             });
         }
     }
@@ -150,6 +150,7 @@ export default class ReviewWord extends PureComponent {
                     this.setState({
                         currentAudio: null
                     });
+                    this.props.handleCan();
                 }
             };
             audioInstances.push(audio);
@@ -167,13 +168,10 @@ export default class ReviewWord extends PureComponent {
         }
     }
 
-    handleCan = () => {
-        this.props.handleCan();
-    };
-
     render() {
         const {
-            word
+            word,
+            times
         } = this.props;
         const {
             ukAudio,
@@ -189,6 +187,8 @@ export default class ReviewWord extends PureComponent {
                 <div className='review-word'>
                     <div className='review-word-text'>
                         {word}
+                        <span style={{fontSize: '14px', color: 'gray'}}>本次已复习{times}个单词</span>
+                        <div><SoundOutlined onClick={this.playOneWordAudios} /></div>
                     </div>
                 </div>
                 <Fragment>
@@ -228,13 +228,13 @@ export default class ReviewWord extends PureComponent {
                                     )
                                 }
                                 <div id="card-container" className='review-word-example-list'>
-                                    <div className={`word-example-item ${currentAudio === targetInfo.audio ? 'current' : ''}`}>
+                                    <div className={`word-example-item ${currentAudio === targetInfo.audio ? 'current' : ''}`} style={{marginBottom: '0'}}>
                                         <div className='word-example-item-left'>
                                             <img className='img' src={targetInfo.image} />
                                         </div>
                                         <div className='word-example-item-right'>
                                             <span className='dic-example-audio'>
-                                                <AudioPlayer url={targetInfo.audio} />
+                                                {targetInfo?.audio && <AudioPlayer url={targetInfo?.audio} />}
                                             </span>
                                             {targetInfo.text}
                                         </div>
@@ -244,9 +244,6 @@ export default class ReviewWord extends PureComponent {
                         </div>
                     </div>
                 </Fragment>
-                <div className='response'>
-                    <div className='btn-box'><Button style={{ width: '100%' }} size='large' type="primary" onClick={this.handleCan}>复习完成</Button></div>
-                </div>
             </div>
         );
     }

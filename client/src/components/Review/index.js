@@ -11,6 +11,7 @@ import {useUpdateEffect} from '../../tools';
 import request from '../../request/request';
 
 let times = 0;
+let times2 = 0;
 const getNavItems = () => ([
     {
       label: <Link to='/'>Study word</Link>,
@@ -68,6 +69,7 @@ function App() {
     useUpdateEffect(updateCurrentWord, [reviewWords]);
 
     const handleCan = () => {
+        times2++;
         updateCurrentWord();
         // 更新单词状态
         const targetWord = _.find(reviewWords, info => info.text === currentWord);
@@ -127,7 +129,7 @@ function App() {
                         {
                             reviewWords.length === 0
                                 ? <div><Empty imageStyle={{height: '150px'}} description="No words" /></div>
-                                : <ReviewWord word={currentWord} handleCan={handleCan} />
+                                : <ReviewWord times={times2} word={currentWord} handleCan={handleCan} />
                         }
                     </div>
                     <Modal

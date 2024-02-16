@@ -13,7 +13,7 @@ import { Message } from 'element-ui'
 // 创建一个独立的axios实例
 const service = axios.create({ 
     // 设置baseUr地址,如果通过proxy跨域可直接填写base地址
-    baseURL: 'http://139.180.129.169:5000',
+    baseURL: 'http://localhost:5000',
     // 定义统一的请求头部
     headers: {
         post: {

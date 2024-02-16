@@ -2,7 +2,7 @@
   "name": "mern-stack-client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://139.180.129.169:5000",
+  "proxy": "http://localhost:5000",
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
     "@material-ui/core": "^4.9.10",

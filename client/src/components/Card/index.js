@@ -13,6 +13,8 @@ import {getFirstWord, useUpdateEffect} from '../../tools';
 import { getWordsAction, updateWordAction } from '../../actions/words';
 import request from '../../request/request';
 
+let times = 0;
+
 const getNavItems = callback => ([
     {
       label: 'Study word',
@@ -56,22 +58,6 @@ function App() {
                 scrollElement.scrollTo({ top: anchorElement.offsetTop + 2, behavior: "smooth" });
             }
         }, 500);
-        // request.get('/api/getWords', {count}).then((res={})=>{
-        //     // 此处只接收成功数据，失败数据不返回
-        //     console.log(res);
-        // }).catch((error)=>{
-        //     // catch 可以不要，如果想要捕获异常，就加上去
-        //     console.log(error)
-        // });
-
-        // request.patch('/api/updateWord', {_id: '65c21c5dab1098df757623d7', text: 'forge', count: 3, updatedAt: 1707368686205}).then((res={})=>{
-        //     // 此处只接收成功数据，失败数据不返回
-        //     console.log(res);
-        // }).catch((error)=>{
-        //     // catch 可以不要，如果想要捕获异常，就加上去
-        //     console.log(error)
-        // });
-
         // request.post('/api/createWord', {text: 'xxxx'}).then((res={})=>{
         //     // 此处只接收成功数据，失败数据不返回
         //     console.log(res);
@@ -105,7 +91,7 @@ function App() {
         return () => {
             ignore = true;
         }
-    }, [currentWord, count]);
+    }, [count]);
 
     const words = useSelector((state) => {
         return state.words;
@@ -135,6 +121,7 @@ function App() {
     }
 
     const updatAudioEndTime = () => {
+        times++;
         setAudiotEndTime((new Date()).getTime());
     };
   
@@ -175,7 +162,7 @@ function App() {
 
     const navItems = getNavItems(onClickView);
 
-    const tipNode = <div className='tip-text'>{`Great, it's ${dayjs().format('YYYY/MM/DD')}, so let's start learning words!`}</div>
+    const tipNode = <div className='empty-tip-text'>{`Great, it's ${dayjs().format('YYYY/MM/DD')}, so let's start learning words!`}</div>
 
     return (
         <Fragment>
@@ -199,8 +186,8 @@ function App() {
                     <div className='App-inner'>
                         <div className='word-content'>
                             {cardVisible
-                                ? <RenderOneWord word={currentWord} updatAudioEndTime={updatAudioEndTime} />
-                                : (<div className='tip-box'><Result
+                                ? <RenderOneWord times={times} word={currentWord} updatAudioEndTime={updatAudioEndTime} />
+                                : (<div className='empty-tip-box'><Result
                                     icon={<SmileOutlined style={{fontSize: '120px'}} />}
                                     title="Cheng Hanqi"
                                     subTitle={tipNode}
@@ -233,7 +220,7 @@ function App() {
                         </div>
                         <Modal title="今日单词情况" open={viewVisible} onOk={onCloseView} onCancel={onCloseView}>
                             <div className="all-words-info">
-                                <p>今天学习的单词有<span>{todayWords.length}</span>个:</p>
+                                <p className='all-words-info-title'>今天学习的单词有<span>{todayWords.length}</span>个:</p>
                                 <div>{todayWords && todayWords.map(w => w.text).join(", ")}</div>
                             </div>
                         </Modal>

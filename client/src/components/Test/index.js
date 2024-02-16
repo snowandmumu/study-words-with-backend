@@ -1,8 +1,8 @@
 import React, { useState, useEffect, Fragment } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from "react-router-dom";
-import { DatePicker, Empty, Skeleton, Modal, Button, Menu, ConfigProvider, Radio, Space} from 'antd';
-import { TransactionOutlined, SmileOutlined, RedditOutlined } from '@ant-design/icons';
+import { Modal, Button, Menu, ConfigProvider, Radio, Space} from 'antd';
+import { TransactionOutlined, SmileOutlined, RedditOutlined, SoundOutlined } from '@ant-design/icons';
 import _ from 'lodash';
 import './test.css';
 import {getWordsAction, updateWordAction} from '../../actions/testWords';
@@ -54,15 +54,12 @@ function App() {
             dispatch(getWordsAction(wordsWithPriority));
             // 设置测试的目标单词
             const testWords = wordsWithPriority.map(i => i.text);
-            
+
             setTestWords(testWords);
             // 设置测试的第一个单词
             if (testWords.length > 0) {
                 const currentWord = testWords[0];
                 setCurrentWord(currentWord);
-                const audio = new Audio(`${hostName}/audios/${currentWord}_sense_1_def.mp3`);
-                audio.play();
-                setCurrentAudio(audio);
             }
         }).catch((error)=>{
             console.log(error)
@@ -79,16 +76,11 @@ function App() {
             import(`../../wordlist/${currentWord}/list/sense1/senseCommon.js`).then(res => {
                 const def = res.default.wordDef;
                 setCurrentWordDef(def);
-                // setTestVisible(true);
             }).catch(err => {});
 
             const randomWords = _.sampleSize(allWords.map(item => item.text), 3);
             const optionWords = _.shuffle(randomWords.concat([currentWord]));
             setOptionWords(optionWords);
-
-            const audio = new Audio(`${hostName}/audios/${currentWord}_sense_1_def.mp3`);
-            audio.play();
-            setCurrentAudio(audio);
         }
     }, [currentWord])
 
@@ -101,7 +93,9 @@ function App() {
     const onChangeOptions = e => {
         const value = e.target.value;
         setCurrentValue(e.target.value);
-        currentAudio.pause();
+        if (currentAudio) {
+            currentAudio.pause();
+        }
         if (value === currentWord) {
             setResult('Y');
             setCorrectWords([...correctWords, currentWord]);
@@ -141,7 +135,13 @@ function App() {
         setTipVisible(false);
     };
 
-    const resultClass = result ? (result === 'Y' ? 'result-green' : 'result-red') : ''; 
+    const playOneWordAudios = () => {
+        const audio = new Audio(`${hostName}/audios/${currentWord}_sense_1_def.mp3`);
+        audio.play();
+        setCurrentAudio(audio);
+    };
+
+    const resultClass = result ? (result === 'Y' ? 'test-result-green' : 'test-result-red') : ''; 
 
     return (
         <Fragment>
@@ -163,14 +163,18 @@ function App() {
                     <Menu style={{width: '700px', margin: '0 auto'}} onClick={onClickNav} selectedKeys={[currentNav]} mode="horizontal" items={navItems} />
                 </div>
                 <div className='test-container'>
-                    <div className='def'>{currentWordDef}</div>
-                    <div className={`words-options ${resultClass}`}>
+                    <div className='test-def'>
+                        <div className='test-def-audio'><SoundOutlined onClick={playOneWordAudios} /></div>
+                        {currentWordDef}
+                    </div>
+                    <div className={`test-words-options ${resultClass}`}>
                         <Radio.Group onChange={onChangeOptions} value={currentValue} size='large'>
                             <Space direction="vertical">
                                 {optionWords.map(word => <Radio value={word}>{word}</Radio>)}
                             </Space>
                         </Radio.Group>
                     </div>
+                    <div className='test-count'>本次已测试{times}个单词</div>
                 </div>
                 {tipVisible && <Modal
                     title="程瀚奇，恭喜你完成本轮测试，你的测试结果如下："

@@ -9,30 +9,42 @@
     border-radius: 8px;
     border: 1px solid #dddddd;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    .def {
-        margin-top: 6px;
-        margin-bottom: 10px;
-        font-size: 20px;
-        line-height: 1.5;
-        border-radius: 6px;
-        border: 1px solid #fff;
-        background-color: #fff;
-        padding: 12px;
-        display: flex;
-        align-items: center;
-    }
-    .words-options {
-        border: 2px solid #fff;
-        background-color: #fff;
-        padding: 16px 12px;
-        border-radius: 6px;
-    }
-    .result-green {
-        border: 2px solid green;
-        background-color: rgb(217, 244, 217);
-    }
-    .result-red {
-        border: 2px solid red;
-        background-color: rgba(235, 212, 212, 0.675);
-    }
+}
+.test-def {
+    margin-top: 6px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 1.5;
+    border-radius: 6px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+}
+.test-def-audio {
+    margin-right: 8px;
+}
+.test-words-options {
+    border: 2px solid #fff;
+    background-color: #fff;
+    padding: 16px 12px;
+    border-radius: 6px;
+}
+.test-result-green {
+    border: 2px solid green;
+    background-color: rgb(217, 244, 217);
+}
+.test-result-red {
+    border: 2px solid red;
+    background-color: rgba(235, 212, 212, 0.675);
+}
+.test-count {
+    border: 2px solid #fff;
+    background-color: #fff;
+    padding: 16px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    color: gray;
+    margin-top: 10px;
 }

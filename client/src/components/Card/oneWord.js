@@ -183,7 +183,8 @@ export default class RenderOneWord extends PureComponent {
 
     render() {
         const {
-            word
+            word,
+            times
         } = this.props;
         
         const {
@@ -199,6 +200,7 @@ export default class RenderOneWord extends PureComponent {
                 <div className='word'>
                     <div className='word-text'>
                         {word}
+                        <span style={{fontSize: '14px', color: 'gray'}}>本次已学习{times}个单词</span>
                         <div><SoundOutlined onClick={this.playOneWordAudios} /></div>
                     </div>
                 </div>
