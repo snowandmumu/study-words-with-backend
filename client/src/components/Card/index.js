@@ -177,7 +177,7 @@ function App() {
                 }}
             >
                 <div className='nav'>
-                    <Menu style={{width: '700px', margin: '0 auto'}} onClick={onClickNav} selectedKeys={[currentNav]} mode="horizontal" items={navItems} />
+                    <Menu style={{width: '800px', margin: '0 auto'}} onClick={onClickNav} selectedKeys={[currentNav]} mode="horizontal" items={navItems} />
                 </div>
                 <div className="App">
                     <div className='opeartor'>
