@@ -2,7 +2,7 @@ import React, { useState, useEffect, Fragment } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from "react-router-dom";
 import { Empty, Modal, Button, Menu, ConfigProvider} from 'antd';
-import { TransactionOutlined, SmileOutlined, RedditOutlined } from '@ant-design/icons';
+import { TransactionOutlined, SmileOutlined, RedditOutlined, LeftOutlined, RightOutlined } from '@ant-design/icons';
 import _ from 'lodash';
 import './review.css';
 import {getWordsAction, updateWordAction} from '../../actions/reviewWords';
@@ -35,19 +35,34 @@ function App() {
     const [tipVisible, setTipVisible] = useState(false);
     const [currentWord, setCurrentWord] = useState('');
     const [currentNav, setCurrentNav] = useState('review');
-
-    const reviewWords = useSelector((state) => {
-        return state.reviewWords;
-    });
+    const [preDisabled, setPreDisabled] = useState(false);
+    const [nextDisabled, setNextDisabled] = useState(false);
 
     const updateCurrentWord = () => {
         if (times < reviewWords.length) {
             const targetWord = reviewWords[times];
             setCurrentWord(targetWord?.text);
             times++;
+            setPreDisabled(false);
         }
         else {
             setTipVisible(true);
+            setNextDisabled(true);
+        }
+    }
+
+    const updateCurrentWord2 = () => {
+        if (times > 0 && currentWord !== reviewWords?.[0]?.text) {
+            const targetWord = reviewWords[times];
+            setCurrentWord(targetWord?.text);
+            times--;
+        }
+        else if (times === 0) {
+            const targetWord = reviewWords[times];
+            setCurrentWord(targetWord?.text);
+        }
+        else {
+            setPreDisabled(true);
         }
     }
 
@@ -66,17 +81,20 @@ function App() {
         setTipVisible(false);
     }, []);
 
+    const reviewWords = useSelector((state) => {
+        return state.reviewWords;
+    });
+
     useUpdateEffect(updateCurrentWord, [reviewWords]);
 
     const handleCan = () => {
-        times2++;
-        updateCurrentWord();
         // 更新单词状态
         const targetWord = _.find(reviewWords, info => info.text === currentWord);
         if (targetWord && currentWord) {
             const newData = {...targetWord, count: targetWord.count + 1, updatedAt: new Date().getTime()};
             request.patch('/api/updateWord', newData).then((res={})=>{
-                dispatch(updateWordAction(res))
+                dispatch(updateWordAction(res));
+                times2++;
             }).catch((error)=>{
                 console.log(error)
             });
@@ -107,6 +125,14 @@ function App() {
         setCurrentNav(e.key);
     };
 
+    const onHandlePre = () => {
+        updateCurrentWord2();
+    };
+
+    const onHandleNext = () => {
+        updateCurrentWord();
+    };
+
     const navItems = getNavItems();
 
     return (
@@ -132,6 +158,8 @@ function App() {
                                 : <ReviewWord times={times2} word={currentWord} handleCan={handleCan} />
                         }
                     </div>
+                    <div className={`review-pre-arrow ${currentWord === reviewWords?.[0]?.text ? 'review-pre-arrow-disabled' : ''}`} onClick={onHandlePre}><LeftOutlined /></div>
+                    <div className={`review-next-arrow ${nextDisabled ? 'review-next-arrow-disabled' : ''}`} onClick={onHandleNext}><RightOutlined /></div>
                     <Modal
                         title="恭喜你完成本轮复习哦"
                         open={tipVisible}
