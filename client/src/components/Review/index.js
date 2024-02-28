@@ -93,7 +93,7 @@ function App() {
         if (targetWord && currentWord) {
             const newData = {...targetWord, count: targetWord.count + 1, updatedAt: new Date().getTime()};
             request.patch('/api/updateWord', newData).then((res={})=>{
-                dispatch(updateWordAction(res));
+                // dispatch(updateWordAction(res));
                 times2++;
             }).catch((error)=>{
                 console.log(error)

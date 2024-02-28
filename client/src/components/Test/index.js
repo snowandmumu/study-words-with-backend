@@ -114,7 +114,7 @@ function App() {
             newData.testCount = 0;
         }
         request.patch('/api/updateWord', newData).then((res={})=>{
-            dispatch(updateWordAction(res))
+            // dispatch(updateWordAction(res))
         }).catch((error)=>{
             console.log(error)
         });
